@@ -2,60 +2,49 @@
 
 A structured, documented practice system for developing critical-listening skills in audio engineering, system evaluation, and automotive audio.
 
+## Training Progress
+
+**[View the chapter progress dashboard →](PROGRESS.md)**
+
+This repository documents measurable development through a chapter-based technical ear-training curriculum covering equalization, Mid/Side listening, reverberation, compression, expansion, distortion, and editing.
+
 ## Training Software
 
-**[View the standalone training software →](training-software/)**
+**[View the software and download information →](training-software/)**
 
-This repository includes the software tools used to generate controlled listening trials and document skill development. Keeping the programs beside the exercises makes both the training process and the technical work visible.
-
-Planned tools will support frequency recognition, level discrimination, compression identification, distortion recognition, imaging, and other critical-listening tasks.
+The standalone chapter applications are stored externally because each package is approximately 1.22 GB. GitHub contains the curriculum map, training method, session records, and interpretation of results.
 
 ## Purpose
 
-This repository will turn technical ear training into a repeatable engineering-development practice. Exercises connect audible observations to measurable audio concepts, including frequency, dynamics, distortion, spatial imaging, timbre, reverberation, and system behavior.
-
-The goal is not simply to identify what sounds different, but to describe:
+The project turns technical ear training into a repeatable engineering-development practice. The goal is not simply to identify what sounds different, but to describe:
 
 1. **What changed**
 2. **What was heard**
 3. **Why it may sound that way**
 4. **How the observation could be measured or verified**
 
-## Current Focus Areas
-
-- Frequency-band identification
-- Level and loudness discrimination
-- Compression and transient recognition
-- Distortion and nonlinear artifacts
-- Spatial imaging, depth, and localization
-- Reverberation and room characteristics
-- Loudspeaker and listening-position comparisons
-- Automotive-audio system evaluation
-
 ## Repository Guide
 
-- [`training-software/`](training-software/) — standalone programs used for technical ear training
-- [`exercises/`](exercises/) — repeatable ear-training exercises
-- [`LIBRARY.md`](LIBRARY.md) — concepts, listening references, and training resources
-- [`curriculum/ROADMAP.md`](curriculum/ROADMAP.md) — staged training progression
-- [`templates/SESSION_LOG.md`](templates/SESSION_LOG.md) — template for documenting practice
-- [`logs/`](logs/) — completed session records and progress evidence
+- [PROGRESS.md](PROGRESS.md) — central training dashboard
+- [chapters/](chapters/) — actual chapter curriculum and chapter-level reflections
+- [training-software/](training-software/) — software access and documentation
+- [templates/SESSION_LOG.md](templates/SESSION_LOG.md) — repeatable session template
+- [logs/](logs/) — dated results and progress evidence
+- [LIBRARY.md](LIBRARY.md) — technical listening concepts and references
 
 ## Practice Method
 
-Each session should use controlled comparisons whenever possible:
-
-- Change one variable at a time.
-- Match playback level when comparing processing or equipment.
-- Use consistent monitoring conditions.
+- Use comparable settings when measuring improvement.
+- Record a baseline before focusing on a score target.
+- Preserve incorrect judgments and recurring confusions.
 - Record confidence before checking the answer.
-- Document both correct and incorrect judgments.
+- Separate audible observations from technical interpretation.
 - Connect listening observations to measurements when practical.
 
 ## Portfolio Relevance
 
-This project extends my work from capturing and analyzing audio toward evaluating how systems reproduce it. The combination of standalone training software, structured exercises, documented results, and measurement checks demonstrates active development in critical listening, electroacoustics, DSP, loudspeaker evaluation, and automotive-audio tuning.
+The combination of structured software exercises, chapter-by-chapter results, honest error tracking, and technical reflection demonstrates active development in critical listening, DSP, audio-system evaluation, and automotive-audio tuning.
 
 ## Status
 
-Initial framework established. Training software, exercises, reference material, session results, and measurement-supported case studies will be added progressively.
+The chapter framework is established for the software modules currently available. Baseline training results are the next step.
