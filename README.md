@@ -2,6 +2,12 @@
 
 A structured, documented practice system for developing critical-listening skills in audio engineering, system evaluation, and automotive audio.
 
+## Starting Background
+
+**[Read my prior listening and ear-training experience →](PRIOR_EXPERIENCE.md)**
+
+I enter this curriculum with formal musical ear training, graduate audio-engineering education, professional studio exposure, and prior critical-listening and measurement work. This repository documents a new, systematic phase in which that experience is practiced through defined software chapters and measured over time.
+
 ## Training Progress
 
 **[View the chapter progress dashboard →](PROGRESS.md)**
@@ -25,6 +31,7 @@ The project turns technical ear training into a repeatable engineering-developme
 
 ## Repository Guide
 
+- [PRIOR_EXPERIENCE.md](PRIOR_EXPERIENCE.md) — musical, studio, research, and technical-listening background
 - [PROGRESS.md](PROGRESS.md) — central training dashboard
 - [chapters/](chapters/) — actual chapter curriculum and chapter-level reflections
 - [training-software/](training-software/) — software access and documentation
@@ -43,7 +50,7 @@ The project turns technical ear training into a repeatable engineering-developme
 
 ## Portfolio Relevance
 
-The combination of structured software exercises, chapter-by-chapter results, honest error tracking, and technical reflection demonstrates active development in critical listening, DSP, audio-system evaluation, and automotive-audio tuning.
+The combination of prior experience, structured software exercises, chapter-by-chapter results, honest error tracking, and technical reflection demonstrates active development in critical listening, DSP, audio-system evaluation, and automotive-audio tuning.
 
 ## Status
 
