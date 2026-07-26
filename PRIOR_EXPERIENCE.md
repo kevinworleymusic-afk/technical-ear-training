@@ -26,7 +26,7 @@ My intended professional direction can therefore be summarized as:
 
 ## Studio and Facility Experience
 
-- **Belmont-owned facilities:** I completed a studio-maintenance course with [Mike Porter](https://www.belmont.edu/profiles/mike-porter/), whose facilities work includes [34 Music Square East, Columbia Studio A, and the Quonset Hut](https://www.belmont.edu/curb/facilities/). My broader Belmont studio experience also included Ocean Way Nashville.
+- **Belmont-owned facilities:** I completed a studio-maintenance course with [Mike Porter](https://www.namm.org/library/oral-history/mike-porter/), a longtime Nashville engineer, studio technician, recording-studio historian, and former AES Central Region vice president. His career has included engineering at Woodland Sound Studio, technical work on major recording projects, Sound Stage Studios, Sony Pro Audio, and management of [34 Music Square East, Columbia Studio A, and the Quonset Hut](https://www.belmont.edu/curb/facilities/). My broader Belmont studio experience also included Ocean Way Nashville.
 - **[Ocean Way Nashville](https://oceanwaynashville.com/):** Studio contacts included [Joe Baldridge, Austin Atwood, Katelyn Prieboy, and Kaitlyn Walker](https://oceanwaynashville.com/pages/staff). The facility functions as both a commercial studio and a Belmont teaching environment; my work there included [Studio A](https://oceanwaynashville.com/pages/studio-a).
 - **[Starstruck Studios](https://www.starstruckentertainment.com/studios):** Studio contacts included [Torey Harding, Shawn Daughtery, Todd Tidwell, and Chris Ashburn](https://www.starstruckentertainment.com/team). My experience included the facility's [7.1.4 Dolby Atmos studio](https://www.starstruckentertainment.com/studios).
 
@@ -47,7 +47,7 @@ Additional experience included:
 - Critical-listening and ear-training exercises in Atmos rooms
 - A Dolby Atmos film-mixing course using Belmont's film-mixing suites
 - Listening decisions involving dialogue, music, effects, ambience, movement, and narrative focus
-- Multiple Dolby Atmos listening expos presented with Vintage King Audio in Nashville
+- [Vintage King Nashville's Dolby Atmos mixing classes](https://vintageking.com/blog/dolby-atmos-mixing-classes/) on September 27, 2022, followed by its immersive listening and industry event on September 28; the program was presented with Dolby, Avid, Focal, and Triad-Orbit and included Atmos workflow instruction, professional mix demonstrations, comparative loudspeaker listening, and industry networking ([event recap](https://vintageking.com/blog/vintage-kings-immersive-dolby-atmos-mixing-event/))
 - Several Belmont-led Atmos listening events
 - A [Dolby Atmos independent study](https://github.com/kevinworleymusic-afk/engineering-development-portfolio/blob/9057f94a58a0a1db379acd6eca6d6c351ce9c673/Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md) using a jazz ensemble and a 2L Cube-inspired microphone approach for 7.1.4 reproduction in Ocean Way Nashville Studio A
 
