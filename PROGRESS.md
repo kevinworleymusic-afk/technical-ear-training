@@ -6,21 +6,21 @@ This dashboard summarizes measurable progress through the available software cha
 
 | Chapter | Area | Baseline | Current | Best | Sessions | Status |
 |---|---|---:|---:|---:|---:|---|
-| 2 | Equalization | — | — | — | 0 | Not started |
-| 3A | Mid/Side listening | — | — | — | 0 | Not started |
-| 3B | Reverberation | — | — | — | 0 | Not started |
-| 4A | Compression | — | — | — | 0 | Not started |
-| 4B | Expansion | — | — | — | 0 | Not started |
-| 5 | Distortion | — | — | — | 0 | Not started |
-| 6 | Editing | — | — | — | 0 | Not started |
+| 2 | Equalization | — | — | — | 0 | No new session logged |
+| 3A | Mid/Side listening | — | — | — | 0 | No new session logged |
+| 3B | Reverberation | — | — | — | 0 | No new session logged |
+| 4A | Compression | — | — | — | 0 | No new session logged |
+| 4B | Expansion | — | — | — | 0 | No new session logged |
+| 5 | Distortion | — | — | — | 0 | No new session logged |
+| 6 | Editing | — | — | — | 0 | No new session logged |
 
 ## Practice Totals
 
 - **Total sessions:** 0
 - **Total training time:** 0
-- **Current chapter:** Not started
+- **Current chapter:** No new continuation-phase session logged
 - **Last session:** —
-- **Next target:** Establish a baseline in Chapter 2
+- **Next target:** Record the first comparable result for this continuation log in Chapter 2
 
 ## Progress Interpretation
 
