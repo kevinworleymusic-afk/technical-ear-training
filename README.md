@@ -52,6 +52,8 @@ The project turns technical ear training into a repeatable engineering-developme
 
 The combination of prior experience, structured software exercises, chapter-by-chapter results, honest error tracking, and technical reflection demonstrates active development in critical listening, DSP, audio-system evaluation, and automotive-audio tuning.
 
+**[View this work in the context of my main Technical Audio Engineering Portfolio →](https://github.com/kevinworleymusic-afk/engineering-development-portfolio)**
+
 ## Status
 
 The chapter framework is established for the software modules currently available. Baseline training results are the next step.
