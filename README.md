@@ -1,28 +1,28 @@
 # Technical Ear Training
 
-A structured, documented practice system for developing critical-listening skills in audio engineering, system evaluation, and automotive audio.
+A [structured, documented practice system](PROGRESS.md) for developing [critical-listening skills](PRIOR_EXPERIENCE.md) in [audio engineering and system evaluation](https://github.com/kevinworleymusic-afk/engineering-development-portfolio), with longer-term application to [automotive audio](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study).
 
 ## Starting Background
 
 **[Read my prior listening and ear-training experience →](PRIOR_EXPERIENCE.md)**
 
-I enter this curriculum with formal musical ear training, graduate audio-engineering education, professional studio exposure, and prior critical-listening and measurement work. This repository documents a new, systematic phase in which that experience is practiced through defined software chapters and measured over time.
+I enter this curriculum with [formal musical ear training, graduate audio-engineering education, professional studio exposure, and prior critical-listening and measurement work](PRIOR_EXPERIENCE.md). This repository documents a new, systematic phase in which that experience is practiced through [defined software chapters](chapters/) and [measured over time](PROGRESS.md).
 
 ## Training Progress
 
 **[View the chapter progress dashboard →](PROGRESS.md)**
 
-This repository documents measurable development through a chapter-based technical ear-training curriculum covering equalization, Mid/Side listening, reverberation, compression, expansion, distortion, and editing.
+This repository documents [measurable development](PROGRESS.md) through a [chapter-based technical ear-training curriculum](chapters/) covering equalization, Mid/Side listening, reverberation, compression, expansion, distortion, and editing.
 
 ## Training Software
 
 **[View the software and download information →](training-software/)**
 
-The standalone chapter applications are stored externally because each package is approximately 1.22 GB. GitHub contains the curriculum map, training method, session records, and interpretation of results.
+The [standalone chapter applications](training-software/) are stored externally because each package is approximately 1.22 GB. GitHub contains the [curriculum map](chapters/), [training method](templates/SESSION_LOG.md), [session records](logs/), and [interpretation of results](PROGRESS.md).
 
 ## Purpose
 
-The project turns technical ear training into a repeatable engineering-development practice. The goal is not simply to identify what sounds different, but to describe:
+The project turns [technical ear training](chapters/) into a [repeatable engineering-development practice](templates/SESSION_LOG.md). The goal is not simply to identify what sounds different, but to describe:
 
 1. **What changed**
 2. **What was heard**
@@ -41,19 +41,19 @@ The project turns technical ear training into a repeatable engineering-developme
 
 ## Practice Method
 
-- Use comparable settings when measuring improvement.
-- Record a baseline before focusing on a score target.
-- Preserve incorrect judgments and recurring confusions.
-- Record confidence before checking the answer.
-- Separate audible observations from technical interpretation.
-- Connect listening observations to measurements when practical.
+- Use [comparable settings](templates/SESSION_LOG.md) when measuring improvement.
+- Record a [baseline](PROGRESS.md) before focusing on a score target.
+- Preserve [incorrect judgments and recurring confusions](logs/).
+- Record [confidence](templates/SESSION_LOG.md) before checking the answer.
+- Separate [audible observations from technical interpretation](LIBRARY.md).
+- Connect listening observations to [measurements](https://github.com/kevinworleymusic-afk/engineering-development-portfolio#technical-evidence-at-a-glance) when practical.
 
 ## Portfolio Relevance
 
-The combination of prior experience, structured software exercises, chapter-by-chapter results, honest error tracking, and technical reflection demonstrates active development in critical listening, DSP, audio-system evaluation, and automotive-audio tuning.
+The combination of [prior experience](PRIOR_EXPERIENCE.md), [structured software exercises](chapters/), [chapter-by-chapter results](PROGRESS.md), [honest error tracking](logs/), and [technical reflection](LIBRARY.md) demonstrates active development in critical listening, [DSP and audio-system evaluation](https://github.com/kevinworleymusic-afk/engineering-development-portfolio#audio-dsp-and-software), and [automotive-audio tuning](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study).
 
 **[View this work in the context of my main Technical Audio Engineering Portfolio →](https://github.com/kevinworleymusic-afk/engineering-development-portfolio)**
 
 ## Status
 
-The chapter framework is established for the software modules currently available. Baseline training results are the next step.
+The [chapter framework](chapters/) is established for the [software modules currently available](training-software/). [Baseline training results](PROGRESS.md) are the next step.
