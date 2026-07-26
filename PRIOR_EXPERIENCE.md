@@ -4,6 +4,16 @@
 
 This curriculum is a new, systematically scored phase of my technical ear training, not my first experience with critical listening. The baseline results in this repository represent my starting point within this specific software program.
 
+## Disciplinary Focus
+
+My broader discipline is technical audio and critical listening, with a developing specialization in spatial perception, immersive reproduction, and in-cabin audio systems. This focus builds on my existing experience in music, recording, Atmos environments, spatial-audio research, acoustic measurement, and DSP.
+
+Spatial audio is not treated here as separate from core audio competencies. Reliable spatial evaluation depends on tonal balance, EQ, dynamics, distortion, reverberation, phase, timing, loudspeaker behavior, and room interaction. The chapter exercises develop those underlying skills while my longer-term work applies them to localization, image stability, envelopment, multichannel reproduction, and asymmetric automotive listening environments.
+
+My intended professional direction can therefore be summarized as:
+
+> **Spatial and perceptual audio evaluation for loudspeaker and automotive systems, supported by critical listening, acoustic measurement, and DSP.**
+
 ## Relevant Background
 
 | Area | Prior experience | Listening competencies |
