@@ -1,8 +1,10 @@
 # Standalone Training Software
 
-This folder contains the software used to run controlled technical ear-training exercises.
+**[Access the software download folder →](SOFTWARE_DOWNLOADS.md)**
 
-These tools are part of the project itself—not merely external resources. Each program should make a listening variable repeatable, recordable, and progressively more difficult so that improvement can be demonstrated over time.
+This folder documents the standalone software used to run controlled technical ear-training exercises. The large application files are stored externally, while GitHub shows how each tool is used and how the resulting skill development is documented.
+
+These tools are part of the training process. Each program should make a listening variable repeatable, recordable, and progressively more difficult so that improvement can be demonstrated over time.
 
 ## Planned Tools
 
@@ -15,11 +17,10 @@ These tools are part of the project itself—not merely external resources. Each
 | Imaging Trainer | Evaluate level-, delay-, and frequency-dependent image movement | Planned |
 | Automotive Evaluation Tool | Guide and record repeatable in-vehicle listening tests | Planned |
 
-## What Each Tool Should Include
+## What Each Tool Entry Should Include
 
-Each software folder should contain:
+Each documented tool should include:
 
-- The standalone application or source files
 - A short explanation of the listening skill
 - Setup and operating instructions
 - Supported audio formats and system requirements
@@ -27,6 +28,7 @@ Each software folder should contain:
 - Scoring or result output
 - Known limitations
 - A link to the corresponding exercise and example session log
+- A download link when redistribution is permitted
 
 ## Suggested Folder Pattern
 
@@ -34,13 +36,10 @@ Each software folder should contain:
 training-software/
 └── tool-name/
     ├── README.md
-    ├── source/
-    ├── releases/
-    ├── test-audio/
     └── examples/
 ```
 
-Only include audio that you created, own, or have permission to redistribute. Large compiled applications and audio packages can be linked through GitHub Releases when appropriate.
+Only link or redistribute software and audio when permitted by their owners and licensing terms.
 
 ## Development Principle
 
