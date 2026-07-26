@@ -49,7 +49,7 @@ I was taught the operation of different immersive loudspeaker layouts, signal fl
 
 Additional experience included:
 
-- Guided listening to completed immersive mixes
+- Guided listening to completed immersive mixes, including Dolby Atmos material from [Emily Ann Roberts' release catalog on Apple Music](https://music.apple.com/us/artist/emily-ann-roberts/1040553354); contemporary release coverage specifically documents a [Dolby Atmos version of *The Building* mixed by Derek Bason](https://www.lovinlyrics.com/2023/02/emily-ann-roberts-releases-building.html)
 - Critical-listening and ear-training exercises in Atmos rooms
 - A Dolby Atmos film-mixing course using Belmont's film-mixing suites
 - Listening decisions involving dialogue, music, effects, ambience, movement, and narrative focus
