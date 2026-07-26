@@ -61,7 +61,9 @@ These experiences developed familiarity with localization, image width and depth
 
 ## Spatial-Audio Research Exposure
 
-I participated as a listener in research exercises supporting other researchers' spatial-audio work. These included:
+I participated as a listener in research exercises supporting other researchers' spatial-audio work. This included participation in the listening study reported in Lisa LaFountaine, Raymond Plasse, and Dr. Wesley Bulla's [*Binaural Renderers Accuracy Comparison: Part I*](https://www.aes.org/e-lib/browse.cfm?elib=22327), presented in the Immersive & Spatial Audio program at the 155th AES Convention in 2023. The study used controlled critical-listening tasks to evaluate horizontal sound-source localization across binaural renderers.
+
+Additional research exercises included:
 
 - Headphone-based spatial reproduction
 - Image-localization and perceptual-listening tasks
