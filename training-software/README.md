@@ -1,46 +1,34 @@
-# Standalone Training Software
+# Standalone Ear Training Software
 
 **[Access the software download folder →](SOFTWARE_DOWNLOADS.md)**
 
-This folder documents the standalone software used to run controlled technical ear-training exercises. The large application files are stored externally, while GitHub shows how each tool is used and how the resulting skill development is documented.
+This project uses a single chapter-based technical ear-training software collection. Each standalone chapter application is approximately 1.22 GB, so the application files are stored externally while GitHub documents the curriculum and training results.
 
-These tools are part of the training process. Each program should make a listening variable repeatable, recordable, and progressively more difficult so that improvement can be demonstrated over time.
+## Available Software Modules
 
-## Planned Tools
-
-| Tool | Training purpose | Status |
+| Chapter | Module | Training area |
 |---|---|---|
-| Frequency Band Trainer | Identify boosted or attenuated frequency regions | Planned |
-| Level Difference Trainer | Detect and estimate small level changes | Planned |
-| Compression Trainer | Recognize changes in attack, release, and dynamic range | Planned |
-| Distortion Trainer | Identify clipping, saturation, and nonlinear artifacts | Planned |
-| Imaging Trainer | Evaluate level-, delay-, and frequency-dependent image movement | Planned |
-| Automotive Evaluation Tool | Guide and record repeatable in-vehicle listening tests | Planned |
+| 2 | TETpracticeEQ | Equalization |
+| 3 | TETlisteningMidSide | Mid/Side listening |
+| 3 | TETpracticeReverb | Reverberation |
+| 4 | TETpracticeComp | Compression |
+| 4 | TETpracticeExp | Expansion |
+| 5 | TETpracticeDist | Distortion |
+| 6 | TETpracticeEditing | Editing |
 
-## What Each Tool Entry Should Include
+Version numbers shown in the supplied software list range from 1.05.1 to 1.05.3. Chapter 1 was not visible and is therefore not documented yet.
 
-Each documented tool should include:
+## How the Software Is Documented
 
-- A short explanation of the listening skill
-- Setup and operating instructions
-- Supported audio formats and system requirements
-- Difficulty settings
-- Scoring or result output
-- Known limitations
-- A link to the corresponding exercise and example session log
-- A download link when redistribution is permitted
+GitHub records:
 
-## Suggested Folder Pattern
+- Chapter objectives
+- Baseline, current, and best results
+- Dated practice sessions
+- Common mistakes and audible cues
+- Chapter reflections
+- Connections to engineering applications
 
-```text
-training-software/
-└── tool-name/
-    ├── README.md
-    └── examples/
-```
+See the [chapter index](../chapters/) and [progress dashboard](../PROGRESS.md).
 
 Only link or redistribute software and audio when permitted by their owners and licensing terms.
-
-## Development Principle
-
-The tools should support controlled listening rather than hide the method. A portfolio reviewer should be able to understand what variable changed, how the trial was randomized, how the answer was scored, and how the software connects to the documented training results.
