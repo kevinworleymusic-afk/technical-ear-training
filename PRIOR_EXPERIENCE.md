@@ -2,23 +2,23 @@
 
 ## Context
 
-This curriculum is a new, systematically scored phase of my technical ear training, not my first experience with critical listening. The baseline results in this repository represent my starting point within this specific software program.
+This [curriculum](README.md) is a new, [systematically scored](PROGRESS.md) phase of my technical ear training, not my first experience with [critical listening](#critical-listener-qualification). The [baseline results](PROGRESS.md) in this repository represent my starting point within this specific [software program](training-software/).
 
 ## Critical-Listener Qualification
 
-Taken together, my formal ear training, jazz performance and ensemble work, music-education practice, graduate audio-engineering study, professional studio experience, controlled listening research, measurement-informed evaluation, and repeated work in stereo and immersive environments support describing me as a **trained and experienced critical listener**. Across these settings, I have repeatedly identified, compared, diagnosed, and communicated audible differences in pitch, timbre, balance, imaging, ambience, dynamics, frequency response, spatial localization, and system behavior.
+Taken together, my [formal ear training](README.md), [jazz performance and ensemble work](https://campus.kennesaw.edu/colleges-departments/arts/academics/music/areas-of-study/jazz/index.php), [music-education practice](#relevant-background), [graduate audio-engineering study](https://www.belmont.edu/academics/majors-programs/ms-audio-engineering/), [professional studio experience](#studio-and-facility-experience), [controlled listening research](#research-and-controlled-listening-exposure), [measurement-informed evaluation](https://github.com/kevinworleymusic-afk/engineering-development-portfolio#technical-evidence-at-a-glance), and repeated work in [stereo and immersive environments](#immersive-and-spatial-audio-exposure) support describing me as a **trained and experienced critical listener**. Across these settings, I have repeatedly identified, compared, diagnosed, and communicated audible differences in pitch, timbre, balance, imaging, ambience, dynamics, frequency response, spatial localization, and system behavior.
 
-This description does not claim uniformly expert detection thresholds in every technical-audio category. The purpose of this curriculum is to quantify and extend that established critical-listening foundation through repeatable exercises, scoring, error analysis, and documented improvement.
+This description does not claim uniformly expert detection thresholds in every technical-audio category. The purpose of this [curriculum](README.md) is to quantify and extend that established critical-listening foundation through [repeatable exercises](chapters/), [scoring](PROGRESS.md), [error analysis](logs/), and [documented improvement](PROGRESS.md).
 
 ## Disciplinary Focus
 
-My broader discipline is technical audio and critical listening, with a developing specialization in spatial perception, immersive reproduction, and in-cabin audio systems. This focus builds on my existing experience in music, recording, Atmos environments, spatial-audio research, acoustic measurement, and DSP.
+My broader discipline is [technical audio](https://github.com/kevinworleymusic-afk/engineering-development-portfolio) and [critical listening](README.md), with a developing specialization in [spatial perception and immersive reproduction](#immersive-and-spatial-audio-exposure) and [in-cabin audio systems](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study). This focus builds on my existing experience in [music](#relevant-background), [recording and Atmos environments](#studio-and-facility-experience), [spatial-audio research](#research-and-controlled-listening-exposure), [acoustic measurement](https://github.com/kevinworleymusic-afk/engineering-development-portfolio#technical-evidence-at-a-glance), and [DSP](https://github.com/kevinworleymusic-afk/engineering-development-portfolio#audio-dsp-and-software).
 
-Spatial audio is not treated here as separate from core audio competencies. Reliable spatial evaluation depends on tonal balance, EQ, dynamics, distortion, reverberation, phase, timing, loudspeaker behavior, and room interaction. The chapter exercises develop those underlying skills while my longer-term work applies them to localization, image stability, envelopment, multichannel reproduction, and asymmetric automotive listening environments.
+[Spatial audio](#immersive-and-spatial-audio-exposure) is not treated here as separate from core audio competencies. Reliable spatial evaluation depends on [tonal balance, EQ, dynamics, distortion, reverberation, phase, and timing](chapters/), along with [loudspeaker behavior and room interaction](https://github.com/kevinworleymusic-afk/engineering-development-portfolio/tree/main/Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis). The [chapter exercises](chapters/) develop those underlying skills while my [longer-term work](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study) applies them to localization, image stability, envelopment, multichannel reproduction, and asymmetric automotive listening environments.
 
 My intended professional direction can therefore be summarized as:
 
-> **Spatial and perceptual audio evaluation for loudspeaker and automotive systems, supported by critical listening, acoustic measurement, and DSP.**
+> **[Spatial and perceptual audio evaluation](#immersive-and-spatial-audio-exposure) for [loudspeaker and automotive systems](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study), supported by [critical listening](README.md), [acoustic measurement](https://github.com/kevinworleymusic-afk/engineering-development-portfolio#technical-evidence-at-a-glance), and [DSP](https://github.com/kevinworleymusic-afk/engineering-development-portfolio#audio-dsp-and-software).**
 
 ## Relevant Background
 
@@ -32,9 +32,9 @@ My intended professional direction can therefore be summarized as:
 
 ## Studio and Facility Experience
 
-- **Belmont-owned facilities:** I completed a short, introductory studio-maintenance course with [Mike Porter](https://www.namm.org/library/oral-history/mike-porter/), providing foundational exposure to the discipline rather than comprehensive maintenance training. Porter is a longtime Nashville engineer, studio technician, recording-studio historian, and former AES Central Region vice president. His career has included engineering at Woodland Sound Studio, technical work on major recording projects, Sound Stage Studios, Sony Pro Audio, and management of [34 Music Square East, Columbia Studio A, and the Quonset Hut](https://www.belmont.edu/curb/facilities/). My broader Belmont studio experience also included Ocean Way Nashville.
+- **[Belmont-owned facilities](https://www.belmont.edu/curb/facilities/):** I completed a short, introductory studio-maintenance course with [Mike Porter](https://www.namm.org/library/oral-history/mike-porter/), providing foundational exposure to the discipline rather than comprehensive maintenance training. Porter is a longtime Nashville engineer, studio technician, recording-studio historian, and former AES Central Region vice president. His career has included engineering at Woodland Sound Studio, technical work on major recording projects, Sound Stage Studios, Sony Pro Audio, and management of [34 Music Square East, Columbia Studio A, and the Quonset Hut](https://www.belmont.edu/curb/facilities/). My broader Belmont studio experience also included [Ocean Way Nashville](https://oceanwaynashville.com/).
 - **[Ocean Way Nashville](https://oceanwaynashville.com/) — 1200 17th Avenue South, Nashville, Tennessee:** My work experience extended across the facility's studio complex, including [Studio A](https://oceanwaynashville.com/pages/studio-a), [Studio B](https://oceanwaynashville.com/pages/studio-b), [Studio C (now The Cave)](https://oceanwaynashville.com/pages/studio-c), [Studio D](https://oceanwaynashville.com/pages/studio-d), and [The Lighthouse](https://oceanwaynashville.com/pages/the-lighthouse), along with their associated control rooms, tracking or production areas, isolation spaces, and lounges. Studio contacts included [Joe Baldridge, Austin Atwood, Katelyn Prieboy, and Kaitlyn Walker](https://oceanwaynashville.com/pages/staff). The facility functions as both a commercial studio and a Belmont teaching environment.
-- **[Starstruck Studios](https://www.starstruckentertainment.com/studios) — 40 Music Square West, Nashville, Tennessee:** My work experience included the facility's studio spaces: **The Gallery**; **The Pond**, with its **Cherry Room, Slate Room, and Pond Room** isolation spaces; the **7.1.4 Dolby Atmos Studio**; the **Mix Studio**; the **Broadcast Studio**; and the **Writer's Rooms**. The Gallery and Pond each include a dedicated control room. People I worked with at Starstruck included [Torey Harding, Shawn Daughtery, Todd Tidwell, and Chris Ashburn](https://www.starstruckentertainment.com/team), along with engineer and Dolby Atmos mixer [Derek Bason](https://www.lovinlyrics.com/2023/02/emily-ann-roberts-releases-building.html).
+- **[Starstruck Studios](https://www.starstruckentertainment.com/studios) — 40 Music Square West, Nashville, Tennessee:** My work experience included the facility's studio spaces: [**The Gallery**](https://www.starstruckentertainment.com/studios); [**The Pond**](https://www.starstruckentertainment.com/studios), with its [**Cherry Room, Slate Room, and Pond Room**](https://www.starstruckentertainment.com/studios) isolation spaces; the [**7.1.4 Dolby Atmos Studio**](https://www.starstruckentertainment.com/studios); the [**Mix Studio**](https://www.starstruckentertainment.com/studios); the [**Broadcast Studio**](https://www.starstruckentertainment.com/studios); and the [**Writer's Rooms**](https://www.starstruckentertainment.com/studios). The Gallery and Pond each include a dedicated control room. People I worked with at Starstruck included [Torey Harding, Shawn Daughtery, Todd Tidwell, and Chris Ashburn](https://www.starstruckentertainment.com/team), along with engineer and Dolby Atmos mixer [Derek Bason](https://www.lovinlyrics.com/2023/02/emily-ann-roberts-releases-building.html).
 
 ## Immersive and Spatial-Audio Exposure
 
@@ -45,23 +45,23 @@ My immersive experience includes repeated work and guided listening in:
 - [Belmont University's Dolby Atmos film-mixing suites](https://www.belmont.edu/curb/facilities/)
 - [Ocean Way Nashville Studio A](https://oceanwaynashville.com/pages/studio-a)
 
-I was taught the operation of different immersive loudspeaker layouts, signal flow, routing, monitoring, and multichannel playback. My primary practical experience was with 7.1.4 Dolby Atmos systems.
+I was taught the operation of [different immersive loudspeaker layouts, signal flow, routing, monitoring, and multichannel playback](https://github.com/kevinworleymusic-afk/engineering-development-portfolio/tree/main/Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study). My primary practical experience was with [7.1.4 Dolby Atmos systems](https://github.com/kevinworleymusic-afk/engineering-development-portfolio/blob/main/Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/Session-Layout.pdf).
 
 Additional experience included:
 
 - Guided listening to completed immersive mixes, including Dolby Atmos material from [Emily Ann Roberts' release catalog on Apple Music](https://music.apple.com/us/artist/emily-ann-roberts/1040553354); contemporary release coverage specifically documents a [Dolby Atmos version of *The Building* mixed by Derek Bason](https://www.lovinlyrics.com/2023/02/emily-ann-roberts-releases-building.html)
-- Critical-listening and ear-training exercises in Atmos rooms
-- A Dolby Atmos film-mixing course using Belmont's film-mixing suites
+- [Critical-listening and ear-training exercises](chapters/) in [Atmos rooms](#immersive-and-spatial-audio-exposure)
+- A Dolby Atmos film-mixing course using [Belmont's film-mixing suites](https://www.belmont.edu/curb/facilities/)
 - Listening decisions involving dialogue, music, effects, ambience, movement, and narrative focus
 - [Vintage King Nashville's Dolby Atmos mixing classes](https://vintageking.com/blog/dolby-atmos-mixing-classes/) on September 27, 2022, followed by its immersive listening and industry event on September 28; the program was presented with Dolby, Avid, Focal, and Triad-Orbit and included Atmos workflow instruction, professional mix demonstrations, comparative loudspeaker listening, and industry networking ([event recap](https://vintageking.com/blog/vintage-kings-immersive-dolby-atmos-mixing-event/))
 - [Mix Nashville: Immersive Music Production](https://www.mixonline.com/events/inside-mix-nashville-immersive-music-production) on May 20, 2023, hosted in conjunction with Belmont University and centered partly in Columbia Studio A; the event combined immersive-audio panels, technology demonstrations, professional mix playback, and listening sessions featuring leading engineers and producers including Dann Huff, David Leonard, F. Reid Shippen, Chuck Ainlay, Jeff Balding, Shani Gandhi, Matt McClure, Vance Powell, Mills Logan, Pete Lyman, and Will Kienzle
-- A [Dolby Atmos independent study](https://github.com/kevinworleymusic-afk/engineering-development-portfolio/blob/9057f94a58a0a1db379acd6eca6d6c351ce9c673/Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md) using a jazz ensemble and a 2L Cube-inspired microphone approach for 7.1.4 reproduction in Ocean Way Nashville Studio A
+- A [Dolby Atmos independent study](https://github.com/kevinworleymusic-afk/engineering-development-portfolio/blob/main/Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md) using a jazz ensemble and a 2L Cube-inspired microphone approach for 7.1.4 reproduction in Ocean Way Nashville Studio A
 
 These experiences developed familiarity with localization, image width and depth, envelopment, movement, spatial continuity, room contribution, microphone perspective, and multichannel reproduction.
 
 ## Research and Controlled-Listening Exposure
 
-I participated as a listener in several Belmont auditory-perception studies that were subsequently published through the Audio Engineering Society. My role was as a **listening-test participant**, not an author or co-author.
+I participated as a listener in several [Belmont auditory-perception studies](#research-and-controlled-listening-exposure) that were subsequently published through the [Audio Engineering Society](https://aes2.org/). My role was as a **listening-test participant**, not an author or co-author.
 
 Published studies in which I participated as a listener included:
 
@@ -81,12 +81,12 @@ My prior background provides broad musical, studio, immersive, and measurement-i
 
 This repository adds evidence through:
 
-- Repeatable software exercises
-- Baseline, current, and best scores
-- Chapter-by-chapter progression
-- Confidence and error tracking
-- Analysis of recurring perceptual confusions
-- Periodic links between listening observations and measurement
-- Application to loudspeaker, DSP, immersive, and automotive-audio evaluation
+- [Repeatable software exercises](chapters/)
+- [Baseline, current, and best scores](PROGRESS.md)
+- [Chapter-by-chapter progression](chapters/)
+- [Confidence and error tracking](logs/)
+- [Analysis of recurring perceptual confusions](logs/)
+- [Periodic links between listening observations and measurement](LIBRARY.md)
+- Application to [loudspeaker, DSP, immersive, and automotive-audio evaluation](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study)
 
 The objective is to make my existing listening experience more precise, repeatable, technically descriptive, and demonstrable.
