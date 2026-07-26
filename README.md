@@ -2,11 +2,11 @@
 
 A [structured, documented practice system](PROGRESS.md) for developing [critical-listening skills](PRIOR_EXPERIENCE.md) in [audio engineering and system evaluation](https://github.com/kevinworleymusic-afk/engineering-development-portfolio), with longer-term application to [automotive audio](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study).
 
-## Starting Background
+## Prior Training and Continued Development
 
 **[Read my prior listening and ear-training experience →](PRIOR_EXPERIENCE.md)**
 
-I began developing technical-listening skills through extensive independent practice on [SoundGym](https://www.soundgym.co/member/profile?m=byy1s26wj7u), producing a **high-level platform training record** documented by an SPI of **3,410,130**, **65 workouts**, **11,114 games**, and SoundGym's [**Diamond Ears Award**](https://www.soundgym.co/member/badges) as of July 26, 2026. I later studied [Jason Corey's *Audio Production and Critical Listening: Technical Ear Training* methodology](https://sites.google.com/a/umich.edu/jason-corey/technical-ear-training) in an academic course. This repository documents my continued Corey-based development through [defined software chapters](chapters/), [baseline testing and progress tracking](PROGRESS.md), and technical reflection, building on my broader [musical, educational, studio, research, and measurement background](PRIOR_EXPERIENCE.md).
+I began developing technical-listening skills through extensive independent practice on [SoundGym](https://www.soundgym.co/member/profile?m=byy1s26wj7u), producing a **high-level platform training record** documented by an SPI of **3,410,130**, **65 workouts**, **11,114 games**, and SoundGym's [**Diamond Ears Award**](https://www.soundgym.co/member/badges) as of July 26, 2026. I later learned and practiced [Jason Corey's *Audio Production and Critical Listening: Technical Ear Training* methodology](https://sites.google.com/a/umich.edu/jason-corey/technical-ear-training) in an academic course. This repository is **continued execution of that previously established course-based training**, using [defined software chapters](chapters/), [newly documented comparison points and progress tracking](PROGRESS.md), and technical reflection to extend my broader [musical, educational, studio, research, and measurement background](PRIOR_EXPERIENCE.md). It does not represent my first exposure to or first use of the program.
 
 ## Training Progress
 
@@ -42,7 +42,7 @@ The project turns [technical ear training](chapters/) into a [repeatable enginee
 ## Practice Method
 
 - Use [comparable settings](templates/SESSION_LOG.md) when measuring improvement.
-- Record a [baseline](PROGRESS.md) before focusing on a score target.
+- Record a new, comparable [documentation baseline](PROGRESS.md) for this continuation phase before focusing on a score target.
 - Preserve [incorrect judgments and recurring confusions](logs/).
 - Record [confidence](templates/SESSION_LOG.md) before checking the answer.
 - Separate [audible observations from technical interpretation](LIBRARY.md).
@@ -56,4 +56,4 @@ The combination of [prior experience](PRIOR_EXPERIENCE.md), [structured software
 
 ## Status
 
-The [chapter framework](chapters/) is established for the [software modules currently available](training-software/). [Baseline training results](PROGRESS.md) are the next step.
+The [chapter framework](chapters/) is established for continued use of the [software modules currently available](training-software/). The next step is to record [new comparable results](PROGRESS.md) from this continuation phase.
