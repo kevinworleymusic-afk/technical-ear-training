@@ -61,16 +61,19 @@ These experiences developed familiarity with localization, image width and depth
 
 ## Spatial-Audio Research Exposure
 
-I participated as a listener in research exercises supporting other researchers' spatial-audio work. This included participation in the listening study reported in Lisa LaFountaine, Raymond Plasse, and Dr. Wesley Bulla's [*Binaural Renderers Accuracy Comparison: Part I*](https://www.aes.org/e-lib/browse.cfm?elib=22327), presented in the Immersive & Spatial Audio program at the 155th AES Convention in 2023. The study used controlled critical-listening tasks to evaluate horizontal sound-source localization across binaural renderers.
+I participated as a listener in **unpublished** research and classroom exercises supporting spatial-audio and auditory-perception work at Belmont. None of the published papers linked below should be read as containing my data or listing me as a study contributor; they are included only to document closely related research areas pursued by faculty whose listening work I encountered.
 
-Additional research exercises included:
+My listening exercises included:
 
-- Headphone-based spatial reproduction
-- Image-localization and perceptual-listening tasks
-- Loudspeaker-based exercises in an anechoic chamber
-- Controlled evaluation of directional and spatial cues with room reflections minimized
+- Headphone-based spatial reproduction and binaural-renderer evaluation
+- Horizontal image-localization and perceptual-listening tasks related in subject to Lisa LaFountaine, Raymond Plasse, and Dr. Wesley Bulla's [*Binaural Renderers Accuracy Comparison: Part I*](https://www.aes.org/e-lib/browse.cfm?elib=22327)
+- Loudspeaker-based directional and spatial-cue exercises in an anechoic chamber, with room reflections minimized
+- Immersive-music attribute and affective-response exercises related in subject to Sungyoung Kim, Dr. Doyuen Ko, and Will Howie's [*Validation of a Neural Network Clustering Model for Affective Response to Immersive Music*](https://www.aes.org/e-lib/browse.cfm?elib=22316)
+- Auditory-perception exercises involving frequency range and added tonal components, related in subject to Zachary Miller, Dr. Wesley Bulla, and Nick Bilski's [*Limits of the Cochlear Bandpass*](https://www.aes.org/e-lib/browse.cfm?elib=22317)
 
-I also completed a [study of trained listeners' detection of frequency-response boosts through loudspeakers versus headphones](https://github.com/kevinworleymusic-afk/engineering-development-portfolio/blob/9057f94a58a0a1db379acd6eca6d6c351ce9c673/Projects/Technical-Audio-and-Research/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/README.md). Together, these activities provided exposure to both research participation and the design and interpretation of critical-listening work.
+I also completed an **unpublished** [study of trained listeners' detection of frequency-response boosts through loudspeakers versus headphones](https://github.com/kevinworleymusic-afk/engineering-development-portfolio/blob/9057f94a58a0a1db379acd6eca6d6c351ce9c673/Projects/Technical-Audio-and-Research/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/README.md). This was separate from the published 2024 AES paper *Headphones vs. Loudspeakers: Finding the More Effective Monitoring System*.
+
+Together, these activities provided exposure to controlled listening, research participation, spatial and tonal perception, and the design and interpretation of critical-listening work.
 
 ## What This Project Adds
 
