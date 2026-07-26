@@ -59,7 +59,7 @@ Additional experience included:
 
 These experiences developed familiarity with localization, image width and depth, envelopment, movement, spatial continuity, room contribution, microphone perspective, and multichannel reproduction.
 
-## Spatial-Audio Research Exposure
+## Research and Controlled-Listening Exposure
 
 I participated as a listener in **unpublished** research and classroom exercises supporting spatial-audio and auditory-perception work at Belmont. None of the published papers linked below should be read as containing my data or listing me as a study contributor; they are included only to document closely related research areas pursued by faculty whose listening work I encountered.
 
@@ -70,6 +70,7 @@ My listening exercises included:
 - Loudspeaker-based directional and spatial-cue exercises in an anechoic chamber, with room reflections minimized
 - Immersive-music attribute and affective-response exercises related in subject to Sungyoung Kim, Dr. Doyuen Ko, and Will Howie's [*Validation of a Neural Network Clustering Model for Affective Response to Immersive Music*](https://www.aes.org/e-lib/browse.cfm?elib=22316)
 - Auditory-perception exercises involving frequency range and added tonal components, related in subject to Zachary Miller, Dr. Wesley Bulla, and Nick Bilski's [*Limits of the Cochlear Bandpass*](https://www.aes.org/e-lib/browse.cfm?elib=22317)
+- Drum-track listening exercises involving phase alignment and polarity detection, related in subject to Alek Weidman, John Sweeney, and Dr. Wesley Bulla's [*Detection of Phase Alignment and Polarity in Drum Tracks*](https://www.aes.org/e-lib/browse.cfm?elib=22248)
 
 I also completed an **unpublished** [study of trained listeners' detection of frequency-response boosts through loudspeakers versus headphones](https://github.com/kevinworleymusic-afk/engineering-development-portfolio/blob/9057f94a58a0a1db379acd6eca6d6c351ce9c673/Projects/Technical-Audio-and-Research/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/README.md). This was separate from the published 2024 AES paper *Headphones vs. Loudspeakers: Finding the More Effective Monitoring System*.
 
