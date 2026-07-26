@@ -68,18 +68,26 @@ This work reinforced attention to:
 
 ## Immersive Audio and Multichannel Listening
 
-My prior immersive-audio experience includes repeated time in multiple Dolby Atmos recording and listening environments. These included the Atmos listening space in REM Studio B at Belmont University, the Dolby Atmos listening room at Starstruck Entertainment, and Ocean Way Nashville Studio A during a graduate independent study.
+My prior immersive-audio experience includes repeated time in multiple Dolby Atmos recording, mixing, and listening environments. These included the Atmos listening space in REM Studio B at Belmont University, the Dolby Atmos listening room at Starstruck Entertainment, Belmont University's Dolby Atmos film-mixing suites, and Ocean Way Nashville Studio A during a graduate independent study.
 
-In these environments, I was taught how the room systems operated, including their loudspeaker layouts, signal flow, routing, monitoring, and approaches to multichannel playback. Over time, I used the rooms for guided listening with completed mixes as well as critical-listening and ear-training exercises. This gave me opportunities to compare how musical elements, ambience, image placement, and tonal balance behaved across immersive loudspeaker systems rather than encountering Atmos only as an abstract format.
+In these environments, I was taught how different immersive loudspeaker-layout types were configured and how the room systems operated, including signal flow, routing, monitoring, and approaches to multichannel playback. Although I was introduced to multiple layout types, the primary systems used in my training and project work were 7.1.4 Dolby Atmos configurations.
+
+Over time, I used these rooms for guided listening with completed mixes as well as critical-listening and ear-training exercises. This gave me opportunities to compare how musical elements, dialogue, effects, ambience, image placement, and tonal balance behaved across immersive loudspeaker systems rather than encountering Atmos only as an abstract format.
+
+I also completed a film-mixing course in Dolby Atmos using Belmont University's Atmos film-mixing suites. That coursework provided experience listening and making decisions in an audiovisual context, where dialogue, music, sound effects, spatial movement, narrative focus, and translation must function together within an immersive mix.
+
+Beyond coursework and studio access, I attended multiple Dolby Atmos listening expos presented with Vintage King Audio in Nashville, along with several Belmont-led Atmos listening events. These events broadened my exposure to completed immersive work, professional playback environments, system demonstrations, and different approaches to spatial presentation.
 
 My graduate independent study centered on Dolby Atmos recording and reproduction. The project used a jazz ensemble and a 2L Cube-inspired microphone approach, with the resulting work organized for a 7.1.4 listening environment in Ocean Way Nashville Studio A.
 
 Together, these experiences provided practical exposure to:
 
 - Listening within loudspeaker-based multichannel environments rather than only stereo or headphones
+- Understanding multiple immersive layout types, with primary experience in 7.1.4 Atmos systems
 - Vertical, lateral, and front-to-back spatial relationships
-- Image localization, width, depth, envelopment, and continuity
-- Evaluating immersive mixes through repeated, focused listening
+- Image localization, width, depth, envelopment, movement, and continuity
+- Evaluating immersive music and film mixes through repeated, focused listening
+- Balancing dialogue, music, effects, ambience, and narrative focus in a film-mixing context
 - The relationship between microphone placement and reproduced spatial perspective
 - Phase relationships and arrival-time differences across a multichannel capture
 - Room acoustics as both part of the recorded event and part of the monitoring environment
@@ -90,7 +98,7 @@ Together, these experiences provided practical exposure to:
 
 The independent study and related listening work also involved research into immersive formats, loudspeaker layouts, spatial audio, psychoacoustics, binaural reproduction, and the way listeners interpret directional and environmental cues.
 
-This experience established meaningful familiarity with immersive recording and critical listening in several professional and educational Atmos environments. It did not make every aspect of immersive production or system tuning automatic; instead, it gave me a practical foundation for evaluating localization, spatial balance, room contribution, and reproduction quality. Those competencies are relevant to automotive audio, where multiple loudspeakers, asymmetric listening positions, reflections, delay, and psychoacoustic processing all influence the perceived sound field.
+This experience established meaningful familiarity with immersive recording, film mixing, and critical listening across several professional and educational Atmos environments. It did not make every aspect of immersive production or system tuning automatic; instead, it gave me a practical foundation for evaluating localization, spatial balance, movement, room contribution, and reproduction quality. Those competencies are relevant to automotive audio, where multiple loudspeakers, asymmetric listening positions, reflections, delay, and psychoacoustic processing all influence the perceived sound field.
 
 ## Research and Technical Evaluation
 
