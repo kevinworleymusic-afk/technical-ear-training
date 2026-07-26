@@ -68,23 +68,29 @@ This work reinforced attention to:
 
 ## Immersive Audio and Multichannel Listening
 
-My prior immersive-audio experience includes a graduate independent study centered on Dolby Atmos recording and reproduction. The project was conducted in Ocean Way Nashville Studio A using a jazz ensemble and a 2L Cube-inspired microphone approach, with the resulting work organized for a 7.1.4 listening environment.
+My prior immersive-audio experience includes repeated time in multiple Dolby Atmos recording and listening environments. These included the Atmos listening space in REM Studio B at Belmont University, the Dolby Atmos listening room at Starstruck Entertainment, and Ocean Way Nashville Studio A during a graduate independent study.
 
-That experience provided practical exposure to:
+In these environments, I was taught how the room systems operated, including their loudspeaker layouts, signal flow, routing, monitoring, and approaches to multichannel playback. Over time, I used the rooms for guided listening with completed mixes as well as critical-listening and ear-training exercises. This gave me opportunities to compare how musical elements, ambience, image placement, and tonal balance behaved across immersive loudspeaker systems rather than encountering Atmos only as an abstract format.
 
-- Listening within a loudspeaker-based multichannel environment rather than only stereo or headphones
+My graduate independent study centered on Dolby Atmos recording and reproduction. The project used a jazz ensemble and a 2L Cube-inspired microphone approach, with the resulting work organized for a 7.1.4 listening environment in Ocean Way Nashville Studio A.
+
+Together, these experiences provided practical exposure to:
+
+- Listening within loudspeaker-based multichannel environments rather than only stereo or headphones
 - Vertical, lateral, and front-to-back spatial relationships
 - Image localization, width, depth, envelopment, and continuity
+- Evaluating immersive mixes through repeated, focused listening
 - The relationship between microphone placement and reproduced spatial perspective
 - Phase relationships and arrival-time differences across a multichannel capture
 - Room acoustics as both part of the recorded event and part of the monitoring environment
 - The interaction between direct sound, ambience, and perceived immersion
-- Multichannel session layout, routing, monitoring, and documentation
-- Evaluating whether an immersive presentation feels natural and spatially coherent
+- Multichannel speaker layouts, signal flow, routing, monitoring, and session organization
+- Evaluating whether an immersive presentation feels natural, balanced, and spatially coherent
+- Comparing listening impressions across different Atmos-capable rooms
 
-The independent study also involved research into immersive formats, loudspeaker layouts, spatial audio, psychoacoustics, binaural reproduction, and the way listeners interpret directional and environmental cues.
+The independent study and related listening work also involved research into immersive formats, loudspeaker layouts, spatial audio, psychoacoustics, binaural reproduction, and the way listeners interpret directional and environmental cues.
 
-This experience established meaningful familiarity with immersive recording and critical listening in a professional Atmos-capable environment. It did not make every aspect of immersive production or system tuning automatic; instead, it gave me a practical foundation for evaluating localization, spatial balance, room contribution, and reproduction quality. Those competencies are relevant to automotive audio, where multiple loudspeakers, asymmetric listening positions, reflections, delay, and psychoacoustic processing all influence the perceived sound field.
+This experience established meaningful familiarity with immersive recording and critical listening in several professional and educational Atmos environments. It did not make every aspect of immersive production or system tuning automatic; instead, it gave me a practical foundation for evaluating localization, spatial balance, room contribution, and reproduction quality. Those competencies are relevant to automotive audio, where multiple loudspeakers, asymmetric listening positions, reflections, delay, and psychoacoustic processing all influence the perceived sound field.
 
 ## Research and Technical Evaluation
 
