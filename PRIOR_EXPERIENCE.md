@@ -19,6 +19,25 @@ This background developed experience with:
 - Listening within live ensemble contexts
 - Translating an audible result into musical language
 
+## Music Education as Listening Preparation
+
+Music education required more than recognizing musical material for my own performance. It also required listening diagnostically: identifying what was happening across an ensemble, determining which musical element needed attention, and translating that judgment into useful feedback for another performer.
+
+Relevant transferable competencies include:
+
+- Detecting pitch and intonation problems within individual parts and ensembles
+- Evaluating balance and blend across instruments or sections
+- Recognizing rhythmic, articulation, phrasing, and ensemble-timing inconsistencies
+- Distinguishing individual instrumental timbres within a combined sound
+- Following multiple musical lines while maintaining an overall perspective
+- Comparing an audible result with an intended musical or score-based reference
+- Describing listening observations in language that supports corrective action
+- Reassessing the result after a rehearsal adjustment or instructional intervention
+
+Student teaching and classroom experience also strengthened the need to make listening judgments efficiently, prioritize the most consequential issue, and communicate it at an appropriate level for the performer.
+
+These competencies provide a meaningful foundation for technical ear training because both activities involve focused attention, comparison, diagnosis, and repeatable communication about sound. However, music-education experience does not by itself establish technical thresholds for identifying EQ frequencies, dynamics settings, distortion, reverberation, or editing artifacts. The scored exercises in this repository are intended to measure and develop those more specialized abilities directly.
+
 ## Audio Engineering and Critical Listening
 
 I later completed a Master of Science in Audio Engineering Technology at Belmont University. Graduate study and production work expanded listening from primarily musical judgments toward recording, processing, reproduction, and technical evaluation.
