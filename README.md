@@ -6,7 +6,7 @@ A [structured, documented practice system](PROGRESS.md) for developing [critical
 
 **[Read my prior listening and ear-training experience →](PRIOR_EXPERIENCE.md)**
 
-I enter this curriculum with [formal musical ear training, graduate audio-engineering education, professional studio exposure, and prior critical-listening and measurement work](PRIOR_EXPERIENCE.md). This repository documents a new, systematic phase in which that experience is practiced through [defined software chapters](chapters/) and [measured over time](PROGRESS.md).
+I enter this curriculum with [formal musical ear training, graduate audio-engineering education, professional studio exposure, and prior critical-listening and measurement work](PRIOR_EXPERIENCE.md). My prior quantified practice includes a [public SoundGym profile](https://www.soundgym.co/member/profile?m=byy1s26wj7u) documenting an SPI of **3,410,130**, **65 workouts**, **11,114 games**, and a **Diamond Ears Award** as of July 26, 2026. This repository documents a new, systematic phase in which that experience is practiced through [defined software chapters](chapters/) and [measured over time](PROGRESS.md).
 
 ## Training Progress
 
