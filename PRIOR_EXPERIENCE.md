@@ -66,6 +66,26 @@ This work reinforced attention to:
 - Communication about audible results
 - Consistency within professional studio workflows
 
+## Immersive Audio and Multichannel Listening
+
+My prior immersive-audio experience includes a graduate independent study centered on Dolby Atmos recording and reproduction. The project was conducted in Ocean Way Nashville Studio A using a jazz ensemble and a 2L Cube-inspired microphone approach, with the resulting work organized for a 7.1.4 listening environment.
+
+That experience provided practical exposure to:
+
+- Listening within a loudspeaker-based multichannel environment rather than only stereo or headphones
+- Vertical, lateral, and front-to-back spatial relationships
+- Image localization, width, depth, envelopment, and continuity
+- The relationship between microphone placement and reproduced spatial perspective
+- Phase relationships and arrival-time differences across a multichannel capture
+- Room acoustics as both part of the recorded event and part of the monitoring environment
+- The interaction between direct sound, ambience, and perceived immersion
+- Multichannel session layout, routing, monitoring, and documentation
+- Evaluating whether an immersive presentation feels natural and spatially coherent
+
+The independent study also involved research into immersive formats, loudspeaker layouts, spatial audio, psychoacoustics, binaural reproduction, and the way listeners interpret directional and environmental cues.
+
+This experience established meaningful familiarity with immersive recording and critical listening in a professional Atmos-capable environment. It did not make every aspect of immersive production or system tuning automatic; instead, it gave me a practical foundation for evaluating localization, spatial balance, room contribution, and reproduction quality. Those competencies are relevant to automotive audio, where multiple loudspeakers, asymmetric listening positions, reflections, delay, and psychoacoustic processing all influence the perceived sound field.
+
 ## Research and Technical Evaluation
 
 Prior projects connected listening judgments with acoustics and measurement:
