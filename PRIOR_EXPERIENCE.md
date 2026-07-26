@@ -68,7 +68,6 @@ My listening exercises included:
 - Headphone-based spatial reproduction and binaural-renderer evaluation
 - Horizontal image-localization and perceptual-listening tasks related in subject to Lisa LaFountaine, Raymond Plasse, and Dr. Wesley Bulla's [*Binaural Renderers Accuracy Comparison: Part I*](https://www.aes.org/e-lib/browse.cfm?elib=22327)
 - Loudspeaker-based directional and spatial-cue exercises in an anechoic chamber, with room reflections minimized
-- Immersive-music attribute and affective-response exercises related in subject to Sungyoung Kim, Dr. Doyuen Ko, and Will Howie's [*Validation of a Neural Network Clustering Model for Affective Response to Immersive Music*](https://www.aes.org/e-lib/browse.cfm?elib=22316)
 - Auditory-perception exercises involving frequency range and added tonal components, related in subject to Zachary Miller, Dr. Wesley Bulla, and Nick Bilski's [*Limits of the Cochlear Bandpass*](https://www.aes.org/e-lib/browse.cfm?elib=22317)
 - Drum-track listening exercises involving phase alignment and polarity detection, related in subject to Alek Weidman, John Sweeney, and Dr. Wesley Bulla's [*Detection of Phase Alignment and Polarity in Drum Tracks*](https://www.aes.org/e-lib/browse.cfm?elib=22248)
 
