@@ -78,7 +78,7 @@ I also completed a film-mixing course in Dolby Atmos using Belmont University's 
 
 Beyond coursework and studio access, I attended multiple Dolby Atmos listening expos presented with Vintage King Audio in Nashville, along with several Belmont-led Atmos listening events. These events broadened my exposure to completed immersive work, professional playback environments, system demonstrations, and different approaches to spatial presentation.
 
-I also participated as a listener in research exercises supporting other researchers' work in spatial audio. These experiences were particularly focused on headphone-based spatial reproduction, image localization, and related perceptual judgments. Participating in controlled listening tasks provided additional exposure to how spatial-audio research isolates variables, collects listener responses, and examines the consistency and limitations of perceived location and spatial presentation. This participation is distinct from research I personally designed, but it contributed meaningfully to my familiarity with spatial-audio evaluation methods.
+I also participated as a listener in research exercises supporting other researchers' work in spatial audio. These experiences included headphone-based spatial reproduction, image localization, related perceptual judgments, and loudspeaker-based listening exercises conducted in an anechoic chamber. The anechoic environment provided exposure to loudspeaker and spatial-perception testing with room reflections minimized, allowing directional and localization cues to be considered under more controlled acoustic conditions. Participating in these studies provided additional familiarity with how spatial-audio research isolates variables, collects listener responses, and examines the consistency and limitations of perceived location and spatial presentation. This participation is distinct from research I personally designed, but it contributed meaningfully to my familiarity with headphone, loudspeaker, and spatial-audio evaluation methods.
 
 My graduate independent study centered on Dolby Atmos recording and reproduction. The project used a jazz ensemble and a 2L Cube-inspired microphone approach, with the resulting work organized for a 7.1.4 listening environment in Ocean Way Nashville Studio A.
 
@@ -89,7 +89,7 @@ Together, these experiences provided practical exposure to:
 - Vertical, lateral, and front-to-back spatial relationships
 - Image localization, width, depth, envelopment, movement, and continuity
 - Evaluating immersive music and film mixes through repeated, focused listening
-- Participating in controlled spatial-audio research exercises involving headphones, image localization, and perceptual response
+- Participating in controlled spatial-audio research exercises involving headphones, loudspeakers, image localization, perceptual response, and an anechoic chamber
 - Balancing dialogue, music, effects, ambience, and narrative focus in a film-mixing context
 - The relationship between microphone placement and reproduced spatial perspective
 - Phase relationships and arrival-time differences across a multichannel capture
