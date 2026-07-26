@@ -2,7 +2,7 @@
 
 ## Context
 
-This [curriculum](README.md) is a new, [systematically scored](PROGRESS.md) phase of my technical ear training, not my first experience with [critical listening](#critical-listener-qualification). The [baseline results](PROGRESS.md) in this repository represent my starting point within this specific [software program](training-software/).
+This [curriculum](README.md) is a new, [systematically documented](PROGRESS.md) continuation phase of technical ear training that I previously learned and practiced in an academic course. It is not my first experience with either the [Corey program](training-software/) or [critical listening](#critical-listener-qualification). Results entered in this repository establish a new comparison point for continued execution and development—not a first-use starting point.
 
 ## Critical-Listener Qualification
 
