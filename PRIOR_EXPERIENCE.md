@@ -22,7 +22,7 @@ My intended professional direction can therefore be summarized as:
 | Music education | B.M. in Music Education; student-teaching and classroom experience | Diagnosing ensemble problems, prioritizing audible issues, comparing results with an intended reference, and communicating corrective feedback |
 | Audio engineering | M.S. in Audio Engineering Technology from Belmont University | Recording, editing, mixing, microphone technique, signal flow, EQ, dynamics, phase, monitoring, room acoustics, and DSP |
 | Professional studios | Experience at Ocean Way Nashville and Starstruck Entertainment | Critical listening within professional rooms and workflows; attention to tonal balance, imaging, ambience, noise, and signal integrity |
-| Measurement and analysis | Audio Precision testing, [Studer A80 versus A800 plug-in validation](https://github.com/kevinworleymusic-afk/engineering-development-portfolio/blob/9057f94a58a0a1db379acd6eca6d6c351ce9c673/Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/README.md), REW room analysis, MATLAB DSP work, and Python audio-analysis development | Connecting subjective observations with repeatable measurements and technical interpretation |
+| Measurement and analysis | [Studer A80 versus A800 plug-in validation using Audio Precision](https://github.com/kevinworleymusic-afk/engineering-development-portfolio/blob/9057f94a58a0a1db379acd6eca6d6c351ce9c673/Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/README.md), REW room analysis, MATLAB DSP work, and Python audio-analysis development | Connecting subjective observations with repeatable measurements and technical interpretation |
 
 ## Immersive and Spatial-Audio Exposure
 
