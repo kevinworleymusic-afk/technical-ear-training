@@ -4,6 +4,12 @@
 
 This curriculum is a new, systematically scored phase of my technical ear training, not my first experience with critical listening. The baseline results in this repository represent my starting point within this specific software program.
 
+## Critical-Listener Qualification
+
+Taken together, my formal ear training, jazz performance and ensemble work, music-education practice, graduate audio-engineering study, professional studio experience, controlled listening research, measurement-informed evaluation, and repeated work in stereo and immersive environments support describing me as a **trained and experienced critical listener**. Across these settings, I have repeatedly identified, compared, diagnosed, and communicated audible differences in pitch, timbre, balance, imaging, ambience, dynamics, frequency response, spatial localization, and system behavior.
+
+This description does not claim uniformly expert detection thresholds in every technical-audio category. The purpose of this curriculum is to quantify and extend that established critical-listening foundation through repeatable exercises, scoring, error analysis, and documented improvement.
+
 ## Disciplinary Focus
 
 My broader discipline is technical audio and critical listening, with a developing specialization in spatial perception, immersive reproduction, and in-cabin audio systems. This focus builds on my existing experience in music, recording, Atmos environments, spatial-audio research, acoustic measurement, and DSP.
