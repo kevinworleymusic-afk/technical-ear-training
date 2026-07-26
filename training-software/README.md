@@ -2,7 +2,7 @@
 
 **[Access the software download folder →](SOFTWARE_DOWNLOADS.md)**
 
-This project uses the chapter-based companion software for [Jason Corey's *Audio Production and Critical Listening: Technical Ear Training*](https://sites.google.com/a/umich.edu/jason-corey/technical-ear-training). I first studied the methodology in an academic course and am now using the same framework for continued structured development. Each standalone chapter application is approximately 1.22 GB, so the application files are stored externally while GitHub documents the curriculum and training results.
+This project continues my use of the chapter-based companion software for [Jason Corey's *Audio Production and Critical Listening: Technical Ear Training*](https://sites.google.com/a/umich.edu/jason-corey/technical-ear-training). I learned and practiced the methodology in an academic course; the work documented here is continued execution of that established training through a more systematic portfolio framework. Each standalone chapter application is approximately 1.22 GB, so the application files are stored externally while GitHub documents the curriculum and training results.
 
 ## Available Software Modules
 
