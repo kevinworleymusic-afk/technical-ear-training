@@ -61,19 +61,19 @@ These experiences developed familiarity with localization, image width and depth
 
 ## Research and Controlled-Listening Exposure
 
-I participated as a listener in **unpublished** research and classroom exercises supporting spatial-audio and auditory-perception work at Belmont. None of the published papers linked below should be read as containing my data or listing me as a study contributor; they are included only to document closely related research areas pursued by faculty whose listening work I encountered.
+I participated as a listener in several Belmont auditory-perception studies that were subsequently published through the Audio Engineering Society. My role was as a **listening-test participant**, not an author or co-author.
 
-My listening exercises included:
+Published studies in which I participated as a listener included:
 
-- Headphone-based spatial reproduction and binaural-renderer evaluation
-- Horizontal image-localization and perceptual-listening tasks related in subject to Lisa LaFountaine, Raymond Plasse, and Dr. Wesley Bulla's [*Binaural Renderers Accuracy Comparison: Part I*](https://www.aes.org/e-lib/browse.cfm?elib=22327)
-- Loudspeaker-based directional and spatial-cue exercises in an anechoic chamber, with room reflections minimized
-- Auditory-perception exercises involving frequency range and added tonal components, related in subject to Zachary Miller, Dr. Wesley Bulla, and Nick Bilski's [*Limits of the Cochlear Bandpass*](https://www.aes.org/e-lib/browse.cfm?elib=22317)
-- Drum-track listening exercises involving phase alignment and polarity detection, related in subject to Alek Weidman, John Sweeney, and Dr. Wesley Bulla's [*Detection of Phase Alignment and Polarity in Drum Tracks*](https://www.aes.org/e-lib/browse.cfm?elib=22248)
+- Lisa LaFountaine, Raymond Plasse, and Dr. Wesley Bulla's [*Binaural Renderers Accuracy Comparison: Part I*](https://www.aes.org/e-lib/browse.cfm?elib=22327), involving headphone-based binaural reproduction and horizontal sound-source localization
+- Zachary Miller, Dr. Wesley Bulla, and Nick Bilski's [*Limits of the Cochlear Bandpass*](https://www.aes.org/e-lib/browse.cfm?elib=22317), involving auditory-perception exercises with frequency range and added tonal components
+- Alek Weidman, John Sweeney, and Dr. Wesley Bulla's [*Detection of Phase Alignment and Polarity in Drum Tracks*](https://www.aes.org/e-lib/browse.cfm?elib=22248), involving detection of phase alignment, timing, and polarity differences in multitrack drums
 
-I also completed an **unpublished** [study of trained listeners' detection of frequency-response boosts through loudspeakers versus headphones](https://github.com/kevinworleymusic-afk/engineering-development-portfolio/blob/9057f94a58a0a1db379acd6eca6d6c351ce9c673/Projects/Technical-Audio-and-Research/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/README.md). This was separate from the published 2024 AES paper *Headphones vs. Loudspeakers: Finding the More Effective Monitoring System*.
+Additional listening and classroom exercises included loudspeaker-based directional and spatial-cue evaluation in an anechoic chamber, with room reflections minimized.
 
-Together, these activities provided exposure to controlled listening, research participation, spatial and tonal perception, and the design and interpretation of critical-listening work.
+Separately, I completed an **unpublished** [study of trained listeners' detection of frequency-response boosts through loudspeakers versus headphones](https://github.com/kevinworleymusic-afk/engineering-development-portfolio/blob/main/Projects/Technical-Audio-and-Research/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/README.md). This graduate project was not the published 2024 AES paper *Headphones vs. Loudspeakers: Finding the More Effective Monitoring System*.
+
+Together, these activities provided exposure to published-study participation, controlled listening, spatial and tonal perception, phase and polarity evaluation, and the design and interpretation of critical-listening work.
 
 ## What This Project Adds
 
