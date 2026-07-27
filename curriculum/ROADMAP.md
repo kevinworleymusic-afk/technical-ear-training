@@ -4,11 +4,13 @@
 
 Build a reliable descriptive vocabulary using obvious, single-variable changes.
 
-- Octave-band EQ identification
-- Large level differences
-- Obvious compression and clipping
+- ✅ Octave-band EQ identification — comfortable checking this off for the sound materials used in Session 1.
+- ✅ Large level differences — comfortable checking this off for the sound materials used in Session 1.
+- ◐ Obvious compression and clipping — nearly comfortable checking off sine-wave hard clipping; compression and other clipping materials still need more work.
 - Basic left/center/right localization
 - Short versus long reverberation
+
+**Status key:** ✅ comfortable checking off for the material practiced; ◐ close, but not fully checked off yet.
 
 **Completion evidence:** consistent session logs and at least 80% accuracy on repeated controlled trials.
 
