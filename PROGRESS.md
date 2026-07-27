@@ -81,4 +81,15 @@ This dashboard summarizes measurable progress through the available software cha
 
 Use comparable scores only when the software settings and exercise conditions are equivalent. Preserve the baseline even after performance improves, and distinguish typical current performance from a single best score. Checkmarks apply only to the specific noise or waveform types practiced unless broader competence is demonstrated later.
 
-For matching exercises during the current training phase, use **90% accuracy as the practical checkoff threshold**. Reaching that threshold means the skill is reliable enough to move forward for now, not that it has been permanently mastered. Revisit checked-off skills later using delayed retention tests and additional program material.
+## Working Mastery Criteria
+
+These thresholds are practical training benchmarks rather than values directly prescribed by the research literature. They are intended to reflect differences in task difficulty while still requiring reliable performance.
+
+| Exercise type | Working checkoff threshold |
+|---|---:|
+| Boost matching | 90% |
+| Cut matching | 85% |
+| Boost identification from memory | 85–90% |
+| Cut identification from memory | 80% |
+
+The lower thresholds for cut exercises reflect the weaker perceptual salience of spectral decrements compared with boosts. Memory-based identification is also harder than direct matching because the listener must rely on an internal reference rather than an immediate comparison. Reaching a threshold means the skill is reliable enough to move forward for now, not that it has been permanently mastered. Revisit checked-off skills later using delayed retention tests and additional program material.
