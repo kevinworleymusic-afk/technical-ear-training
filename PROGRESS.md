@@ -68,6 +68,8 @@ These thresholds are practical training benchmarks rather than values directly p
 | Boost identification from memory | 85–90% |
 | Cut identification from memory | 80% |
 
+The written thresholds are guides rather than inflexible pass/fail cutoffs. A skill may reasonably be treated as checked off when performance falls one or two percentage points below the listed threshold if the broader evidence supports it, such as a large number of attempts, stable performance across repeated exercises, delayed retention, consistency across comparable samples, or results that are functionally indistinguishable from the stated benchmark. Any such decision should be briefly justified in the relevant session log or progress note.
+
 The lower thresholds for cut exercises reflect the weaker perceptual salience of spectral decrements compared with boosts. Memory-based identification is also harder than direct matching because the listener must rely on an internal reference rather than an immediate comparison. Reaching a threshold means the skill is reliable enough to move forward for now, not that it has been permanently mastered.
 
 ## Updating This Dashboard
