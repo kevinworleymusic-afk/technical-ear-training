@@ -6,7 +6,7 @@ This dashboard summarizes measurable progress through the available software cha
 
 | Chapter | Area | Baseline | Current | Best | Sessions | Status |
 |---|---|---:|---:|---:|---:|---|
-| 2 | Equalization | 90% (+12 dB pink noise) | 83–90% across completed pink-noise EQ exercises | 90% | 1 | ✅ Octave-band EQ identification and large EQ boost/cut differences checked off for pink-noise material used in Session 1 |
+| 2 | Equalization | 90% (+12 dB pink noise) | 80–90% across completed pink-noise EQ exercises | 90% | 1 | ◐ Boost matching is strong; -6 dB and smaller cut identification remain active practice areas |
 | 3A | Mid/Side listening | — | — | — | 0 | No new session logged |
 | 3B | Reverberation | — | Exploratory practice only | — | 1 | Not yet scored; direct parameter exploration needed before formal testing |
 | 4A | Compression | — | Exploratory practice only | — | 1 | Not yet scored; direct parameter exploration needed before formal testing |
@@ -17,10 +17,10 @@ This dashboard summarizes measurable progress through the available software cha
 ## Practice Totals
 
 - **Total sessions:** 1
-- **Total training time:** approximately 1 hour, plus an untimed follow-up exercise after a two-hour break
+- **Total training time:** approximately 1 hour 20 minutes, with a two-hour break between practice blocks
 - **Current chapter:** Chapters 2 and 5, with exploratory work in Chapters 3B and 4A
 - **Last session:** 2026-07-27
-- **Next target:** Make one more sine-wave hard-clipping matching attempt; then revisit bit-depth reduction, compression, reverb, pink-noise clipping, and smaller EQ changes
+- **Next target:** Make one more sine-wave hard-clipping matching attempt; continue -6 dB EQ-cut practice; then revisit bit-depth reduction, compression, reverb, and pink-noise clipping
 
 ## Session 1 Score Summary
 
@@ -30,6 +30,13 @@ This dashboard summarizes measurable progress through the available software cha
 - **+6 dB boost:** 90% (109 trials)
 - **+3 dB boost:** 83% (51 trials)
 - **-12 dB cut:** 82% (50 trials)
+- **-6 dB cut, 250 Hz to 8 kHz:** 80% (62 trials)
+
+### EQ-Cut Observations
+
+- Cuts were consistently harder to hear and identify than boosts.
+- The -6 dB cut result indicates reasonably functional matching ability, but the skill is not yet as reliable as boost identification.
+- Continued practice is planned before checking off moderate EQ-cut matching.
 
 ### Distortion
 
@@ -52,8 +59,8 @@ This dashboard summarizes measurable progress through the available software cha
 
 ## Skill Checkoff Status
 
-- ✅ **Octave-band EQ identification:** comfortable checking this off for the pink-noise material used in Session 1.
-- ✅ **Large EQ boost/cut differences:** comfortable checking this off for the pink-noise material used in Session 1.
+- ✅ **Octave-band EQ boost identification:** comfortable checking this off for the pink-noise material used in Session 1.
+- ◐ **Moderate EQ-cut matching:** 80% over 62 trials at -6 dB from 250 Hz to 8 kHz; reasonably manageable, but continued work is planned.
 - ◐ **Sine-wave hard-clipping matching:** 88% over 101 follow-up trials; one more attempt planned, with 90% used as the practical completion threshold for this phase.
 - ☐ **Pink-noise hard clipping:** not checked off yet.
 - ☐ **Compression identification:** not checked off yet.
@@ -65,7 +72,7 @@ This dashboard summarizes measurable progress through the available software cha
 
 - **Strongest listening area:** octave-band EQ identification using pink noise, especially large and moderate boosts.
 - **Most persistent weakness:** bit-depth reduction on pink noise; reliable listening cues did not emerge during the first 20 trials.
-- **Accuracy versus confidence:** measured EQ performance was consistently above 80%, while sine-wave hard-clipping matching improved from 83% to 88% after a two-hour break.
+- **Accuracy versus confidence:** boost identification reached 83–90%, moderate cut identification reached 80%, and sine-wave hard-clipping matching improved from 83% to 88% after a two-hour break.
 - **Recurring technical vocabulary:** frequency-band identification, neighboring-band prominence, clipping severity, level matching, bit-depth artifacts, compression, and reverberation.
 - **Changes in training strategy:** quiz-style repetition worked well for EQ and hard clipping, while compression and reverb appear to require direct parameter manipulation before formal testing.
 - **Connections to system evaluation, DSP, or automotive audio:** the work is building repeatable listening judgments that can later be compared with measurements and applied to tonal balance, distortion recognition, and system tuning.
