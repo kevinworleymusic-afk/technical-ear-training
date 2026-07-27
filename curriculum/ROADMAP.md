@@ -19,6 +19,7 @@ Build a reliable descriptive vocabulary using obvious, single-variable changes.
 - EQ Boost (+6 dB): 90% (109 trials)
 - EQ Cut (-12 dB): 82% (50 trials)
 - Hard Clipping (Pink Noise): 72% (100 trials)
+- Hard Clipping (Sine Wave): 83% (approximately 100 trials)
 - Compression: exploratory practice only; no scored assessment.
 - Reverb: exploratory practice only; no scored assessment.
 
