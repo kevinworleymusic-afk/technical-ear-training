@@ -12,6 +12,16 @@ Build a reliable descriptive vocabulary using obvious, single-variable changes.
 
 **Completion evidence:** consistent session logs and at least 80% accuracy on repeated controlled trials.
 
+### Session Progress
+
+**Session 1 (2026-07-27)**
+- EQ Boost (+12 dB): 90% (100 trials)
+- EQ Boost (+6 dB): 90% (109 trials)
+- EQ Cut (-12 dB): 82% (50 trials)
+- Hard Clipping (Pink Noise): 72% (100 trials)
+- Compression: exploratory practice only; no scored assessment.
+- Reverb: exploratory practice only; no scored assessment.
+
 ## Stage 2 — Smaller Changes and Confidence
 
 Reduce the size of changes and track whether confidence matches accuracy.
@@ -24,6 +34,12 @@ Reduce the size of changes and track whether confidence matches accuracy.
 
 **Completion evidence:** accuracy results by category plus a summary of recurring errors.
 
+### Session Progress
+
+**Session 1 (2026-07-27)**
+- EQ Boost (+3 dB): 83% (51 trials)
+- Bit-depth Reduction (Pink Noise): 47% (20 trials, exercise intentionally paused)
+
 ## Stage 3 — Complex Program Material
 
 Apply isolated skills to real music and speech.
@@ -35,6 +51,10 @@ Apply isolated skills to real music and speech.
 - Listening-position comparisons
 
 **Completion evidence:** short case studies that distinguish observations from explanations.
+
+### Session Progress
+
+No Stage 3 exercises completed yet.
 
 ## Stage 4 — Measurement Correlation
 
@@ -49,6 +69,10 @@ Test listening judgments with objective data.
 
 **Completion evidence:** reports comparing initial listening predictions with measured results.
 
+### Session Progress
+
+No Stage 4 exercises completed yet.
+
 ## Stage 5 — Automotive Application
 
 Apply the framework in vehicle cabins.
@@ -62,3 +86,7 @@ Apply the framework in vehicle cabins.
 - Repeatable system-evaluation reports
 
 **Completion evidence:** an automotive-audio listening and measurement case study suitable for the engineering portfolio.
+
+### Session Progress
+
+No Stage 5 exercises completed yet.
