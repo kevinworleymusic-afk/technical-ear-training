@@ -1,27 +1,33 @@
 # Ear Training Chapters
 
-This section documents progress through the chapter-based technical ear-training software stored in the linked Google Drive folder.
+This section documents continued work with the chapter-based technical ear-training software stored in the linked Google Drive folder. Results below are synchronized with the central [progress dashboard](../PROGRESS.md) and the dated [session logs](../logs/).
 
-## Available Curriculum
+## Available Curriculum and Current Evidence
 
-| Chapter | Training area | Software modules | Status |
-|---|---|---|---|
-| 2 | Equalization | TETpracticeEQ | Not started |
-| 3 | Spatial and environmental listening | TETlisteningMidSide; TETpracticeReverb | Not started |
-| 4 | Dynamics processing | TETpracticeComp; TETpracticeExp | Not started |
-| 5 | Distortion | TETpracticeDist | Not started |
-| 6 | Editing | TETpracticeEditing | Not started |
+| Chapter | Training area | Software modules | Documented evidence | Status |
+|---|---|---|---|---|
+| [2](chapter-02-equalization/) | Equalization | TETpracticeEQ | 372 scored pink-noise EQ trials across +12, +6, +3, -12, and -6 dB criteria; 80–90% cumulative accuracy by criterion | ◐ Active — boost matching is strongest; cuts remain in practice |
+| [3](chapter-03-mid-side-reverb/) | Mid/Side and reverberation | TETlisteningMidSide; TETpracticeReverb | Initial exploratory reverb work; no formal reverb or Mid/Side score yet | ◐ Exploratory |
+| [4](chapter-04-compression-expansion/) | Compression and expansion | TETpracticeComp; TETpracticeExp | Initial exploratory compression work; no formal compression or expansion score yet | ◐ Exploratory |
+| [5](chapter-05-distortion/) | Distortion | TETpracticeDist | Approximately 421 scored trials across hard clipping and bit-depth reduction; best exercise 88% | ◐ Active — sine-wave clipping is strongest |
+| [6](chapter-06-editing/) | Editing | TETpracticeEditing | No scored work logged | Not started |
 
 Chapter 1 is not documented because it was not visible in the supplied software list.
 
+## Current Interpretation
+
+The first documented continuation session established useful baselines in Chapters 2 and 5. EQ boost matching on pink noise is currently the strongest chapter-based result, while sine-wave hard-clipping matching is close to the working checkoff criterion. EQ cuts, pink-noise clipping, and bit-depth reduction remain active development areas. Compression and reverberation require direct parameter exploration before formal quiz-style testing; Mid/Side, expansion, and editing have not yet been scored.
+
+These results describe performance only for the specific sources, settings, and exercises logged. They do not imply mastery across all program material or listening systems.
+
 ## Documentation Method
 
-Each chapter contains:
+Each chapter records:
 
-- The listening skills covered
-- Baseline and current results
-- Recurring errors and audible cues
-- Links to dated session logs
-- A chapter reflection after sufficient practice
+- the listening skills covered
+- baseline, cumulative, and best results when available
+- recurring errors and audible cues
+- links to dated session logs
+- a chapter reflection after sufficient practice
 
-Use the central [progress dashboard](../PROGRESS.md) for a quick view across all chapters.
+Use the central [progress dashboard](../PROGRESS.md) for the cumulative cross-chapter view and [Session 1](../logs/2026-07-27_session-01.md) for the underlying exercise details.
