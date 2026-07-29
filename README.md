@@ -34,6 +34,7 @@ The project turns [technical ear training](chapters/) into a [repeatable enginee
 - [PRIOR_EXPERIENCE.md](PRIOR_EXPERIENCE.md) — musical, studio, research, and technical-listening background
 - [PROGRESS.md](PROGRESS.md) — central training dashboard
 - [chapters/](chapters/) — actual chapter curriculum and chapter-level reflections
+- [exercises/](exercises/) — completed exercise evidence, exploratory work, and reusable exercise formats
 - [training-software/](training-software/) — software access and documentation
 - [templates/SESSION_LOG.md](templates/SESSION_LOG.md) — repeatable session template
 - [logs/](logs/) — dated results and progress evidence
