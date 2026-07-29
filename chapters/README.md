@@ -9,7 +9,7 @@ This section documents continued work with the chapter-based technical ear-train
 | [2](chapter-02-equalization/) | Equalization | TETpracticeEQ | 372 scored pink-noise EQ trials across +12, +6, +3, -12, and -6 dB criteria; 80–90% cumulative accuracy by criterion | ◐ Active — boost matching is strongest; cuts remain in practice |
 | [3](chapter-03-mid-side-reverb/) | Mid/Side and reverberation | TETlisteningMidSide; TETpracticeReverb | Initial exploratory reverb work; no formal reverb or Mid/Side score yet | ◐ Exploratory |
 | [4](chapter-04-compression-expansion/) | Compression and expansion | TETpracticeComp; TETpracticeExp | Initial exploratory compression work; no formal compression or expansion score yet | ◐ Exploratory |
-| [5](chapter-05-distortion/) | Distortion | TETpracticeDist | Approximately 421 scored trials across hard clipping and bit-depth reduction; best exercise 88% | ◐ Active — sine-wave clipping is strongest |
+| [5](chapter-05-distortion/) | Distortion | TETpracticeDist | Approximately 321 scored trials across hard clipping and bit-depth reduction; best exercise 88% | ◐ Active — sine-wave clipping is strongest |
 | [6](chapter-06-editing/) | Editing | TETpracticeEditing | No scored work logged | Not started |
 
 Chapter 1 is not documented because it was not visible in the supplied software list.
