@@ -1,6 +1,7 @@
 # Chapter 6 — Editing
 
-**Software module:** TETpracticeEditing
+**Software module:** TETpracticeEditing  
+**Current evidence:** [Progress dashboard](../../PROGRESS.md)
 
 ## Training Focus
 
@@ -16,17 +17,21 @@ Develop recognition of audible editing decisions, discontinuities, timing proble
 
 ## Listening Notes to Track
 
-- Clicks, discontinuities, and abrupt ambience changes
-- Timing or phrasing inconsistencies
-- Crossfade quality
-- Background-noise changes
-- Edit detectability by source type
-- Cues that produce false positives
+- clicks, discontinuities, and abrupt ambience changes
+- timing or phrasing inconsistencies
+- crossfade quality
+- background-noise changes
+- edit detectability by source type
+- cues that produce false positives
+
+## Next Work
+
+Establish a first baseline using clearly defined edit types, source material, trial count, and scoring conditions, then document recurring cues and false positives.
 
 ## Session Logs
 
-Add dated logs to the repository logs folder and link them here.
+No Chapter 6 session has been logged yet.
 
 ## Chapter Reflection
 
-Summarize the most reliable editing cues, improvements in detection, and relevance to technical quality control.
+Complete after several sessions: summarize the most reliable editing cues, improvements in detection, and relevance to technical quality control.
