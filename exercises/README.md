@@ -1,96 +1,125 @@
 # Exercise Library
 
-Use these exercises as controlled listening experiments. Duplicate the session-log template for each completed session.
+This section connects the reusable listening exercises with the work actually completed so far. Detailed chronology and observations remain in [Session 1](../logs/2026-07-27_session-01.md), while cumulative results are maintained in the [progress dashboard](../PROGRESS.md).
 
-## Exercise 01 — Frequency-Band Identification
+## Current Exercise Evidence
 
-**Objective:** Identify the approximate center frequency of a boost or cut.
+| Session exercise | Chapter / skill | Source | Settings or criterion | Trials | Result | Status |
+|---|---|---|---|---:|---:|---|
+| 1 | EQ boost matching | Pink noise | +12 dB octave-band boost | 100 | 90% | Working criterion met |
+| 2 | EQ boost matching | Pink noise | +6 dB octave-band boost | 109 | 89.9% cumulative; 90% exercise score | Working criterion met |
+| 3 | EQ boost matching | Pink noise | +3 dB octave-band boost | 51 | 82.4% cumulative; 83% exercise score | Continued practice |
+| 4 | EQ cut matching | Pink noise | -12 dB octave-band cut | 50 | 82% | Continued practice |
+| 5 | Hard-clipping matching | Pink noise | Clipping-severity settings | 100 | 72% | Continued practice |
+| 6 | Hard-clipping matching | Sine wave | Five clipping-severity settings | approximately 100 | 83% | Initial baseline |
+| 7 | Bit-depth-reduction matching | Pink noise | Bit-depth settings | 20 | 47% | Early baseline; paused |
+| 8 | Hard-clipping follow-up | Sine wave | Five clipping-severity settings | 101 | 88% | Close to 90% working criterion |
+| 9 | EQ cut matching | Pink noise | -6 dB, 250 Hz–8 kHz | 62 | 80% | Continued practice |
 
-**Method:**
+**Documented scored total:** 693 trials, including one approximately reported 100-trial exercise.
 
-1. Select a familiar, full-range recording.
-2. Apply one hidden EQ change at a time.
-3. Begin with broad filters and large changes.
-4. Record the perceived range, boost/cut judgment, and confidence.
-5. Reveal the setting and document the result.
+The scored total combines 372 EQ trials, approximately 301 hard-clipping trials, and 20 bit-depth-reduction trials. Results apply only to the listed sources, settings, and criteria.
 
-**Starting progression:**
+## Exploratory Exercises
 
-- Octave bands with ±6 dB changes
-- Octave bands with ±3 dB changes
-- One-third-octave regions
-- Narrower filters and smaller changes
-- Multiple playback systems
+| Skill | Work completed | Formal score | Current decision |
+|---|---|---:|---|
+| Compression recognition | Initial quiz-style and parameter exploration | None | Manipulate parameters directly before returning to formal testing |
+| Reverberation recognition | Initial quiz-style and parameter exploration | None | Develop audible cues through direct control before formal testing |
 
-**Metrics:** frequency-region accuracy, boost/cut accuracy, and confidence calibration.
+Mid/Side listening, expansion, and editing have not yet been exercised in the documented continuation phase.
 
-## Exercise 02 — Level Discrimination
+## What the First Session Established
 
-**Objective:** Detect and estimate small level changes.
+- Pink-noise EQ boosts are currently the strongest scored area.
+- EQ cuts are usable but less reliable than boosts.
+- Smaller EQ changes reduce accuracy.
+- Sine-wave hard clipping provides more consistent cues than pink-noise clipping.
+- The 88% clipping result after an approximately two-hour break suggests short-term retention of the developed cues.
+- Bit-depth reduction did not yet produce a reliable listening strategy.
+- Compression and reverberation need exploratory parameter listening before quiz-style repetition is likely to be useful.
 
-**Method:**
+## Immediate Exercise Queue
 
-1. Use the same audio passage for both conditions.
-2. Randomize which version is louder.
-3. Begin with a clearly audible difference.
-4. Reduce the difference as accuracy improves.
-5. Avoid interpreting louder as automatically better.
+1. Repeat sine-wave hard-clipping matching and use 90% as the current working checkoff threshold.
+2. Continue -6 dB EQ-cut matching.
+3. Revisit +3 dB EQ boosts after a delay.
+4. Explore bit-depth-reduction parameters directly before another scored exercise.
+5. Explore compression and reverberation parameters directly, one variable at a time.
+6. Begin separate baselines for Mid/Side listening, expansion, and editing.
+7. Repeat established exercises with music, speech, instruments, and environmental sounds after the planned sample library is assembled.
 
-**Metrics:** correct louder/quieter judgment and smallest reliably detected change.
+## Reusable Controlled Exercises
 
-## Exercise 03 — Compression Recognition
+These exercise formats support later sessions and applications beyond the standalone chapter software.
 
-**Objective:** Hear changes caused by compression while separating loudness from dynamics.
+### Frequency-Band Identification
 
-**Method:**
+**Objective:** Identify the approximate center frequency and whether the change is a boost or cut.
 
-1. Create level-matched processed and unprocessed versions.
-2. Compare attack definition, sustain, envelope, and apparent density.
-3. Progress from obvious to subtle settings.
-4. Record the audible cue used for each judgment.
+**Method:** Use one hidden EQ change at a time, record the perceived range and confidence, reveal the setting, and preserve both correct and incorrect judgments.
 
-**Metrics:** processed/unprocessed accuracy, setting-category accuracy, and cue consistency.
+**Metrics:** frequency-region accuracy, boost/cut accuracy, trial count, confidence calibration, and transfer across source material.
 
-## Exercise 04 — Imaging and Localization
+**Current evidence:** [Chapter 2](../chapters/chapter-02-equalization/) contains the initial pink-noise results.
+
+### Level Discrimination
+
+**Objective:** Detect and estimate controlled level changes without treating louder as automatically better.
+
+**Method:** Level-control two otherwise identical conditions, randomize presentation, and reduce the difference as accuracy improves.
+
+**Metrics:** louder/quieter accuracy and smallest reliably detected difference.
+
+**Current status:** Planned; no dedicated level-discrimination baseline has been logged.
+
+### Compression Recognition
+
+**Objective:** Hear envelope and dynamic-range changes while separating them from loudness.
+
+**Method:** Begin with direct adjustment of threshold, ratio, attack, and release; then compare level-matched processed and unprocessed versions.
+
+**Metrics:** processed/unprocessed accuracy, parameter-category accuracy, and consistency of the audible cue used.
+
+**Current evidence:** Exploratory work only; see [Chapter 4](../chapters/chapter-04-compression-expansion/).
+
+### Imaging and Localization
 
 **Objective:** Evaluate image position, width, depth, and stability.
 
-**Method:**
+**Method:** Introduce controlled level, timing, or Mid/Side changes from a stable listening position and estimate the image change before revealing the setting.
 
-1. Use a stable listening position and a centered reference.
-2. Introduce controlled level or delay differences.
-3. Estimate image movement before revealing the change.
-4. Repeat with different frequency ranges and program material.
+**Metrics:** direction accuracy, estimated displacement, width judgment, and confidence.
 
-**Metrics:** direction accuracy, estimated displacement, and confidence.
+**Current status:** Planned; no new scored Mid/Side or localization exercise has been logged.
 
-## Exercise 05 — System Comparison
+### System Comparison
 
-**Objective:** Compare two playback conditions without relying on vague preference.
+**Objective:** Compare playback conditions using specific observations rather than vague preference.
 
-**Method:**
+**Method:** Match level, use the same passages and listening position, separate tonal, dynamic, spatial, artifact, and fatigue observations, and add measurements when available.
 
-1. Match level as closely as practical.
-2. Use the same passages and listening position.
-3. Describe tonal balance, dynamics, imaging, artifacts, and fatigue separately.
-4. Identify possible physical or signal-processing causes.
-5. Add measurements when available.
+**Metrics:** observation specificity, repeatability, and agreement between listening and measurement.
 
-**Metrics:** repeatability of observations and agreement between listening and measurements.
+**Current status:** Planned as a later measurement-correlation exercise.
 
-## Exercise 06 — Automotive Listening Walkthrough
+### Automotive Listening Walkthrough
 
-**Objective:** Document a vehicle system systematically.
+**Objective:** Document a vehicle audio system systematically.
 
-**Evaluation order:**
+**Evaluation order:** operating condition and noise floor; tonal balance; center image and stage; bass integration; transient clarity; seat-to-seat variation; level dependence; and suspected tuning or packaging causes.
 
-1. Noise floor and operating conditions
-2. Tonal balance
-3. Center image and stage
-4. Bass extension and integration
-5. Transient clarity
-6. Seat-to-seat variation
-7. Changes with playback level
-8. Suspected tuning or packaging causes
+**Metrics:** observation specificity, repeatability, seat-to-seat consistency, and measurement-supported conclusions.
 
-**Metrics:** observation specificity, repeatability, and measurement-supported conclusions.
+**Current status:** Planned; no vehicle case study is claimed in this repository yet.
+
+## Documentation Method
+
+For each new exercise:
+
+1. Record source, processing, settings, trials, correct answers, accuracy, and confidence where available.
+2. Separate exploratory exposure from formally scored work.
+3. Preserve recurring errors and uncertain judgments.
+4. Link the dated [session log](../logs/) and update the [progress dashboard](../PROGRESS.md).
+5. Limit conclusions to the sources and settings actually tested.
+6. Revisit stronger results after a delay and with different program material before making broader competency claims.
