@@ -50,6 +50,8 @@ Review the [chapter curriculum](chapters/), [session-log method](templates/SESSI
 
 ## Practice Method
 
+- Create each dated session log from the [session template](templates/SESSION_LOG.md), review the [daily warmup progression](templates/DAILY_WARMUP_PROGRESSION.md), and assign an exact 12-, 13-, or 14-minute timetable before practice.
+- Prepare the required software before starting the timer; complete as many careful trials as possible within each block and exclude documented software/setup interruptions from practice time.
 - Use comparable settings when measuring improvement.
 - Record a new, comparable documentation baseline for this continuation phase before focusing on a score target.
 - Preserve incorrect judgments and recurring confusions.
