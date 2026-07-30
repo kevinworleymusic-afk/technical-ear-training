@@ -17,11 +17,11 @@ This dashboard summarizes cumulative measurable progress through the available s
 ## Practice Totals
 
 - **Total sessions:** 2
-- **Total documented scored trials:** 723, including one approximately reported 100-trial exercise
+- **Total documented scored trials:** 733, including one approximately reported 100-trial exercise
 - **Total training time:** at least approximately 1 hour 20 minutes; Session 2 duration was not recorded
 - **Current chapters:** Chapters 2 and 5, with exploratory work in Chapters 3B and 4A
 - **Last session:** 2026-07-30
-- **Next target:** Continue Session 2; later test whether two-band +6 dB matching transfers to delayed, memory-based, or rapid identification
+- **Next target:** Continue Session 2; later test whether two- and three-band +6 dB matching transfers to delayed, memory-based, or rapid identification
 
 ## Cumulative Performance Dashboard
 
@@ -31,7 +31,8 @@ Each row represents one comparable combination of skill, sample type, and test c
 |---|---|---|---:|---:|---:|---|
 | EQ boost matching | Pink noise | +12 dB octave-band boost | 100 | 90% | 90% | ✅ |
 | EQ boost matching | Pink noise | +6 dB octave-band boost | 109 | 89.9% | 90% | ✅ |
-| Two-band EQ boost matching | Pink noise | Two simultaneous +6 dB boosts, one-octave bandwidth, 250 Hz–8 kHz | 30 | 97% (software-reported) | 97% | ✅ |
+| Two-band EQ boost matching | Pink noise | Two simultaneous +6 dB boosts; one-octave center frequencies; Q 2; 250 Hz–8 kHz | 30 | 97% (software-reported) | 97% | ✅ |
+| Three-band EQ boost matching | Pink noise | Three simultaneous +6 dB boosts; one-octave center frequencies; Q 2; 250 Hz–8 kHz | 10 | 90% | 90% | ✅ |
 | EQ boost matching | Pink noise | +3 dB octave-band boost | 51 | 82.4% | 83% | ◐ |
 | EQ cut matching | Pink noise | -12 dB octave-band cut | 50 | 82% | 82% | ◐ |
 | EQ cut matching | Pink noise | -6 dB cut, 250 Hz to 8 kHz | 62 | 80% | 80% | ◐ |
@@ -53,7 +54,7 @@ Each row represents one comparable combination of skill, sample type, and test c
 ## Progress Interpretation
 
 - **Strongest listening area:** octave-band EQ identification using pink noise, especially large and moderate boosts.
-- **Highest individual result:** 97% across 30 two-band +6 dB pink-noise EQ matching trials using one-octave bandwidth over 250 Hz–8 kHz.
+- **Highest individual result:** 97% across 30 two-band +6 dB pink-noise EQ matching trials using one-octave center frequencies, Q 2, over 250 Hz–8 kHz; the three-band condition reached 90% across 10 trials.
 - **Largest scored trial base:** sine-wave hard-clipping matching, with approximately 201 total attempts, approximately 86% cumulative accuracy, and a best individual exercise score of 88%.
 - **Most persistent weakness:** bit-depth reduction on pink noise; reliable listening cues did not emerge during the first 20 trials.
 - **Training strategy:** comparison-based matching has worked well for EQ and hard clipping, while memory-based or rapid identification remains a separate skill to test; compression and reverb appear to require direct parameter manipulation before formal testing.
