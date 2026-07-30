@@ -19,3 +19,7 @@ Examples:
 **Latest achievement:** 97% across 30 two-band and 90% across 10 three-band +6 dB pink-noise EQ matching trials using one-octave center frequencies, Q 2, and a 250 Hz–8 kHz range. Three-band matching is now the routine pink-noise boost condition. Response speed will increase gradually as confidence stabilizes, followed by separately documented transfer to music.
 
 Logs should preserve incorrect answers as well as correct ones. Matching, memorized identification, and rapid identification must remain separately labeled. The goal is to demonstrate repeatable improvement, honest confidence tracking, and the connection between critical listening and engineering verification.
+
+## Creating Each New Session Log
+
+Start from the [full session-log template](../templates/SESSION_LOG.md). Review the [daily warmup progression](../templates/DAILY_WARMUP_PROGRESSION.md), choose that day's established and developing areas, and generate an exact 12-, 13-, or 14-minute warmup timetable in the dated log. Prepare the software first, then use a timer to complete as many careful trials as possible in each block. Record software or setup interruptions separately and exclude them from listening-practice time and trial totals.
