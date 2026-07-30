@@ -44,7 +44,7 @@ Mid/Side listening, expansion, and editing have not yet been exercised in the do
 
 ## Immediate Exercise Queue
 
-1. Begin EQ warmups with 3–5 single-band rapid-identification trials at +3 or +6 dB, then continue with three simultaneous +6 dB bands using one-octave center frequencies, Q 2, and 250 Hz–8 kHz; keep rapid-identification and matching results separate.
+1. Begin EQ warmups with two minutes of single-band rapid identification at +3 or +6 dB, then continue with three minutes of three simultaneous +6 dB bands using one-octave center frequencies, Q 2, and 250 Hz–8 kHz; keep rapid-identification and matching results separate.
 2. Repeat sine-wave hard-clipping matching and use 90% as the current working checkoff threshold.
 3. Continue -6 dB EQ-cut matching.
 4. Revisit +3 dB EQ boosts after a delay.
