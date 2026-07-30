@@ -48,12 +48,14 @@ Review the [chapter curriculum](chapters/), [session-log method](templates/SESSI
 
 ## Practice Method
 
-- Use [comparable settings](templates/SESSION_LOG.md) when measuring improvement.
-- Record a new, comparable [documentation baseline](PROGRESS.md) for this continuation phase before focusing on a score target.
-- Preserve [incorrect judgments and recurring confusions](logs/).
-- Record [confidence](templates/SESSION_LOG.md) before checking the answer.
-- Separate [audible observations from technical interpretation](LIBRARY.md).
-- Connect listening observations to [measurements](https://github.com/kevinworleymusic-afk/engineering-development-portfolio#technical-evidence-at-a-glance) when practical.
+- Use comparable settings when measuring improvement.
+- Record a new, comparable documentation baseline for this continuation phase before focusing on a score target.
+- Preserve incorrect judgments and recurring confusions.
+- Record confidence before checking the answer.
+- Separate audible observations from technical interpretation.
+- Connect listening observations to measurements when practical.
+
+Review the [session-log method](templates/SESSION_LOG.md), [progress baseline](PROGRESS.md), [dated listening records](logs/), [technical interpretation library](LIBRARY.md), and [measurement evidence](https://github.com/kevinworleymusic-afk/engineering-development-portfolio#technical-evidence-at-a-glance).
 
 ## Portfolio Relevance
 
