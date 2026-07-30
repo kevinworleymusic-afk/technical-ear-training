@@ -44,7 +44,7 @@ Review the [chapter curriculum](chapters/), [session-log method](templates/SESSI
 - [training-software/](training-software/) — software access and documentation
 - [templates/SESSION_LOG.md](templates/SESSION_LOG.md) — repeatable full-session template
 - [templates/DAILY_WARMUP_PROGRESSION.md](templates/DAILY_WARMUP_PROGRESSION.md) — 12–14 minute warmup using established EQ/distortion skills and rotating familiarity work
-- [templates/WEEKLY_DIAGNOSTIC_CIRCUIT.md](templates/WEEKLY_DIAGNOSTIC_CIRCUIT.md) — 32–43 minute full Chapters 2–6 diagnostic for broad weekly progress
+- [templates/WEEKLY_DIAGNOSTIC_CIRCUIT.md](templates/WEEKLY_DIAGNOSTIC_CIRCUIT.md) — 30–45 minute full Chapters 2–6 diagnostic for broad weekly progress
 - [logs/](logs/) — dated results and progress evidence
 - [LIBRARY.md](LIBRARY.md) — technical listening concepts and references
 
