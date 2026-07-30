@@ -1,7 +1,7 @@
 # Chapter 3 — Mid/Side and Reverberation
 
 **Software modules:** TETlisteningMidSide and TETpracticeReverb  
-**Current evidence:** [Session 1](../../logs/2026-07-27_session-01.md) and the [progress dashboard](../../PROGRESS.md)
+**Current evidence:** [Session 1](../../logs/daily/2026-W31/2026-07-27_session-01.md) and the [progress dashboard](../../PROGRESS.md)
 
 ## Training Focus
 
@@ -37,7 +37,7 @@ The initial quiz-style reverberation exercise did not yet produce reliable liste
 
 ## Session Logs
 
-- [2026-07-27 — Session 1: exploratory reverberation work](../../logs/2026-07-27_session-01.md)
+- [2026-07-27 — Session 1: exploratory reverberation work](../../logs/daily/2026-W31/2026-07-27_session-01.md)
 
 ## Chapter Reflection
 
