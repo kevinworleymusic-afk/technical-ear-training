@@ -21,7 +21,7 @@ Develop recognition of frequency regions and audible changes produced by equaliz
 |---|---:|---:|---:|---|
 | +12 dB octave-band boost, pink noise | 100 | 90% | 90% | Working criterion met |
 | +6 dB octave-band boost, pink noise | 109 | 89.9% | 90% | Working criterion met |
-| Two simultaneous +6 dB boosts, 250 Hz–8 kHz, pink noise | 30 | 97% (software-reported) | 97% | Working criterion met; matching only |
+| Two simultaneous +6 dB boosts, one-octave bandwidth, 250 Hz–8 kHz, pink noise | 30 | 97% (software-reported) | 97% | Working criterion met; matching only |
 | +3 dB octave-band boost, pink noise | 51 | 82.4% | 83% | Continued practice |
 | -12 dB octave-band cut, pink noise | 50 | 82% | 82% | Continued practice |
 | -6 dB cut, 250 Hz–8 kHz, pink noise | 62 | 80% | 80% | Continued practice |
