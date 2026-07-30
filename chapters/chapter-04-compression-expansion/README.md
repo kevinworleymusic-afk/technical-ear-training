@@ -1,7 +1,7 @@
 # Chapter 4 — Compression and Expansion
 
 **Software modules:** TETpracticeComp and TETpracticeExp  
-**Current evidence:** [Session 1](../../logs/daily/2026-W31/2026-07-27_session-01.md) and the [progress dashboard](../../PROGRESS.md)
+**Current evidence:** [Session 1](../../logs/03-daily/2026-W31/2026-07-27_session-01.md) and the [progress dashboard](../../PROGRESS.md)
 
 ## Training Focus
 
@@ -37,7 +37,7 @@ The initial quiz-style compression exercise did not yet produce reliable cues. D
 
 ## Session Logs
 
-- [2026-07-27 — Session 1: exploratory compression work](../../logs/daily/2026-W31/2026-07-27_session-01.md)
+- [2026-07-27 — Session 1: exploratory compression work](../../logs/03-daily/2026-W31/2026-07-27_session-01.md)
 
 ## Chapter Reflection
 
