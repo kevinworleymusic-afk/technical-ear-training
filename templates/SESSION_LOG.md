@@ -14,6 +14,18 @@
 - **Daily warmup sheet reviewed before planning:** Yes / No
 - **Weekly diagnostic used:** Yes / No
 
+## Broad Category Inputs
+
+These are the only curriculum choices required from the listener. The remaining details are populated from the weekly plan, current progress, chapter documentation, and most recent session evidence.
+
+- **Warmup category 1:** EQ / Mid/Side / Reverberation / Compression / Expansion / Distortion / Editing
+- **Warmup category 2:** EQ / Mid/Side / Reverberation / Compression / Expansion / Distortion / Editing
+- **Optional maintenance or rotating category:**
+- **Development category for today:**
+- **Weekly plan reference:** [Weekly Critical-Listening Lesson Plan](WEEKLY_LESSON_PLAN.md) / not yet scheduled
+
+A valid request can be as simple as: “Warm up EQ and distortion; develop compression.” Populate the software, source, settings, task type, cues, time allocation, progression, and stopping rules from those broad choices.
+
 ## Daily Warmup Plan
 
 Before beginning, review the [Daily Adaptive Critical-Listening Warmup](DAILY_WARMUP_PROGRESSION.md), choose today's established and developing areas, and generate this timetable for the specific session. Use an exact **12-, 13-, or 14-minute** total unless the abbreviated warmup is intentionally selected.
@@ -38,11 +50,11 @@ Open and prepare all required chapter applications and source material before st
 
 ## Selected Focus After Warmup
 
-- **Selected focus:**
+- **Selected broad development category:**
 - **Reason selected from today's warmup:**
 - **Development purpose:** Familiarize / build a cue / stabilize / increase difficulty / transfer
 
-After the focus is entered, use the [Focused Development Block](FOCUSED_DEVELOPMENT_BLOCK.md) to generate the exact implementation instructions. The development block is not assigned a fixed duration. It ends according to its learning objective, evidence requirement, listening quality, or stopping rule.
+After the broad category is entered, use the [Focused Development Block](FOCUSED_DEVELOPMENT_BLOCK.md) to generate the exact implementation instructions. The development block is not assigned a fixed duration. It ends according to its learning objective, evidence requirement, listening quality, or stopping rule.
 
 ## Training Goal
 
