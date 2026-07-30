@@ -44,6 +44,7 @@ Review the [chapter curriculum](chapters/), [session-log method](templates/SESSI
 - [training-software/](training-software/) — software access and documentation
 - [templates/SESSION_LOG.md](templates/SESSION_LOG.md) — repeatable full-session template
 - [templates/DAILY_WARMUP_PROGRESSION.md](templates/DAILY_WARMUP_PROGRESSION.md) — 12–14 minute warmup using established EQ/distortion skills and rotating familiarity work
+- [templates/FOCUSED_DEVELOPMENT_BLOCK.md](templates/FOCUSED_DEVELOPMENT_BLOCK.md) — objective-limited implementation template generated from the focus selected after each warmup
 - [templates/WEEKLY_DIAGNOSTIC_CIRCUIT.md](templates/WEEKLY_DIAGNOSTIC_CIRCUIT.md) — 30–45 minute full Chapters 2–6 diagnostic for broad weekly progress
 - [logs/](logs/) — dated results and progress evidence
 - [LIBRARY.md](LIBRARY.md) — technical listening concepts and references
@@ -51,7 +52,8 @@ Review the [chapter curriculum](chapters/), [session-log method](templates/SESSI
 ## Practice Method
 
 - Create each dated session log from the [session template](templates/SESSION_LOG.md), review the [daily warmup progression](templates/DAILY_WARMUP_PROGRESSION.md), and assign an exact 12-, 13-, or 14-minute timetable before practice.
-- Prepare the required software before starting the timer; complete as many careful trials as possible within each block and exclude documented software/setup interruptions from practice time.
+- Prepare the required software before starting the timer; complete as many careful trials as possible within each warmup block and exclude documented software/setup interruptions from practice time.
+- After the warmup, enter one selected focus and generate an immediately executable [focused development block](templates/FOCUSED_DEVELOPMENT_BLOCK.md); this block ends by objective, evidence, or listening-quality criteria rather than a fixed duration.
 - Use comparable settings when measuring improvement.
 - Record a new, comparable documentation baseline for this continuation phase before focusing on a score target.
 - Preserve incorrect judgments and recurring confusions.
