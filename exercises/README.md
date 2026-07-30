@@ -44,7 +44,7 @@ Mid/Side listening, expansion, and editing have not yet been exercised in the do
 
 ## Immediate Exercise Queue
 
-1. Repeat the two- and three-band +6 dB EQ conditions after a delay and later test it without direct matching.
+1. Continue pink-noise boost practice with three simultaneous +6 dB bands using one-octave center frequencies, Q 2, and 250 Hz–8 kHz; reserve one- and two-band conditions for retention or diagnostic checks and test memory-based identification separately.
 2. Repeat sine-wave hard-clipping matching and use 90% as the current working checkoff threshold.
 3. Continue -6 dB EQ-cut matching.
 4. Revisit +3 dB EQ boosts after a delay.
