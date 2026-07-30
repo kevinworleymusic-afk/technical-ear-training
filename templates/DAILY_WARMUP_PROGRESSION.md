@@ -2,6 +2,12 @@
 
 Use this warmup on normal practice days. It reinforces the skills that currently have usable cues while gradually building familiarity in chapters that are still exploratory or unscored. It is not intended to test every software module every day; the [Weekly Full-Chapter Diagnostic Circuit](WEEKLY_DIAGNOSTIC_CIRCUIT.md) serves that purpose.
 
+## Category Chooser
+
+**Choose:** [EQ](CATEGORY_CHOOSER.md) · [Mid/Side](CATEGORY_CHOOSER.md) · [Reverberation](CATEGORY_CHOOSER.md) · [Compression](CATEGORY_CHOOSER.md) · [Expansion](CATEGORY_CHOOSER.md) · [Distortion](CATEGORY_CHOOSER.md) · [Editing](CATEGORY_CHOOSER.md)
+
+Use: **Warmup: _category_ and _category_; Development: _category_.** See the [full category descriptions](CATEGORY_CHOOSER.md).
+
 ## Competency-Building Approach
 
 The long-term goal is working competence across every available chapter: EQ, Mid/Side, reverberation, compression, expansion, distortion, and editing. The daily warmup begins with skills that currently produce usable cues, while rotating familiarity blocks and focused sessions develop the remaining categories. A developing skill moves into the established daily warmup only after its cue becomes repeatable enough for meaningful practice. As more categories become reliable, the warmup expands or rotates to include them without continuously increasing its total length.
