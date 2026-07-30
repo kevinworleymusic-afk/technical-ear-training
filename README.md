@@ -14,7 +14,7 @@ Review the [SoundGym profile](https://www.soundgym.co/member/profile?m=byy1s26wj
 
 ## Training Progress
 
-This repository documents measurable development through a chapter-based technical ear-training curriculum covering equalization, Mid/Side listening, reverberation, compression, expansion, distortion, and editing.
+This repository documents measurable development through a chapter-based curriculum covering equalization, Mid/Side listening, reverberation, compression, expansion, distortion, and editing. The current continuation phase contains 733 scored trials across two sessions. Its latest achievement is 97% across 30 two-band and 90% across 10 three-band +6 dB pink-noise EQ matching trials using one-octave center frequencies, Q 2, and a 250 Hz–8 kHz range.
 
 Review the [cumulative progress dashboard](PROGRESS.md), [chapter-level evidence](chapters/), [exercise library](exercises/), and [dated session logs](logs/).
 
@@ -66,6 +66,6 @@ Review the [prior experience record](PRIOR_EXPERIENCE.md), [chapter evidence](ch
 
 ## Status
 
-The chapter framework is established for continued use of the currently available software modules. The next step is to record new comparable results from this continuation phase.
+The chapter framework is active across two documented sessions. Three-band +6 dB matching is now the default pink-noise boost condition; the next progression is to stabilize multi-frequency accuracy and confidence, reduce response time gradually, and then document transfer to music separately.
 
 Review the [available software](training-software/), [chapter framework](chapters/), [current progress](PROGRESS.md), and [immediate exercise queue](exercises/).
