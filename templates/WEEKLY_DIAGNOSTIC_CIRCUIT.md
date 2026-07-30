@@ -2,6 +2,8 @@
 
 Complete this circuit approximately once per week to gauge broad progress across the available technical-ear-training software. Unlike the adaptive daily warmup, this session touches every chapter and preserves enough time to distinguish an unfamiliar cue from a temporary bad trial.
 
+The long-term objective is working competence across all chapter areas. Weekly results identify which skills are established, which need focused development, and which are ready to move from reference exposure into the daily warmup. Strong areas remain active for retention while focused sessions push weaker areas forward.
+
 ## Purpose
 
 - Measure broad week-to-week development
