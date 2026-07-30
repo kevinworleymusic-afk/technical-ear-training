@@ -1,6 +1,6 @@
 # Ear Training Chapters
 
-This section documents continued work with the chapter-based technical ear-training software stored in the linked Google Drive folder. The current continuation phase contains **733 scored trials across two sessions**. Results below are synchronized with the central [progress dashboard](../PROGRESS.md) and the dated [session logs](../logs/).
+This section documents continued work with the chapter-based technical ear-training software stored in the linked Google Drive folder. The current continuation phase contains **733 scored trials across two sessions**. Results below are synchronized with the central [progress dashboard](../PROGRESS.md) and the dated [session logs](../logs/). Normal practice uses the [adaptive daily warmup](../templates/DAILY_WARMUP_PROGRESSION.md); broad cross-chapter progress is checked with the [weekly diagnostic circuit](../templates/WEEKLY_DIAGNOSTIC_CIRCUIT.md).
 
 ## Available Curriculum and Current Evidence
 
