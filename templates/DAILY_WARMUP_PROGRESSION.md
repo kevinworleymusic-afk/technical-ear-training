@@ -6,6 +6,21 @@ Use this warmup on normal practice days. It reinforces the skills that currently
 
 The long-term goal is working competence across every available chapter: EQ, Mid/Side, reverberation, compression, expansion, distortion, and editing. The daily warmup begins with skills that currently produce usable cues, while rotating familiarity blocks and focused sessions develop the remaining categories. A developing skill moves into the established daily warmup only after its cue becomes repeatable enough for meaningful practice. As more categories become reliable, the warmup expands or rotates to include them without continuously increasing its total length.
 
+## Session-Log Creation Workflow
+
+Use this sheet as the planning reference before creating each dated session log:
+
+1. Review the established and rotating sections below.
+2. Choose the skills appropriate for that day, based on current competence and the next development need.
+3. Set an exact total warmup duration—normally **12, 13, or 14 minutes**—and assign every minute in the session log's warmup timetable before beginning.
+4. Open the required chapter software, load the intended sources, and confirm the audio path before starting the exercise timer.
+5. Use a countdown or interval timer for each block and complete as many careful trials as possible within its allotted time.
+6. Record the actual trials completed, correct responses, accuracy when meaningful, task type, and the most useful cue or confusion.
+7. Record software/setup interruptions separately. Do not count troubleshooting, loading, routing, or glitch time as listening-practice time or scored trials.
+8. After the warmup, continue into an optional focused block or the weekly 30- or 45-minute diagnostic when planned.
+
+The timetable is generated for the specific day rather than copied blindly: established skills remain represented, while rotating and focus areas change with current progress. The sum of the planned block times must equal the stated warmup duration exactly.
+
 ## Normal Daily Target
 
 - **Audio-path check:** 1 minute
@@ -17,7 +32,7 @@ The long-term goal is working competence across every available chapter: EQ, Mid
 
 A 10–20 minute primary-focus block may follow when time and attention allow.
 
-Warmup blocks are governed by time rather than trial quotas. Record the number of trials completed during the time window. Warmup results enter the cumulative dashboard only when the full comparable setup and score are documented as a formal exercise.
+Warmup blocks are governed by time rather than trial quotas. Record the number of trials completed during the time window. The timer begins only after the software, source, routing, and audio path are ready. Pause it for any software glitch or setup interruption and record that interruption separately. Warmup results enter the cumulative dashboard only when the full comparable setup and score are documented as a formal exercise.
 
 ## Session Information
 
