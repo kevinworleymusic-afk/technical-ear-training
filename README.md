@@ -1,24 +1,24 @@
 # Technical Ear Training
 
-A [structured, documented practice system](PROGRESS.md) for developing [critical-listening skills](PRIOR_EXPERIENCE.md) in [audio engineering and system evaluation](https://github.com/kevinworleymusic-afk/engineering-development-portfolio), with longer-term application to [automotive audio](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study).
+A structured, documented practice system for developing critical-listening skills in audio engineering and system evaluation, with longer-term application to automotive audio.
+
+Review the [prior listening background](PRIOR_EXPERIENCE.md), [progress dashboard](PROGRESS.md), [chapter curriculum](chapters/), [completed exercise evidence](exercises/), [session records](logs/), and [main Technical Audio Engineering Portfolio](https://github.com/kevinworleymusic-afk/engineering-development-portfolio).
 
 ## Prior Training and Continued Development
-
-**[Read my prior listening and ear-training experience →](PRIOR_EXPERIENCE.md)**
 
 I began developing technical-listening skills through extensive independent practice on [SoundGym](https://www.soundgym.co/member/profile?m=byy1s26wj7u), producing a **quantified public training record** with an SPI of **3,410,130** and SoundGym's **Diamond Ears Award**. [SoundGym calculates SPI from the three highest scores in each audio game](https://www.soundgym.co/help/item?id=how-is-spi-calculated), so the result supports performance across standardized frequency, dynamics, level, panning, and spatial-listening exercises rather than simply recording participation volume. I later learned and practiced [Jason Corey's *Audio Production and Critical Listening: Technical Ear Training* methodology](https://sites.google.com/a/umich.edu/jason-corey/technical-ear-training) in an academic course. This repository is **continued execution of that previously established course-based training**, using [defined software chapters](chapters/), [newly documented comparison points and progress tracking](PROGRESS.md), and technical reflection to extend my broader [musical, educational, studio, research, and measurement background](PRIOR_EXPERIENCE.md). It does not represent my first exposure to or first use of the program, and the SoundGym record is used as supporting evidence rather than an unsupported percentile claim.
 
 ## Training Progress
 
-**[View the chapter progress dashboard →](PROGRESS.md)**
+This repository documents measurable development through a chapter-based technical ear-training curriculum covering equalization, Mid/Side listening, reverberation, compression, expansion, distortion, and editing.
 
-This repository documents [measurable development](PROGRESS.md) through a [chapter-based technical ear-training curriculum](chapters/) covering equalization, Mid/Side listening, reverberation, compression, expansion, distortion, and editing.
+Review the [cumulative progress dashboard](PROGRESS.md), [chapter-level evidence](chapters/), [exercise library](exercises/), and [dated session logs](logs/).
 
 ## Training Software
 
-**[View the software and download information →](training-software/)**
+The standalone chapter applications are stored externally because each package is approximately 1.22 GB. GitHub contains the curriculum map, training method, session records, and interpretation of results.
 
-The [standalone chapter applications](training-software/) are stored externally because each package is approximately 1.22 GB. GitHub contains the [curriculum map](chapters/), [training method](templates/SESSION_LOG.md), [session records](logs/), and [interpretation of results](PROGRESS.md).
+Review the [software and download information](training-software/), [curriculum map](chapters/), [session template](templates/SESSION_LOG.md), [session records](logs/), and [progress interpretation](PROGRESS.md).
 
 ## Purpose
 
