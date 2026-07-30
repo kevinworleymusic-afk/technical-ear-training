@@ -38,7 +38,9 @@ Develop recognition of frequency regions and audible changes produced by equaliz
 
 ## Next Work
 
-- Use three-band +6 dB matching as the default for future pink-noise boost practice under the current one-octave, Q 2, 250 Hz–8 kHz settings; use one- and two-band conditions for retention or diagnostic checks and test memory-based identification separately.
+- Use three-band +6 dB matching as the default for future pink-noise boost practice under the current one-octave, Q 2, 250 Hz–8 kHz settings.
+- Keep multi-frequency work in every routine boost session; use one- and two-band conditions only for calibration, retention, controlled comparison, or troubleshooting.
+- Increase response speed gradually as confidence and accuracy stabilize, then introduce music as a separately documented transfer condition.
 - Continue -6 dB and smaller cut matching.
 - Revisit +3 dB boosts after a delay to test retention.
 - Record the frequency regions most often confused.
