@@ -26,4 +26,8 @@ Start from the [full session-log template](../templates/SESSION_LOG.md). Review 
 
 ## Focused Work After the Warmup
 
-After completing the timed warmup, enter one selected focus in the dated log. Use the [focused development block](../templates/FOCUSED_DEVELOPMENT_BLOCK.md) to turn it into an immediate implementation plan with a defined objective, controlled variables, staged exercises, advancement decisions, and stopping rules. This work is not limited by a predetermined duration; elapsed valid listening time and trial count are recorded after the block.
+After completing the timed warmup, enter one broad development category in the dated log. Use the [focused development block](../templates/FOCUSED_DEVELOPMENT_BLOCK.md) to turn it into an immediate implementation plan with a defined objective, controlled variables, staged exercises, advancement decisions, and stopping rules. This work is not limited by a predetermined duration; elapsed valid listening time and trial count are recorded after the block.
+
+## Weekly Lesson Planning
+
+Use the [weekly lesson-plan template](../templates/WEEKLY_LESSON_PLAN.md) to choose broad warmup categories and a recurring development focus up to seven days ahead. Each day's detailed warmup and development instructions are generated in its dated log using the latest available evidence, in the same way a teacher converts a weekly curriculum objective into a daily lesson.
