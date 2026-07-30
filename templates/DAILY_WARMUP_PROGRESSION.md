@@ -2,6 +2,10 @@
 
 Use this warmup on normal practice days. It reinforces the skills that currently have usable cues while gradually building familiarity in chapters that are still exploratory or unscored. It is not intended to test every software module every day; the [Weekly Full-Chapter Diagnostic Circuit](WEEKLY_DIAGNOSTIC_CIRCUIT.md) serves that purpose.
 
+## Competency-Building Approach
+
+The long-term goal is working competence across every available chapter: EQ, Mid/Side, reverberation, compression, expansion, distortion, and editing. The daily warmup begins with skills that currently produce usable cues, while rotating familiarity blocks and focused sessions develop the remaining categories. A developing skill moves into the established daily warmup only after its cue becomes repeatable enough for meaningful practice. As more categories become reliable, the warmup expands or rotates to include them without continuously increasing its total length.
+
 ## Normal Daily Target
 
 - **Audio-path check:** 1 minute
