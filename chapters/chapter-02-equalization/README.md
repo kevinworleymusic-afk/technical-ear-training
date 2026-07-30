@@ -1,7 +1,7 @@
 # Chapter 2 — Equalization
 
 **Software module:** TETpracticeEQ  
-**Current evidence:** [Session 1](../../logs/2026-07-27_session-01.md) and the [progress dashboard](../../PROGRESS.md)
+**Current evidence:** [Session 1](../../logs/2026-07-27_session-01.md), [Session 2](../../logs/2026-07-30_session-02.md), and the [progress dashboard](../../PROGRESS.md)
 
 ## Training Focus
 
@@ -9,10 +9,10 @@ Develop recognition of frequency regions and audible changes produced by equaliz
 
 ## Progress Summary
 
-- **Documented baseline:** Session 1, 2026-07-27
-- **Cumulative range:** 80–90% across the five scored pink-noise EQ criteria
-- **Best exercise:** 90%
-- **Sessions completed:** 1
+- **Documented work:** Sessions 1–2, 2026-07-27 through 2026-07-30
+- **Cumulative range:** 80–97% across six scored pink-noise EQ criteria
+- **Best exercise:** 97% on two-band +6 dB matching
+- **Sessions completed:** 2
 - **Status:** Active — large and moderate boost matching is strongest; smaller boosts and cuts remain active practice areas
 
 ## Scored Evidence
@@ -21,13 +21,15 @@ Develop recognition of frequency regions and audible changes produced by equaliz
 |---|---:|---:|---:|---|
 | +12 dB octave-band boost, pink noise | 100 | 90% | 90% | Working criterion met |
 | +6 dB octave-band boost, pink noise | 109 | 89.9% | 90% | Working criterion met |
+| Two simultaneous +6 dB boosts, pink noise | 30 | 97% (software-reported) | 97% | Working criterion met; matching only |
 | +3 dB octave-band boost, pink noise | 51 | 82.4% | 83% | Continued practice |
 | -12 dB octave-band cut, pink noise | 50 | 82% | 82% | Continued practice |
 | -6 dB cut, 250 Hz–8 kHz, pink noise | 62 | 80% | 80% | Continued practice |
 
 ## Current Listening Observations
 
-- Large and moderate boosts were identified most consistently.
+- Large and moderate boosts were matched most consistently.
+- The 97% two-band result used direct matching; it does not establish memorized or rapid identification.
 - Accuracy decreased as boost magnitude fell to +3 dB.
 - Cuts were harder than boosts.
 - During cut exercises, neighboring frequency regions sometimes appeared more prominent, producing adjacent-band errors.
@@ -35,6 +37,7 @@ Develop recognition of frequency regions and audible changes produced by equaliz
 
 ## Next Work
 
+- Repeat two-band +6 dB matching after a delay, then test memory-based identification separately.
 - Continue -6 dB and smaller cut matching.
 - Revisit +3 dB boosts after a delay to test retention.
 - Record the frequency regions most often confused.
@@ -43,7 +46,8 @@ Develop recognition of frequency regions and audible changes produced by equaliz
 ## Session Logs
 
 - [2026-07-27 — Session 1: EQ, Distortion, Dynamics, and Reverb](../../logs/2026-07-27_session-01.md)
+- [2026-07-30 — Session 2: Two-Band EQ Boost Matching](../../logs/2026-07-30_session-02.md)
 
 ## Chapter Reflection
 
-The initial results establish a strong controlled-source foundation for octave-band boost identification, with less reliable performance for cuts and smaller changes. Continued work will test whether these cues remain stable across delayed sessions, program material, and playback systems before broader tonal-balance competence is claimed.
+The documented results establish a strong controlled-source foundation for EQ boost matching, with less reliable performance for cuts and smaller changes. Matching, memorized identification, and rapid identification remain explicitly separate competencies. Continued work will test whether these cues remain stable across delayed sessions, program material, and playback systems before broader tonal-balance competence is claimed.
