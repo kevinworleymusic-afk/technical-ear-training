@@ -43,7 +43,7 @@ Review the [chapter curriculum](chapters/), [session-log method](templates/SESSI
 - [exercises/](exercises/) — completed exercise evidence, exploratory work, and reusable exercise formats
 - [training-software/](training-software/) — software access and documentation
 - [templates/SESSION_LOG.md](templates/SESSION_LOG.md) — repeatable full-session template
-- [templates/DAILY_WARMUP_PROGRESSION.md](templates/DAILY_WARMUP_PROGRESSION.md) — daily listening-chain check, Chapters 2–6 warmup circuit, progression rules, and primary-focus record
+- [templates/DAILY_WARMUP_PROGRESSION.md](templates/DAILY_WARMUP_PROGRESSION.md) — time-boxed listening-chain check, Chapters 2–6 warmup circuit, progression rules, and primary-focus record
 - [logs/](logs/) — dated results and progress evidence
 - [LIBRARY.md](LIBRARY.md) — technical listening concepts and references
 
