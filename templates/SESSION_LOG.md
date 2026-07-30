@@ -11,8 +11,30 @@
 - **Program material:**
 - **Approximate playback level:**
 - **Tools or software:**
-- **Daily warmup sheet used:** Yes / No
+- **Daily warmup sheet reviewed before planning:** Yes / No
 - **Weekly diagnostic used:** Yes / No
+
+## Daily Warmup Plan
+
+Before beginning, review the [Daily Adaptive Critical-Listening Warmup](DAILY_WARMUP_PROGRESSION.md), choose today's established and developing areas, and generate this timetable for the specific session. Use an exact **12-, 13-, or 14-minute** total unless the abbreviated warmup is intentionally selected.
+
+| Order | Warmup block | Chapter / software | Task type and condition | Planned minutes | Actual trials | Correct / accuracy | Cue, confusion, or observation |
+|---:|---|---|---|---:|---:|---|---|
+| 1 | Audio-path and level check | System | Setup only | 1 | — | — |  |
+| 2 |  |  |  |  |  |  |  |
+| 3 |  |  |  |  |  |  |  |
+| 4 |  |  |  |  |  |  |  |
+| 5 |  |  |  |  |  |  |  |
+| 6 | Brief summary | Log | Reflection | 1 | — | — |  |
+|  | **Total** |  |  | **__ minutes** |  |  |  |
+
+**Planning check:** The block times above sum exactly to the stated warmup duration.  
+**Timer used:**  
+**Warmup start / finish:**  
+**Software or setup interruptions:** None / describe below  
+**Excluded interruption time:**  
+
+Open and prepare all required chapter applications and source material before starting the first exercise block. Use a countdown or interval timer and complete as many careful trials as possible within each block. Pause the timer for loading, routing, crashes, missing audio, or other software/setup problems; these interruptions are documented but do not count as listening-practice time or scored trials.
 
 ## Training Goal
 
@@ -73,4 +95,4 @@ Note uncontrolled variables, possible bias, equipment limits, fatigue, or insuff
 
 Define one specific change in difficulty or method. When progressing multi-frequency EQ practice, stabilize accuracy and confidence before reducing response time, then introduce music as a separately documented transfer condition.
 
-Review the [Daily Critical-Listening Warmup and Progression Sheet](DAILY_WARMUP_PROGRESSION.md) before the next focused session.
+Review the [Daily Adaptive Critical-Listening Warmup](DAILY_WARMUP_PROGRESSION.md), select the next day's blocks, and generate its exact timetable in the new dated session log before practice begins.
