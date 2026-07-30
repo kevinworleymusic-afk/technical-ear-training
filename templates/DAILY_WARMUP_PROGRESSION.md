@@ -56,7 +56,7 @@ Use one affected band only as a brief reference calibration, not the routine pra
 
 Use two affected bands as a short transition into the current three-band practice level.
 
-- **Suggested trials:** 3–5
+- **Suggested trials:** 6–10
 - Maintain the fixed pink-noise EQ settings above.
 - Listen for both tonal changes rather than stopping after recognizing only one.
 
