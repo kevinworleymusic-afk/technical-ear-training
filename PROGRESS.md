@@ -21,7 +21,7 @@ This dashboard summarizes cumulative measurable progress through the available s
 - **Total training time:** at least approximately 1 hour 20 minutes; Session 2 duration was not recorded
 - **Current chapters:** Chapters 2 and 5, with exploratory work in Chapters 3B and 4A
 - **Last session:** 2026-07-30
-- **Next target:** Use three-band +6 dB matching as the default for future pink-noise boost practice; later test delayed retention and memory-based or rapid identification separately
+- **Next target:** Continue three-band +6 dB pink-noise matching, increase response speed gradually as confidence stabilizes, and then introduce music as a separately documented transfer condition
 
 ## Cumulative Performance Dashboard
 
@@ -57,7 +57,7 @@ Each row represents one comparable combination of skill, sample type, and test c
 - **Highest individual result:** 97% across 30 two-band +6 dB pink-noise EQ matching trials using one-octave center frequencies, Q 2, over 250 Hz–8 kHz; the three-band condition reached 90% across 10 trials.
 - **Largest scored trial base:** sine-wave hard-clipping matching, with approximately 201 total attempts, approximately 86% cumulative accuracy, and a best individual exercise score of 88%.
 - **Most persistent weakness:** bit-depth reduction on pink noise; reliable listening cues did not emerge during the first 20 trials.
-- **Training strategy:** three-band +6 dB matching is now the default for pink-noise boost practice; one- and two-band conditions remain available for retention or diagnostic checks. Memory-based and rapid identification remain separate skills to test, while compression and reverb require direct parameter manipulation before formal testing.
+- **Training strategy:** multi-frequency work will remain part of routine practice, with three-band +6 dB matching as the pink-noise boost default. Response speed will increase gradually after confidence and accuracy stabilize, followed by separately documented transfer to music. One- and two-band conditions remain available for calibration, retention, or diagnostic checks.
 - **Technical application:** the work is building repeatable listening judgments that can later be compared with measurements and applied to tonal balance, distortion recognition, and system tuning.
 
 ## Working Mastery Criteria
