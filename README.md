@@ -22,7 +22,7 @@ Review the [cumulative progress dashboard](PROGRESS.md), [chapter-level evidence
 
 The standalone chapter applications are stored externally because each package is approximately 1.22 GB. GitHub contains the curriculum map, training method, session records, and interpretation of results.
 
-Review the [software and download information](training-software/), [curriculum map](chapters/), [session template](templates/SESSION_LOG.md), [daily warmup progression](templates/DAILY_WARMUP_PROGRESSION.md), [session records](logs/), and [progress interpretation](PROGRESS.md).
+Review the [software and download information](training-software/), [curriculum map](chapters/), [session template](templates/SESSION_LOG.md), [adaptive daily warmup](templates/DAILY_WARMUP_PROGRESSION.md), [weekly diagnostic circuit](templates/WEEKLY_DIAGNOSTIC_CIRCUIT.md), [session records](logs/), and [progress interpretation](PROGRESS.md).
 
 ## Purpose
 
@@ -43,7 +43,8 @@ Review the [chapter curriculum](chapters/), [session-log method](templates/SESSI
 - [exercises/](exercises/) — completed exercise evidence, exploratory work, and reusable exercise formats
 - [training-software/](training-software/) — software access and documentation
 - [templates/SESSION_LOG.md](templates/SESSION_LOG.md) — repeatable full-session template
-- [templates/DAILY_WARMUP_PROGRESSION.md](templates/DAILY_WARMUP_PROGRESSION.md) — time-boxed listening-chain check, Chapters 2–6 warmup circuit, progression rules, and primary-focus record
+- [templates/DAILY_WARMUP_PROGRESSION.md](templates/DAILY_WARMUP_PROGRESSION.md) — 12–14 minute warmup using established EQ/distortion skills and rotating familiarity work
+- [templates/WEEKLY_DIAGNOSTIC_CIRCUIT.md](templates/WEEKLY_DIAGNOSTIC_CIRCUIT.md) — 32–43 minute full Chapters 2–6 diagnostic for broad weekly progress
 - [logs/](logs/) — dated results and progress evidence
 - [LIBRARY.md](LIBRARY.md) — technical listening concepts and references
 
@@ -56,7 +57,7 @@ Review the [chapter curriculum](chapters/), [session-log method](templates/SESSI
 - Separate audible observations from technical interpretation.
 - Connect listening observations to measurements when practical.
 
-Review the [session-log method](templates/SESSION_LOG.md), [daily warmup progression](templates/DAILY_WARMUP_PROGRESSION.md), [progress baseline](PROGRESS.md), [dated listening records](logs/), [technical interpretation library](LIBRARY.md), and [measurement evidence](https://github.com/kevinworleymusic-afk/engineering-development-portfolio#technical-evidence-at-a-glance).
+Review the [session-log method](templates/SESSION_LOG.md), [adaptive daily warmup](templates/DAILY_WARMUP_PROGRESSION.md), [weekly diagnostic circuit](templates/WEEKLY_DIAGNOSTIC_CIRCUIT.md), [progress baseline](PROGRESS.md), [dated listening records](logs/), [technical interpretation library](LIBRARY.md), and [measurement evidence](https://github.com/kevinworleymusic-afk/engineering-development-portfolio#technical-evidence-at-a-glance).
 
 ## Portfolio Relevance
 
