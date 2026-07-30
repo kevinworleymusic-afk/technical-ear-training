@@ -1,7 +1,7 @@
 # Chapter 2 — Equalization
 
 **Software module:** TETpracticeEQ  
-**Current evidence:** [Session 1](../../logs/daily/2026-W31/2026-07-27_session-01.md), [Session 2](../../logs/daily/2026-W31/2026-07-30_session-02.md), and the [progress dashboard](../../PROGRESS.md)
+**Current evidence:** [Session 1](../../logs/03-daily/2026-W31/2026-07-27_session-01.md), [Session 2](../../logs/03-daily/2026-W31/2026-07-30_session-02.md), and the [progress dashboard](../../PROGRESS.md)
 
 ## Training Focus
 
@@ -48,8 +48,8 @@ Develop recognition of frequency regions and audible changes produced by equaliz
 
 ## Session Logs
 
-- [2026-07-27 — Session 1: EQ, Distortion, Dynamics, and Reverb](../../logs/daily/2026-W31/2026-07-27_session-01.md)
-- [2026-07-30 — Session 2: Multi-Band EQ Boost Matching](../../logs/daily/2026-W31/2026-07-30_session-02.md)
+- [2026-07-27 — Session 1: EQ, Distortion, Dynamics, and Reverb](../../logs/03-daily/2026-W31/2026-07-27_session-01.md)
+- [2026-07-30 — Session 2: Multi-Band EQ Boost Matching](../../logs/03-daily/2026-W31/2026-07-30_session-02.md)
 
 ## Chapter Reflection
 
