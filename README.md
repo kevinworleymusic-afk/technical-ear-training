@@ -44,7 +44,8 @@ Review the [chapter curriculum](chapters/), [session-log method](templates/SESSI
 - [training-software/](training-software/) — software access and documentation
 - [templates/SESSION_LOG.md](templates/SESSION_LOG.md) — repeatable full-session template
 - [templates/DAILY_WARMUP_PROGRESSION.md](templates/DAILY_WARMUP_PROGRESSION.md) — 12–14 minute warmup using established EQ/distortion skills and rotating familiarity work
-- [templates/FOCUSED_DEVELOPMENT_BLOCK.md](templates/FOCUSED_DEVELOPMENT_BLOCK.md) — objective-limited implementation template generated from the focus selected after each warmup
+- [templates/FOCUSED_DEVELOPMENT_BLOCK.md](templates/FOCUSED_DEVELOPMENT_BLOCK.md) — objective-limited implementation template generated from the broad category selected after each warmup
+- [templates/WEEKLY_LESSON_PLAN.md](templates/WEEKLY_LESSON_PLAN.md) — seven-day curriculum planner for broad warmup categories, recurring development focuses, diagnostics, and daily adaptation
 - [templates/WEEKLY_DIAGNOSTIC_CIRCUIT.md](templates/WEEKLY_DIAGNOSTIC_CIRCUIT.md) — 30–45 minute full Chapters 2–6 diagnostic for broad weekly progress
 - [logs/](logs/) — dated results and progress evidence
 - [LIBRARY.md](LIBRARY.md) — technical listening concepts and references
@@ -53,7 +54,7 @@ Review the [chapter curriculum](chapters/), [session-log method](templates/SESSI
 
 - Create each dated session log from the [session template](templates/SESSION_LOG.md), review the [daily warmup progression](templates/DAILY_WARMUP_PROGRESSION.md), and assign an exact 12-, 13-, or 14-minute timetable before practice.
 - Prepare the required software before starting the timer; complete as many careful trials as possible within each warmup block and exclude documented software/setup interruptions from practice time.
-- After the warmup, enter one selected focus and generate an immediately executable [focused development block](templates/FOCUSED_DEVELOPMENT_BLOCK.md); this block ends by objective, evidence, or listening-quality criteria rather than a fixed duration.
+- After the warmup, enter one broad development category and generate an immediately executable [focused development block](templates/FOCUSED_DEVELOPMENT_BLOCK.md); this block ends by objective, evidence, or listening-quality criteria rather than a fixed duration.
 - Use comparable settings when measuring improvement.
 - Record a new, comparable documentation baseline for this continuation phase before focusing on a score target.
 - Preserve incorrect judgments and recurring confusions.
@@ -61,7 +62,7 @@ Review the [chapter curriculum](chapters/), [session-log method](templates/SESSI
 - Separate audible observations from technical interpretation.
 - Connect listening observations to measurements when practical.
 
-Review the [session-log method](templates/SESSION_LOG.md), [adaptive daily warmup](templates/DAILY_WARMUP_PROGRESSION.md), [weekly diagnostic circuit](templates/WEEKLY_DIAGNOSTIC_CIRCUIT.md), [progress baseline](PROGRESS.md), [dated listening records](logs/), [technical interpretation library](LIBRARY.md), and [measurement evidence](https://github.com/kevinworleymusic-afk/engineering-development-portfolio#technical-evidence-at-a-glance).
+Review the [weekly lesson plan](templates/WEEKLY_LESSON_PLAN.md), [session-log method](templates/SESSION_LOG.md), [adaptive daily warmup](templates/DAILY_WARMUP_PROGRESSION.md), [weekly diagnostic circuit](templates/WEEKLY_DIAGNOSTIC_CIRCUIT.md), [progress baseline](PROGRESS.md), [dated listening records](logs/), [technical interpretation library](LIBRARY.md), and [measurement evidence](https://github.com/kevinworleymusic-afk/engineering-development-portfolio#technical-evidence-at-a-glance).
 
 ## Portfolio Relevance
 
