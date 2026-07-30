@@ -119,7 +119,7 @@ These exercise formats support later sessions and applications beyond the standa
 
 ## Documentation Method
 
-For each new exercise:
+For each new exercise, use the [daily warmup progression sheet](../templates/DAILY_WARMUP_PROGRESSION.md) before focused practice when appropriate.
 
 1. Record source, processing, settings, trials, correct answers, accuracy, and confidence where available.
 2. Separate exploratory exposure from formally scored work.
