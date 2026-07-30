@@ -21,7 +21,7 @@ This dashboard summarizes cumulative measurable progress through the available s
 - **Total training time:** at least approximately 1 hour 20 minutes; Session 2 duration was not recorded
 - **Current chapters:** Chapters 2 and 5, with exploratory work in Chapters 3B and 4A
 - **Last session:** 2026-07-30
-- **Next target:** Continue Session 2; later test whether two- and three-band +6 dB matching transfers to delayed, memory-based, or rapid identification
+- **Next target:** Use three-band +6 dB matching as the default for future pink-noise boost practice; later test delayed retention and memory-based or rapid identification separately
 
 ## Cumulative Performance Dashboard
 
@@ -57,7 +57,7 @@ Each row represents one comparable combination of skill, sample type, and test c
 - **Highest individual result:** 97% across 30 two-band +6 dB pink-noise EQ matching trials using one-octave center frequencies, Q 2, over 250 Hz–8 kHz; the three-band condition reached 90% across 10 trials.
 - **Largest scored trial base:** sine-wave hard-clipping matching, with approximately 201 total attempts, approximately 86% cumulative accuracy, and a best individual exercise score of 88%.
 - **Most persistent weakness:** bit-depth reduction on pink noise; reliable listening cues did not emerge during the first 20 trials.
-- **Training strategy:** comparison-based matching has worked well for EQ and hard clipping, while memory-based or rapid identification remains a separate skill to test; compression and reverb appear to require direct parameter manipulation before formal testing.
+- **Training strategy:** three-band +6 dB matching is now the default for pink-noise boost practice; one- and two-band conditions remain available for retention or diagnostic checks. Memory-based and rapid identification remain separate skills to test, while compression and reverb require direct parameter manipulation before formal testing.
 - **Technical application:** the work is building repeatable listening judgments that can later be compared with measurements and applied to tonal balance, distortion recognition, and system tuning.
 
 ## Working Mastery Criteria
