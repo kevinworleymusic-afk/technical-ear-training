@@ -4,8 +4,9 @@
 
 Build a reliable descriptive vocabulary using obvious, single-variable changes.
 
-- ✅ Octave-band EQ identification — comfortable checking this off specifically for pink-noise exercises.
-- ✅ Large level differences — comfortable checking this off specifically for the large EQ boost/cut differences heard on pink noise.
+- ✅ One-band EQ boost matching — working criterion met for the documented pink-noise settings.
+- ✅ Multi-band EQ boost matching — 97% across 30 two-band trials and 90% across 10 three-band trials under the current +6 dB, one-octave center-frequency, Q 2, 250 Hz–8 kHz settings.
+- ✅ Large EQ boost/cut matching — working evidence applies specifically to the documented pink-noise conditions.
 - ◐ Obvious compression and clipping — nearly comfortable checking off hard clipping specifically for sine-wave exercises; compression and clipping on other sound materials still need more work.
 - Basic left/center/right localization
 - Short versus long reverberation
@@ -25,11 +26,19 @@ Build a reliable descriptive vocabulary using obvious, single-variable changes.
 - Compression: exploratory practice only; no scored assessment.
 - Reverb: exploratory practice only; no scored assessment.
 
+**Session 2 (2026-07-30)**
+- Two-band EQ Boost Matching (+6 dB): 97% (30 trials)
+- Three-band EQ Boost Matching (+6 dB): 90% (10 trials)
+- Shared conditions: pink noise, one-octave center frequencies, Q 2, 250 Hz–8 kHz
+- Current decision: use three-band matching as the routine pink-noise boost condition
+
 ## Stage 2 — Smaller Changes and Confidence
 
 Reduce the size of changes and track whether confidence matches accuracy.
 
 - ±3 dB EQ changes
+- Gradual response-time reduction for stable multi-frequency matching
+- Memory-based and rapid identification as separately labeled tasks
 - Small loudness differences
 - Attack and release comparisons
 - Width and depth judgments
@@ -57,7 +66,7 @@ Apply isolated skills to real music and speech.
 
 ### Session Progress
 
-No Stage 3 exercises completed yet.
+No Stage 3 exercises completed yet. Music will be introduced after multi-frequency pink-noise accuracy and confidence stabilize; music results will be logged separately to test transfer.
 
 ## Stage 4 — Measurement Correlation
 
