@@ -6,7 +6,7 @@
 
 See the [full category descriptions and input format](CATEGORY_CHOOSER.md).
 
-Use this template to plan ear-training instruction one week at a time. It treats the week like a teacher's lesson plan while preserving day-to-day adjustment based on evidence.
+Use this template to plan ear-training instruction one week at a time. When planning beyond one week, begin with the [Monthly Critical-Listening Lesson Calendar](MONTHLY_LESSON_CALENDAR.md), then refine the current week here. It treats the week like a teacher's lesson plan while preserving day-to-day adjustment based on evidence.
 
 The listener chooses broad categories. The detailed session plan is then generated from the current [progress dashboard](../PROGRESS.md), [chapter curriculum](../chapters/), [daily warmup progression](DAILY_WARMUP_PROGRESSION.md), and prior session logs.
 
