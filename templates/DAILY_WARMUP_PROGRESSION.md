@@ -17,7 +17,7 @@ Use this sheet as the planning reference before creating each dated session log:
 5. Use a countdown or interval timer for each block and complete as many careful trials as possible within its allotted time.
 6. Record the actual trials completed, correct responses, accuracy when meaningful, task type, and the most useful cue or confusion.
 7. Record software/setup interruptions separately. Do not count troubleshooting, loading, routing, or glitch time as listening-practice time or scored trials.
-8. After the warmup, continue into an optional focused block or the weekly 30- or 45-minute diagnostic when planned.
+8. After the warmup, enter one selected focus in the dated session log. Use the [Focused Development Block](FOCUSED_DEVELOPMENT_BLOCK.md) to generate an immediately executable plan based on that focus, or use the weekly 30- or 45-minute diagnostic when planned.
 
 The timetable is generated for the specific day rather than copied blindly: established skills remain represented, while rotating and focus areas change with current progress. The sum of the planned block times must equal the stated warmup duration exactly.
 
@@ -192,16 +192,17 @@ As additional categories develop repeatable cues, move them from the rotating fa
 
 The weekly diagnostic remains the place to cover every chapter in one session.
 
-## Optional Primary-Focus Block — 10–20 Minutes
+## Optional Primary-Focus Block — Objective-Limited
 
-Choose one skill after the warmup:
+Choose one skill after the warmup. This block has no preset time limit; follow the [Focused Development Block](FOCUSED_DEVELOPMENT_BLOCK.md) and stop when its objective, evidence requirement, listening-quality limit, or other stated stopping rule is reached.
+
 
 - **Chapter / skill:**
 - **Goal:**
 - **Source:**
 - **Settings:**
 - **Task type:** Matching / memorized identification / rapid identification / exploratory listening
-- **Time:**
+- **Elapsed valid listening time:**
 - **Trials completed:**
 - **Correct:**
 - **Accuracy:**
