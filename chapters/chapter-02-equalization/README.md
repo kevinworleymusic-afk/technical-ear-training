@@ -38,7 +38,7 @@ Develop recognition of frequency regions and audible changes produced by equaliz
 
 ## Next Work
 
-- Repeat two- and three-band +6 dB matching after a delay, then test memory-based identification separately.
+- Use three-band +6 dB matching as the default for future pink-noise boost practice under the current one-octave, Q 2, 250 Hz–8 kHz settings; use one- and two-band conditions for retention or diagnostic checks and test memory-based identification separately.
 - Continue -6 dB and smaller cut matching.
 - Revisit +3 dB boosts after a delay to test retention.
 - Record the frequency regions most often confused.
@@ -51,4 +51,4 @@ Develop recognition of frequency regions and audible changes produced by equaliz
 
 ## Chapter Reflection
 
-The documented results establish a strong controlled-source foundation for EQ boost matching, with less reliable performance for cuts and smaller changes. Matching, memorized identification, and rapid identification remain explicitly separate competencies. Continued work will test whether these cues remain stable across delayed sessions, program material, and playback systems before broader tonal-balance competence is claimed.
+The documented results establish a strong controlled-source foundation for EQ boost matching, with less reliable performance for cuts and smaller changes. Matching, memorized identification, and rapid identification remain explicitly separate competencies. Based on Session 2, routine pink-noise boost practice now progresses from the three-band matching condition. Continued work will test whether these cues remain stable across delayed sessions, program material, and playback systems before broader tonal-balance competence is claimed.
