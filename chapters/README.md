@@ -1,6 +1,6 @@
 # Ear Training Chapters
 
-This section documents continued work with the chapter-based technical ear-training software stored in the linked Google Drive folder. The current continuation phase contains **733 scored trials across two sessions**. Results below are synchronized with the central [progress dashboard](../PROGRESS.md) and the dated [session logs](../logs/). Normal practice uses the [adaptive daily warmup](../templates/DAILY_WARMUP_PROGRESSION.md); broad cross-chapter progress is checked with the [30–45 minute weekly diagnostic circuit](../templates/WEEKLY_DIAGNOSTIC_CIRCUIT.md).
+This section documents continued work with the chapter-based technical ear-training software stored in the linked Google Drive folder. The current continuation phase contains **733 scored trials across two sessions**. Results below are synchronized with the central [progress dashboard](../PROGRESS.md) and the dated [session logs](../logs/). Normal practice uses the [adaptive daily warmup](../templates/daily/DAILY_WARMUP_PROGRESSION.md); broad cross-chapter progress is checked with the [30–45 minute weekly diagnostic circuit](../templates/weekly/WEEKLY_DIAGNOSTIC_CIRCUIT.md).
 
 ## Available Curriculum and Current Evidence
 
@@ -30,4 +30,4 @@ Each chapter records:
 - links to dated session logs
 - a chapter reflection after sufficient practice
 
-Use the central [progress dashboard](../PROGRESS.md) for the cumulative cross-chapter view, [Session 1](../logs/2026-07-27_session-01.md) for the original multi-skill baseline, and [Session 2](../logs/2026-07-30_session-02.md) for the current multi-band EQ results and progression decision.
+Use the central [progress dashboard](../PROGRESS.md) for the cumulative cross-chapter view, [Session 1](../logs/daily/2026-W31/2026-07-27_session-01.md) for the original multi-skill baseline, and [Session 2](../logs/daily/2026-W31/2026-07-30_session-02.md) for the current multi-band EQ results and progression decision.
