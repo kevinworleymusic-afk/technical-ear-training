@@ -17,6 +17,7 @@ This dashboard summarizes cumulative measurable progress through the available s
 ## Practice Totals
 
 - **Total sessions:** 2
+- **Total documented scored trials:** 723, including one approximately reported 100-trial exercise
 - **Total training time:** at least approximately 1 hour 20 minutes; Session 2 duration was not recorded
 - **Current chapters:** Chapters 2 and 5, with exploratory work in Chapters 3B and 4A
 - **Last session:** 2026-07-30
