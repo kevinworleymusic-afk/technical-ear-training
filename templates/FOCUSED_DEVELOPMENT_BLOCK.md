@@ -1,13 +1,17 @@
 # Focused Development Block
 
-Use this template after the timed daily warmup. The listener supplies a **selected focus**, and the block is then completed with a specific implementation plan using the current chapter evidence and progress dashboard.
+Use this template after the timed daily warmup. The listener supplies a **broad development category**—EQ, Mid/Side, reverberation, compression, expansion, distortion, or editing—and the block is then completed with a specific implementation plan using the current chapter evidence and progress dashboard.
 
 Unlike the warmup, this block has **no preset duration**. It continues until the planned learning objective or stopping rule is reached. Trial count and elapsed time are recorded as outcomes rather than quotas.
 
 ## Input
 
-**Selected focus:**  
+**Selected broad development category:**  
 **Reason selected from today's warmup:**  
+
+## Population Rule
+
+The listener does not need to specify the technical exercise. After the broad category is selected, populate the plan using the most recent session log, cumulative progress, chapter documentation, available software, and any active [weekly lesson plan](WEEKLY_LESSON_PLAN.md). Select the next defensible task rather than inventing a disconnected exercise.
 
 ## Implementation Plan
 
