@@ -48,9 +48,32 @@ Matching, memorized identification, rapid identification, and exploratory listen
 ## 2. Chapter 2 — Equalization
 
 **Software:** TETpracticeEQ  
-**Current routine:** Three-band pink-noise boost matching
+**Current routine:** Single-band rapid identification followed by three-band matching
 
-### Fixed Current Boost Settings
+### Stage A — Single-Band Rapid-Identification Primer
+
+Begin with one boosted band and respond without direct matching.
+
+- **Source:** Pink noise
+- **Affected bands:** 1
+- **Gain:** +3 dB or +6 dB
+- **Center-frequency range:** 250 Hz–8 kHz
+- **Frequency resolution:** One-octave center frequencies
+- **Q:** 2
+- **Task type:** Rapid identification
+- **Suggested warmup trials:** 3–5
+
+**Trials:**  
+**Correct:**  
+**Accuracy:**  
+**Response pace or time limit:**  
+**Confused frequencies:**  
+
+This primer practices retrieval speed and internal frequency references. Record it separately from matching results. If the cue is unclear, slow down and review the frequency rather than converting guesses into a misleading score.
+
+### Stage B — Three-Band Matching
+
+After the rapid-identification primer, move to the established multi-frequency condition.
 
 - **Source:** Pink noise
 - **Affected bands:** 3
@@ -67,7 +90,7 @@ Matching, memorized identification, rapid identification, and exploratory listen
 **Response pace:**  
 **Confused frequencies or missed-band patterns:**  
 
-One- and two-band conditions are reserved for calibration, delayed-retention checks, controlled comparisons, or troubleshooting. After confidence and accuracy stabilize, reduce response time gradually and then introduce music as a separately documented transfer condition.
+Two-band matching remains available for transition, delayed-retention checks, controlled comparisons, or troubleshooting. As confidence stabilizes, increase the pace of both stages without sacrificing accuracy, then introduce music as a separately documented transfer condition.
 
 ---
 
