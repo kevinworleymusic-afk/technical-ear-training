@@ -69,7 +69,7 @@ Use two affected bands as a short transition into the current three-band practic
 
 This is the standard daily pink-noise boost condition.
 
-- **Suggested trials:** 10
+- **Suggested trials:** 15
 - Identify or match all three affected bands under the fixed settings.
 - Preserve partial-recognition patterns when possible—for example, two bands recognized and one missed.
 
