@@ -27,19 +27,6 @@
 - [**July 20–26:** Connect portfolio, study, and ear-training structures.](../logs/02-weekly/2026-07-20_weekly-plan.md)
 - [**July 27–August 2:** Establish listening baselines and practice procedures.](../logs/02-weekly/2026-07-27_weekly-plan.md)
 
-### Month Objective
-
-[Transition from system setup into structured recurring practice and comparable evidence.](../logs/01-monthly/2026-08.md#month-objective)
-
-### Weekly Progression
-
-- [**August 1–2:** Complete initial procedure integration.](../logs/02-weekly/2026-07-27_weekly-plan.md)
-- [**August 3–9:** Begin the first structured practice cycle.](../logs/02-weekly/2026-08-03_weekly-plan.md)
-- [**August 10–16:** Stabilize the selected development focus.](../logs/02-weekly/2026-08-10_weekly-plan.md)
-- [**August 17–23:** Increase difficulty where evidence supports it.](../logs/02-weekly/2026-08-17_weekly-plan.md)
-- [**August 24–30:** Test retention and transfer.](../logs/02-weekly/2026-08-24_weekly-plan.md)
-- [**August 31:** Review August and set September priorities.](../logs/02-weekly/2026-08-31_weekly-plan.md)
-
 </details>
 
 <details open>
@@ -56,4 +43,17 @@
 | [**24**](../logs/01-monthly/2026-08.md) | [**25**](../logs/01-monthly/2026-08.md) | [**26**](../logs/01-monthly/2026-08.md) | [**27**](../logs/01-monthly/2026-08.md) | [**28**](../logs/01-monthly/2026-08.md) | [**29**](../logs/01-monthly/2026-08.md) | [**30**](../logs/01-monthly/2026-08.md) |
 | [**31**](../logs/01-monthly/2026-08.md) | — | — | — | — | — | — |
 
+
+### Month Objective
+
+[Transition from system setup into structured recurring practice and comparable evidence.](../logs/01-monthly/2026-08.md#month-objective)
+
+### Weekly Progression
+
+- [**August 1–2:** Complete initial procedure integration.](../logs/02-weekly/2026-07-27_weekly-plan.md)
+- [**August 3–9:** Begin the first structured practice cycle.](../logs/02-weekly/2026-08-03_weekly-plan.md)
+- [**August 10–16:** Stabilize the selected development focus.](../logs/02-weekly/2026-08-10_weekly-plan.md)
+- [**August 17–23:** Increase difficulty where evidence supports it.](../logs/02-weekly/2026-08-17_weekly-plan.md)
+- [**August 24–30:** Test retention and transfer.](../logs/02-weekly/2026-08-24_weekly-plan.md)
+- [**August 31:** Review August and set September priorities.](../logs/02-weekly/2026-08-31_weekly-plan.md)
 </details>
