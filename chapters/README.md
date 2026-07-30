@@ -6,7 +6,7 @@ This section documents continued work with the chapter-based technical ear-train
 
 | Chapter | Training area | Software modules | Documented evidence | Status |
 |---|---|---|---|---|
-| [2](chapter-02-equalization/) | Equalization | TETpracticeEQ | 372 scored pink-noise EQ trials across +12, +6, +3, -12, and -6 dB criteria; 80–90% cumulative accuracy by criterion | ◐ Active — boost matching is strongest; cuts remain in practice |
+| [2](chapter-02-equalization/) | Equalization | TETpracticeEQ | 412 scored pink-noise EQ trials across seven criteria; 80–97% by criterion; latest results: 97% two-band and 90% three-band +6 dB matching | ◐ Active — three-band boost matching is the default; cuts and transfer remain in practice |
 | [3](chapter-03-mid-side-reverb/) | Mid/Side and reverberation | TETlisteningMidSide; TETpracticeReverb | Initial exploratory reverb work; no formal reverb or Mid/Side score yet | ◐ Exploratory |
 | [4](chapter-04-compression-expansion/) | Compression and expansion | TETpracticeComp; TETpracticeExp | Initial exploratory compression work; no formal compression or expansion score yet | ◐ Exploratory |
 | [5](chapter-05-distortion/) | Distortion | TETpracticeDist | Approximately 321 scored trials across hard clipping and bit-depth reduction; best exercise 88% | ◐ Active — sine-wave clipping is strongest |
@@ -16,7 +16,7 @@ Chapter 1 is not documented because it was not visible in the supplied software 
 
 ## Current Interpretation
 
-The first documented continuation session established useful baselines in Chapters 2 and 5. EQ boost matching on pink noise is currently the strongest chapter-based result, while sine-wave hard-clipping matching is close to the working checkoff criterion. EQ cuts, pink-noise clipping, and bit-depth reduction remain active development areas. Compression and reverberation require direct parameter exploration before formal quiz-style testing; Mid/Side, expansion, and editing have not yet been scored.
+Two documented continuation sessions have established baselines in Chapters 2 and 5. EQ boost matching on pink noise is currently the strongest chapter-based result: Session 2 reached 97% across 30 two-band trials and 90% across 10 three-band trials under +6 dB, one-octave center-frequency, Q 2, 250 Hz–8 kHz conditions. Three-band matching is now the routine boost condition, with speed added gradually before transfer to music. Sine-wave hard-clipping matching remains close to its working checkoff criterion. EQ cuts, pink-noise clipping, and bit-depth reduction remain active development areas. Compression and reverberation require direct parameter exploration before formal quiz-style testing; Mid/Side, expansion, and editing have not yet been scored.
 
 These results describe performance only for the specific sources, settings, and exercises logged. They do not imply mastery across all program material or listening systems.
 
@@ -30,4 +30,4 @@ Each chapter records:
 - links to dated session logs
 - a chapter reflection after sufficient practice
 
-Use the central [progress dashboard](../PROGRESS.md) for the cumulative cross-chapter view and [Session 1](../logs/2026-07-27_session-01.md) for the underlying exercise details.
+Use the central [progress dashboard](../PROGRESS.md) for the cumulative cross-chapter view, [Session 1](../logs/2026-07-27_session-01.md) for the original multi-skill baseline, and [Session 2](../logs/2026-07-30_session-02.md) for the current multi-band EQ results and progression decision.
