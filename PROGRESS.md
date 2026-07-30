@@ -57,7 +57,7 @@ Each row represents one comparable combination of skill, sample type, and test c
 - **Highest individual result:** 97% across 30 two-band +6 dB pink-noise EQ matching trials using one-octave center frequencies, Q 2, over 250 Hz–8 kHz; the three-band condition reached 90% across 10 trials.
 - **Largest scored trial base:** sine-wave hard-clipping matching, with approximately 201 total attempts, approximately 86% cumulative accuracy, and a best individual exercise score of 88%.
 - **Most persistent weakness:** bit-depth reduction on pink noise; reliable listening cues did not emerge during the first 20 trials.
-- **Training strategy:** multi-frequency work will remain part of routine practice, with three-band +6 dB matching as the pink-noise boost default. Response speed will increase gradually after confidence and accuracy stabilize, followed by separately documented transfer to music. One- and two-band conditions remain available for calibration, retention, or diagnostic checks.
+- **Training strategy:** each practice day begins with a short Chapters 2–6 circuit, followed by one primary-focus block. Multi-frequency three-band +6 dB matching remains the pink-noise EQ default; response speed increases only after confidence and accuracy stabilize, followed by separately documented transfer to music. Unfamiliar compression, reverb, expansion, Mid/Side, and editing cues begin with reference listening rather than unsupported scoring.
 - **Technical application:** the work is building repeatable listening judgments that can later be compared with measurements and applied to tonal balance, distortion recognition, and system tuning.
 
 ## Working Mastery Criteria
