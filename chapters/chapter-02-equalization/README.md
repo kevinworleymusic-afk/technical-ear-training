@@ -38,7 +38,7 @@ Develop recognition of frequency regions and audible changes produced by equaliz
 
 ## Next Work
 
-- Begin each EQ warmup with 3–5 single-band rapid-identification trials at +3 or +6 dB, then use three-band +6 dB matching as the default multi-frequency condition under the current one-octave, Q 2, 250 Hz–8 kHz settings.
+- Begin each EQ warmup with two minutes of single-band rapid identification at +3 or +6 dB, then use three minutes of three-band +6 dB matching as the default multi-frequency condition under the current one-octave, Q 2, 250 Hz–8 kHz settings.
 - Keep multi-frequency work in every routine boost session; use one- and two-band conditions only for calibration, retention, controlled comparison, or troubleshooting.
 - Increase response speed gradually as confidence and accuracy stabilize, then introduce music as a separately documented transfer condition.
 - Continue -6 dB and smaller cut matching.
