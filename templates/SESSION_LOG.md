@@ -1,5 +1,11 @@
 # Technical Ear Training Session Log
 
+## Category Chooser
+
+**Choose:** [EQ](CATEGORY_CHOOSER.md#ear-training-category-chooser) · [Mid/Side](CATEGORY_CHOOSER.md#ear-training-category-chooser) · [Reverberation](CATEGORY_CHOOSER.md#ear-training-category-chooser) · [Compression](CATEGORY_CHOOSER.md#ear-training-category-chooser) · [Expansion](CATEGORY_CHOOSER.md#ear-training-category-chooser) · [Distortion](CATEGORY_CHOOSER.md#ear-training-category-chooser) · [Editing](CATEGORY_CHOOSER.md#ear-training-category-chooser)
+
+Use: **Warmup: _category_ and _category_; Development: _category_.** The detailed session is populated from these broad choices. See the [full category descriptions](CATEGORY_CHOOSER.md).
+
 ## Session Information
 
 - **Date:**
