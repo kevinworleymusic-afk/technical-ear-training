@@ -15,7 +15,7 @@ This section connects the reusable listening exercises with the work actually co
 | 7 | Bit-depth-reduction matching | Pink noise | Bit-depth settings | 20 | 47% | Early baseline; paused |
 | 8 | Hard-clipping follow-up | Sine wave | Five clipping-severity settings | 101 | 88% | Close to 90% working criterion |
 | 9 | EQ cut matching | Pink noise | -6 dB, 250 Hz–8 kHz | 62 | 80% | Continued practice |
-| 10 | Two-band EQ boost matching | Pink noise | Two simultaneous +6 dB boosts, 250 Hz–8 kHz | 30 | 97% | Working criterion met; matching only |
+| 10 | Two-band EQ boost matching | Pink noise | Two simultaneous +6 dB boosts, one-octave bandwidth, 250 Hz–8 kHz | 30 | 97% | Working criterion met; matching only |
 
 **Documented scored total:** 723 trials, including one approximately reported 100-trial exercise.
 
