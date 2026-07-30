@@ -36,9 +36,29 @@ Before beginning, review the [Daily Adaptive Critical-Listening Warmup](DAILY_WA
 
 Open and prepare all required chapter applications and source material before starting the first exercise block. Use a countdown or interval timer and complete as many careful trials as possible within each block. Pause the timer for loading, routing, crashes, missing audio, or other software/setup problems; these interruptions are documented but do not count as listening-practice time or scored trials.
 
+## Selected Focus After Warmup
+
+- **Selected focus:**
+- **Reason selected from today's warmup:**
+- **Development purpose:** Familiarize / build a cue / stabilize / increase difficulty / transfer
+
+After the focus is entered, use the [Focused Development Block](FOCUSED_DEVELOPMENT_BLOCK.md) to generate the exact implementation instructions. The development block is not assigned a fixed duration. It ends according to its learning objective, evidence requirement, listening quality, or stopping rule.
+
 ## Training Goal
 
-State the single listening skill being practiced.
+State the single listening skill being practiced and the observable outcome that will guide the development block.
+
+## Focused Development Sequence
+
+| Stage | Action | Condition or settings | What to listen for | Advancement decision |
+|---:|---|---|---|---|
+| 1 | Establish or refresh reference |  |  |  |
+| 2 | Guided comparison or exploration |  |  |  |
+| 3 | Scored or repeatable practice, if appropriate |  |  |  |
+| 4 | Increase difficulty or test transfer, if justified |  |  |  |
+
+**Stopping rule:**  
+**Reason block ended:**  
 
 ## Test Setup
 
