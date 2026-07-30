@@ -53,7 +53,7 @@ The project turns [technical ear training](chapters/) into a [repeatable enginee
 
 The combination of [prior experience](PRIOR_EXPERIENCE.md), [structured software exercises](chapters/), [chapter-by-chapter results](PROGRESS.md), [honest error tracking](logs/), and [technical reflection](LIBRARY.md) demonstrates active development in critical listening, [DSP and audio-system evaluation](https://github.com/kevinworleymusic-afk/engineering-development-portfolio#audio-dsp-and-software), and [automotive-audio tuning](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study).
 
-**[View this work in the context of my main Technical Audio Engineering Portfolio →](https://github.com/kevinworleymusic-afk/engineering-development-portfolio)**
+Review this work in the context of the [main Technical Audio Engineering Portfolio](https://github.com/kevinworleymusic-afk/engineering-development-portfolio).
 
 ## Status
 
