@@ -89,6 +89,14 @@ Use the three-band warmup result to select the next step:
 
 These are practical training rules, not research-validated diagnostic thresholds.
 
+## Longer-Term Progression
+
+1. Keep multi-frequency work in the routine, with three-band pink-noise matching as the default boost condition.
+2. Increase response speed gradually only after confidence and accuracy are stable.
+3. Do not trade careful listening for speed; record speed or time pressure whenever it becomes part of the task.
+4. Introduce music after the controlled pink-noise condition is stable.
+5. Keep pink-noise and music results separate so transfer across source material can be evaluated directly.
+
 ## Primary Practice
 
 After the warmup, select one main objective rather than extending every skill area in the same session.
