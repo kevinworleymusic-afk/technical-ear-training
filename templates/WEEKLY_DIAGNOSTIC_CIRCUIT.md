@@ -13,23 +13,35 @@ The long-term objective is working competence across all chapter areas. Weekly r
 - Keep matching, memorized identification, rapid identification, and exploratory listening separate
 - Document transfer to new source material without assuming it
 
+## Current Baseline at Creation
+
+- **Documented sessions:** 2
+- **Documented scored trials:** 733
+- **Equalization:** 412 trials
+- **Distortion:** approximately 301 hard-clipping trials plus 20 bit-depth-reduction trials
+- **Latest results:** 97% across 30 two-band and 90% across 10 three-band +6 dB pink-noise EQ matching trials
+
+This snapshot is a starting reference. Update the cumulative [progress dashboard](../PROGRESS.md), not this template, as new formal results are completed.
+
 ## Time Budget
 
-| Block | Target time |
-|---|---:|
-| Audio-path, level, and condition check | 2–3 minutes |
-| Chapter 2: EQ rapid identification | 3–4 minutes |
-| Chapter 2: three-band EQ matching | 4–5 minutes |
-| Chapter 3: Mid/Side | 3–4 minutes |
-| Chapter 3: reverberation | 4–5 minutes |
-| Chapter 4: compression | 4–5 minutes |
-| Chapter 4: expansion | 3–4 minutes |
-| Chapter 5: distortion | 4–5 minutes |
-| Chapter 6: editing | 3–4 minutes |
-| Summary and next-focus decision | 2–4 minutes |
-| **Total** | **32–43 minutes** |
+Choose the 30-minute standard circuit for routine weekly comparison or the 45-minute expanded circuit when unfamiliar categories need more reference exploration. A target between 30 and 45 minutes may be created by adding minutes deliberately to selected developing categories.
 
-The session may extend to 45 minutes for brief notes, but it should not become a long endurance test.
+| Block | 30-minute standard | 45-minute expanded |
+|---|---:|---:|
+| Audio-path, level, and condition check | 2 minutes | 3 minutes |
+| Chapter 2: EQ rapid identification | 3 minutes | 4 minutes |
+| Chapter 2: three-band EQ matching | 4 minutes | 6 minutes |
+| Chapter 3: Mid/Side | 3 minutes | 4 minutes |
+| Chapter 3: reverberation | 3 minutes | 5 minutes |
+| Chapter 4: compression | 4 minutes | 6 minutes |
+| Chapter 4: expansion | 3 minutes | 4 minutes |
+| Chapter 5: distortion | 3 minutes | 5 minutes |
+| Chapter 6: editing | 3 minutes | 4 minutes |
+| Summary and next-focus decision | 2 minutes | 4 minutes |
+| **Total** | **30 minutes** | **45 minutes** |
+
+Select the intended duration before starting and keep the circuit within the 30–45 minute range.
 
 ## Session Information
 
@@ -70,7 +82,7 @@ The session may extend to 45 minutes for brief notes, but it should not become a
 **Response pace or time limit:**  
 **Confused frequencies:**  
 
-### B. Three-Band Matching — 4–5 Minutes
+### B. Three-Band Matching — 4–6 Minutes
 
 - **Source:** Pink noise
 - **Affected bands:** 3
@@ -103,7 +115,7 @@ The session may extend to 45 minutes for brief notes, but it should not become a
 **Accuracy:**  
 **Primary cue or confusion:**  
 
-## 4. Chapter 3 — Reverberation — 4–5 Minutes
+## 4. Chapter 3 — Reverberation — 3–5 Minutes
 
 **Software:** TETpracticeReverb
 
@@ -120,7 +132,7 @@ The session may extend to 45 minutes for brief notes, but it should not become a
 **Accuracy:**  
 **Primary cue or confusion:**  
 
-## 5. Chapter 4 — Compression — 4–5 Minutes
+## 5. Chapter 4 — Compression — 4–6 Minutes
 
 **Software:** TETpracticeComp
 
@@ -155,7 +167,7 @@ The session may extend to 45 minutes for brief notes, but it should not become a
 **Accuracy:**  
 **Primary cue or confusion:**  
 
-## 7. Chapter 5 — Distortion — 4–5 Minutes
+## 7. Chapter 5 — Distortion — 3–5 Minutes
 
 **Software:** TETpracticeDist
 
