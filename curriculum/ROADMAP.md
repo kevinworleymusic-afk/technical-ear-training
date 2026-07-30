@@ -1,5 +1,7 @@
 # Technical Ear Training Roadmap
 
+**Current documented continuation phase:** 733 scored trials across two sessions. The latest achievement is 97% on 30 two-band and 90% on 10 three-band +6 dB pink-noise EQ matching trials under the documented one-octave center-frequency, Q 2, 250 Hz–8 kHz conditions.
+
 ## Stage 1 — Vocabulary and Large Contrasts
 
 Build a reliable descriptive vocabulary using obvious, single-variable changes.
