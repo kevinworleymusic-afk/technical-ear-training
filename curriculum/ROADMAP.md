@@ -2,7 +2,7 @@
 
 **Current documented continuation phase:** 733 scored trials across two sessions. The latest achievement is 97% on 30 two-band and 90% on 10 three-band +6 dB pink-noise EQ matching trials under the documented one-octave center-frequency, Q 2, 250 Hz–8 kHz conditions.
 
-Normal practice days begin with the 12–14 minute [adaptive daily warmup](../templates/DAILY_WARMUP_PROGRESSION.md), which reinforces established EQ and distortion cues while rotating two developing categories. A 32–43 minute [weekly full-chapter diagnostic](../templates/WEEKLY_DIAGNOSTIC_CIRCUIT.md) covers Chapters 2–6 to gauge broad progress and select the next primary focus. Trial counts are outputs from each time window rather than quotas; unfamiliar chapters begin with reference listening before scored questions.
+The long-term objective is working competence across every available chapter. Normal practice days begin with the 12–14 minute [adaptive daily warmup](../templates/DAILY_WARMUP_PROGRESSION.md), which reinforces established EQ and distortion cues while rotating two developing categories. Focused sessions push developing areas forward, and the 32–43 minute [weekly full-chapter diagnostic](../templates/WEEKLY_DIAGNOSTIC_CIRCUIT.md) determines which skills need more work and which are ready to enter the established warmup. Trial counts are outputs from each time window rather than quotas; unfamiliar chapters begin with reference listening before scored questions.
 
 ## Stage 1 — Vocabulary and Large Contrasts
 
