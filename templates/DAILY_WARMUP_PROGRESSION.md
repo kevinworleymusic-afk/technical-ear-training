@@ -41,9 +41,9 @@ Matching is not the same as memorized, unaided, or rapid identification. If one 
 
 ### 2. One-Band Reference Check
 
-Use one affected band only as a brief reference calibration, not the routine practice level.
+Use one affected band only as a brief reference calibration, not the routine practice level. 6 dB boost and cut
 
-- **Suggested trials:** 3–5
+- **Suggested trials:** 5–10
 - Compare the flat and processed conditions.
 - Note any frequency regions that do not produce a clear cue.
 
