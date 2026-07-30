@@ -10,16 +10,16 @@ The long-term goal is working competence across every available chapter: EQ, Mid
 
 Use this sheet as the planning reference before creating each dated session log:
 
-1. Review the established and rotating sections below.
-2. Choose the skills appropriate for that day, based on current competence and the next development need.
+1. Review the established and rotating sections below and the [weekly lesson plan](WEEKLY_LESSON_PLAN.md), when one is active.
+2. Choose broad warmup categories only—for example, EQ and distortion. The session log is then populated with the specific software, sources, settings, task types, cues, and time allocations based on current evidence.
 3. Set an exact total warmup duration—normally **12, 13, or 14 minutes**—and assign every minute in the session log's warmup timetable before beginning.
 4. Open the required chapter software, load the intended sources, and confirm the audio path before starting the exercise timer.
 5. Use a countdown or interval timer for each block and complete as many careful trials as possible within its allotted time.
 6. Record the actual trials completed, correct responses, accuracy when meaningful, task type, and the most useful cue or confusion.
 7. Record software/setup interruptions separately. Do not count troubleshooting, loading, routing, or glitch time as listening-practice time or scored trials.
-8. After the warmup, enter one selected focus in the dated session log. Use the [Focused Development Block](FOCUSED_DEVELOPMENT_BLOCK.md) to generate an immediately executable plan based on that focus, or use the weekly 30- or 45-minute diagnostic when planned.
+8. After the warmup, enter one broad development category in the dated session log. Use the [Focused Development Block](FOCUSED_DEVELOPMENT_BLOCK.md) to generate an immediately executable plan based on that focus, or use the weekly 30- or 45-minute diagnostic when planned.
 
-The timetable is generated for the specific day rather than copied blindly: established skills remain represented, while rotating and focus areas change with current progress. The sum of the planned block times must equal the stated warmup duration exactly.
+The listener chooses categories; the detailed timetable is generated for the specific day rather than copied blindly: established skills remain represented, while rotating and focus areas change with current progress. The sum of the planned block times must equal the stated warmup duration exactly.
 
 ## Normal Daily Target
 
