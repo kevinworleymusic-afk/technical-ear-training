@@ -52,6 +52,7 @@ Review the [chapter curriculum](chapters/), [session-log method](templates/SESSI
 - [templates/SESSION_LOG.md](templates/SESSION_LOG.md) — repeatable full-session template
 - [templates/DAILY_WARMUP_PROGRESSION.md](templates/DAILY_WARMUP_PROGRESSION.md) — 12–14 minute warmup using established EQ/distortion skills and rotating familiarity work
 - [templates/FOCUSED_DEVELOPMENT_BLOCK.md](templates/FOCUSED_DEVELOPMENT_BLOCK.md) — objective-limited implementation template generated from the broad category selected after each warmup
+- [templates/MONTHLY_LESSON_CALENDAR.md](templates/MONTHLY_LESSON_CALENDAR.md) — reusable full-month, six-week calendar for long-range warmup, development, diagnostic, and recovery planning
 - [templates/WEEKLY_LESSON_PLAN.md](templates/WEEKLY_LESSON_PLAN.md) — Monday-through-Sunday calendar for broad warmup categories, recurring development focuses, diagnostics, recovery, and daily adaptation
 - [templates/WEEKLY_DIAGNOSTIC_CIRCUIT.md](templates/WEEKLY_DIAGNOSTIC_CIRCUIT.md) — 30–45 minute full Chapters 2–6 diagnostic for broad weekly progress
 - [logs/](logs/) — dated results and progress evidence
@@ -69,7 +70,7 @@ Review the [chapter curriculum](chapters/), [session-log method](templates/SESSI
 - Separate audible observations from technical interpretation.
 - Connect listening observations to measurements when practical.
 
-Review the [weekly lesson plan](templates/WEEKLY_LESSON_PLAN.md), [session-log method](templates/SESSION_LOG.md), [adaptive daily warmup](templates/DAILY_WARMUP_PROGRESSION.md), [weekly diagnostic circuit](templates/WEEKLY_DIAGNOSTIC_CIRCUIT.md), [progress baseline](PROGRESS.md), [dated listening records](logs/), [technical interpretation library](LIBRARY.md), and [measurement evidence](https://github.com/kevinworleymusic-afk/engineering-development-portfolio#technical-evidence-at-a-glance).
+Review the [monthly lesson calendar](templates/MONTHLY_LESSON_CALENDAR.md), [weekly lesson plan](templates/WEEKLY_LESSON_PLAN.md), [session-log method](templates/SESSION_LOG.md), [adaptive daily warmup](templates/DAILY_WARMUP_PROGRESSION.md), [weekly diagnostic circuit](templates/WEEKLY_DIAGNOSTIC_CIRCUIT.md), [progress baseline](PROGRESS.md), [dated listening records](logs/), [technical interpretation library](LIBRARY.md), and [measurement evidence](https://github.com/kevinworleymusic-afk/engineering-development-portfolio#technical-evidence-at-a-glance).
 
 ## Portfolio Relevance
 
