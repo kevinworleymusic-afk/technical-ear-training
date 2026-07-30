@@ -1,6 +1,6 @@
 # Exercise Library
 
-This section connects the reusable listening exercises with the work actually completed so far. Detailed chronology and observations remain in [Session 1](../logs/2026-07-27_session-01.md), while cumulative results are maintained in the [progress dashboard](../PROGRESS.md).
+This section connects the reusable listening exercises with the work actually completed so far. Detailed chronology and observations remain in [Session 1](../logs/2026-07-27_session-01.md) and [Session 2](../logs/2026-07-30_session-02.md), while cumulative results are maintained in the [progress dashboard](../PROGRESS.md).
 
 ## Current Exercise Evidence
 
@@ -15,10 +15,11 @@ This section connects the reusable listening exercises with the work actually co
 | 7 | Bit-depth-reduction matching | Pink noise | Bit-depth settings | 20 | 47% | Early baseline; paused |
 | 8 | Hard-clipping follow-up | Sine wave | Five clipping-severity settings | 101 | 88% | Close to 90% working criterion |
 | 9 | EQ cut matching | Pink noise | -6 dB, 250 Hz–8 kHz | 62 | 80% | Continued practice |
+| 10 | Two-band EQ boost matching | Pink noise | Two simultaneous +6 dB boosts | 30 | 97% | Working criterion met; matching only |
 
-**Documented scored total:** 693 trials, including one approximately reported 100-trial exercise.
+**Documented scored total:** 723 trials, including one approximately reported 100-trial exercise.
 
-The scored total combines 372 EQ trials, approximately 301 hard-clipping trials, and 20 bit-depth-reduction trials. Results apply only to the listed sources, settings, and criteria.
+The scored total combines 402 EQ trials, approximately 301 hard-clipping trials, and 20 bit-depth-reduction trials. Results apply only to the listed sources, settings, and criteria.
 
 ## Exploratory Exercises
 
@@ -29,9 +30,10 @@ The scored total combines 372 EQ trials, approximately 301 hard-clipping trials,
 
 Mid/Side listening, expansion, and editing have not yet been exercised in the documented continuation phase.
 
-## What the First Session Established
+## What the Documented Sessions Establish
 
-- Pink-noise EQ boosts are currently the strongest scored area.
+- Pink-noise EQ boost matching is currently the strongest scored area.
+- The Session 2 result applies to direct two-band matching, not memorized or rapid identification.
 - EQ cuts are usable but less reliable than boosts.
 - Smaller EQ changes reduce accuracy.
 - Sine-wave hard clipping provides more consistent cues than pink-noise clipping.
@@ -41,13 +43,14 @@ Mid/Side listening, expansion, and editing have not yet been exercised in the do
 
 ## Immediate Exercise Queue
 
-1. Repeat sine-wave hard-clipping matching and use 90% as the current working checkoff threshold.
-2. Continue -6 dB EQ-cut matching.
-3. Revisit +3 dB EQ boosts after a delay.
-4. Explore bit-depth-reduction parameters directly before another scored exercise.
-5. Explore compression and reverberation parameters directly, one variable at a time.
-6. Begin separate baselines for Mid/Side listening, expansion, and editing.
-7. Repeat established exercises with music, speech, instruments, and environmental sounds after the planned sample library is assembled.
+1. Repeat the two-band +6 dB EQ condition after a delay and later test it without direct matching.
+2. Repeat sine-wave hard-clipping matching and use 90% as the current working checkoff threshold.
+3. Continue -6 dB EQ-cut matching.
+4. Revisit +3 dB EQ boosts after a delay.
+5. Explore bit-depth-reduction parameters directly before another scored exercise.
+6. Explore compression and reverberation parameters directly, one variable at a time.
+7. Begin separate baselines for Mid/Side listening, expansion, and editing.
+8. Repeat established exercises with music, speech, instruments, and environmental sounds after the planned sample library is assembled.
 
 ## Reusable Controlled Exercises
 
