@@ -1,6 +1,16 @@
-# Daily Critical-Listening Warmup and Progression Sheet
+# Daily Chapter Warmup Circuit and Progression Sheet
 
-Use this sheet before a focused technical-ear-training session. The warmup establishes the listening chain, refreshes auditory references, and identifies whether the planned exercise difficulty is appropriate that day. Warmup scores are not automatically added to cumulative scored results; log them only when the settings, trial count, and task type are documented as a formal exercise.
+Use this circuit to touch each available technical-ear-training chapter before beginning one focused practice block. The daily circuit is intended to be quick, repeatable, and diagnostic—not a long scored test of every skill.
+
+## Recommended Structure
+
+- **Audio-path check:** 1–2 minutes
+- **Chapter circuit:** approximately 15–25 minutes
+- **Primary focus:** 10–20 minutes in one selected chapter
+- **Suggested total:** approximately 25–45 minutes
+- Stop or shorten the session if hearing comfort, attention, or reliable judgment declines.
+
+Warmup results are not automatically added to cumulative scored totals. Add a result only when the task type, source, settings, trial count, and score are documented as a formal comparable exercise.
 
 ## Session Information
 
@@ -8,102 +18,195 @@ Use this sheet before a focused technical-ear-training session. The warmup estab
 - **Start time:**
 - **Playback system / output device:**
 - **Listening location:**
-- **Approximate level or volume setting:**
-- **Primary exercise planned after warmup:**
+- **Approximate playback level:**
 - **Hearing, fatigue, congestion, distraction, or environmental notes:**
+- **Primary-focus chapter planned:**
 
-## Fixed Pink-Noise EQ Settings
-
-Use these settings unless the session log explicitly documents a change:
-
-- **Source:** Pink noise
-- **EQ change:** +6 dB per affected band
-- **Center-frequency range:** 250 Hz–8 kHz
-- **Frequency resolution:** One-octave center frequencies
-- **Q:** 2
-- **Task type:** Direct matching / comparison
-- **Routine practice level:** Three simultaneously boosted bands
-
-Matching is not the same as memorized, unaided, or rapid identification. If one of those task types is practiced, label it separately.
-
-## Daily Warmup Sequence
-
-### 1. Audio-Path and Level Check
+## 1. Audio-Path and Level Check
 
 - Confirm the intended output device.
 - Begin at a conservative playback level.
-- Listen briefly to flat pink noise.
-- Confirm that left/right output, level, and playback are stable.
-- Stop if there is unexpected distortion, channel loss, discomfort, or an abnormal hearing condition.
+- Confirm stable left/right output.
+- Listen briefly to an unprocessed reference.
+- Stop for unexpected distortion, channel loss, discomfort, or an abnormal hearing condition.
 
 **Audio path ready:** Yes / No  
 **Notes:**
 
-### 2. One-Band Reference Check
+## Warmup Modes
 
-Use one affected band only as a brief reference calibration, not the routine practice level. 6 dB boost and cut
+Use the mode appropriate to the current state of each skill:
 
-- **Suggested trials:** 5–10
-- Compare the flat and processed conditions.
-- Note any frequency regions that do not produce a clear cue.
+- **Established cue:** Complete approximately five quick matching trials.
+- **Developing cue:** Spend 30–60 seconds manipulating or comparing the parameter, then complete approximately three matching trials.
+- **New or unclear cue:** Use reference listening only; do not treat the result as a meaningful score yet.
 
-**Trials:**  
-**Correct:**  
-**Accuracy:**  
-**Confused regions / observations:**
+Matching, memorized identification, rapid identification, and exploratory listening must remain separately labeled.
 
-### 3. Two-Band Transition Check
+---
 
-Use two affected bands as a short transition into the current three-band practice level.
+## 2. Chapter 2 — Equalization
 
-- **Suggested trials:** 6–10
-- Maintain the fixed pink-noise EQ settings above.
-- Listen for both tonal changes rather than stopping after recognizing only one.
+**Software:** TETpracticeEQ  
+**Current routine:** Three-band pink-noise boost matching
 
-**Trials:**  
-**Correct:**  
-**Accuracy:**  
-**Missed-band patterns / observations:**
+### Fixed Current Boost Settings
 
-### 4. Three-Band Default Warmup
-
-This is the standard daily pink-noise boost condition.
-
-- **Suggested trials:** 15
-- Identify or match all three affected bands under the fixed settings.
-- Preserve partial-recognition patterns when possible—for example, two bands recognized and one missed.
+- **Source:** Pink noise
+- **Affected bands:** 3
+- **Gain:** +6 dB per affected band
+- **Center-frequency range:** 250 Hz–8 kHz
+- **Frequency resolution:** One-octave center frequencies
+- **Q:** 2
+- **Task type:** Direct matching / comparison
+- **Suggested warmup trials:** 5–10
 
 **Trials:**  
 **Correct:**  
 **Accuracy:**  
-**Recurring confusions / observations:**
+**Response pace:**  
+**Confused frequencies or missed-band patterns:**  
 
-## Progression Decision
+One- and two-band conditions are reserved for calibration, delayed-retention checks, controlled comparisons, or troubleshooting. After confidence and accuracy stabilize, reduce response time gradually and then introduce music as a separately documented transfer condition.
 
-Use the three-band warmup result to select the next step:
+---
 
-- **90% or higher:** Proceed to the planned primary exercise.
-- **80–89%:** Complete five additional three-band trials, then proceed if cues stabilize.
-- **Below 80%:** Return briefly to two-band matching, identify the confused regions, and retry five three-band trials.
-- **Repeated decline or listening discomfort:** End the scored work or switch to low-demand exploratory listening.
+## 3. Chapter 3 — Mid/Side and Reverberation
 
-These are practical training rules, not research-validated diagnostic thresholds.
+### Mid/Side Listening
 
-## Longer-Term Progression
+**Software:** TETlisteningMidSide
 
-1. Keep multi-frequency work in the routine, with three-band pink-noise matching as the default boost condition.
-2. Increase response speed gradually only after confidence and accuracy are stable.
-3. Do not trade careful listening for speed; record speed or time pressure whenever it becomes part of the task.
-4. Introduce music after the controlled pink-noise condition is stable.
-5. Keep pink-noise and music results separate so transfer across source material can be evaluated directly.
+- Begin with a stable stereo source.
+- Compare center-focused, side-focused, width, and image-position changes.
+- Use brief direct comparisons before attempting identification.
+- **Suggested warmup:** 30–60 seconds of reference listening plus 3 trials
 
-## Primary Practice
+**Mode:** Established / Developing / New  
+**Source:**  
+**Trials:**  
+**Correct:**  
+**Accuracy:**  
+**Image or width cue heard:**  
 
-After the warmup, select one main objective rather than extending every skill area in the same session.
+### Reverberation
 
-- **Skill / chapter:**
+**Software:** TETpracticeReverb
+
+- Briefly compare clearly different reverberation settings.
+- Focus on decay length, early reflections, apparent room size, distance, and spectral character.
+- Keep level differences from becoming the primary cue when possible.
+- **Suggested warmup:** 30–60 seconds of parameter exploration plus 3 trials
+
+**Mode:** Established / Developing / New  
+**Source:**  
+**Parameter emphasized:**  
+**Trials:**  
+**Correct:**  
+**Accuracy:**  
+**Audible cue:**  
+
+---
+
+## 4. Chapter 4 — Compression and Expansion
+
+### Compression
+
+**Software:** TETpracticeComp
+
+- Begin with direct comparison or parameter manipulation.
+- Focus on attack, release, transient shape, envelope, sustain, and dynamic-range change.
+- Avoid treating simple loudness differences as compression recognition.
+- **Suggested warmup:** 30–60 seconds of exploration plus 3 trials
+
+**Mode:** Established / Developing / New  
+**Source:**  
+**Parameter emphasized:**  
+**Trials:**  
+**Correct:**  
+**Accuracy:**  
+**Envelope or transient cue:**  
+
+### Expansion
+
+**Software:** TETpracticeExp
+
+- Compare processed and unprocessed conditions.
+- Focus on attenuation below threshold, envelope change, ambience reduction, and transient contrast.
+- **Suggested warmup:** 30–60 seconds of reference listening plus 3 trials
+
+**Mode:** Established / Developing / New  
+**Source:**  
+**Parameter emphasized:**  
+**Trials:**  
+**Correct:**  
+**Accuracy:**  
+**Audible cue:**  
+
+---
+
+## 5. Chapter 5 — Distortion
+
+**Software:** TETpracticeDist
+
+- Rotate among hard clipping, bit-depth reduction, and other available distortion conditions.
+- Use sine-wave hard clipping as an established reference where appropriate.
+- Keep pink-noise clipping and bit-depth work separately labeled because current performance differs substantially by source and distortion type.
+- **Suggested warmup:** 3–5 matching trials
+
+**Condition:**  
+**Source:**  
+**Mode:** Established / Developing / New  
+**Trials:**  
+**Correct:**  
+**Accuracy:**  
+**Artifact cue:**  
+
+---
+
+## 6. Chapter 6 — Editing
+
+**Software:** TETpracticeEditing
+
+- Begin with obvious edit-point or continuity differences.
+- Focus on clicks, discontinuities, timing, ambience changes, truncation, and unnatural transitions.
+- Use reference listening before scoring if the task format is unfamiliar.
+- **Suggested warmup:** 3 trials
+
+**Mode:** Established / Developing / New  
+**Source:**  
+**Edit condition:**  
+**Trials:**  
+**Correct:**  
+**Accuracy:**  
+**Audible cue:**  
+
+---
+
+## Daily Circuit Summary
+
+| Chapter / skill | Mode | Trials | Accuracy | Confidence | Primary cue or confusion |
+|---|---|---:|---:|---:|---|
+| EQ |  |  |  |  |  |
+| Mid/Side |  |  |  |  |  |
+| Reverberation |  |  |  |  |  |
+| Compression |  |  |  |  |  |
+| Expansion |  |  |  |  |  |
+| Distortion |  |  |  |  |  |
+| Editing |  |  |  |  |  |
+
+## Select the Primary Focus
+
+Choose one chapter after the circuit. Prioritize:
+
+1. A skill with an unclear cue that needs exploratory listening
+2. A recurring error from the circuit
+3. A scheduled progression or delayed-retention check
+4. Transfer to a new source after controlled performance is stable
+
+- **Primary-focus chapter:**
+- **Goal:**
 - **Source:**
-- **Processing:**
 - **Settings:**
 - **Task type:** Matching / memorized identification / rapid identification / exploratory listening
 - **Trials:**
@@ -113,32 +216,28 @@ After the warmup, select one main objective rather than extending every skill ar
 - **Recurring errors:**
 - **Technical interpretation:**
 
-## Optional Rotating Review
+## Progression Rules
 
-Choose no more than one unless the session is intentionally broader:
-
-- EQ cuts
-- Smaller EQ boosts
-- Hard-clipping severity
-- Bit-depth reduction
-- Compression parameter exploration
-- Reverberation parameter exploration
-- Mid/Side or imaging
-- Expansion
-- Editing artifacts
-- Music, speech, instrumental, environmental, or vehicle-related transfer material
+- Change only one meaningful variable at a time when possible.
+- Keep source, processing, settings, and task type comparable when measuring improvement.
+- Increase speed only after accuracy and confidence stabilize.
+- Move from controlled signals to music or speech as a separately documented transfer step.
+- Do not convert exploratory exposure into a scored mastery claim.
+- Use easier conditions briefly when troubleshooting, not as a substitute for the current routine level.
+- Revisit stronger skills after delays to test retention.
 
 ## End-of-Session Record
 
 - **Warmup duration:**
-- **Primary-practice duration:**
-- **Total session duration:**
+- **Primary-focus duration:**
+- **Total duration:**
 - **Strongest cue today:**
 - **Most persistent confusion:**
-- **Did performance rely on direct comparison?**
+- **Did any result rely on direct comparison?**
+- **Did response speed change?**
 - **What should change next session?**
-- **Should any result be added to the cumulative dashboard? Why?**
+- **Should any result enter the cumulative dashboard? Why?**
 
 ## Documentation Rule
 
-A warmup result should enter the cumulative dashboard only when it functions as a formal, comparable exercise with a recorded source, processing condition, frequency range, frequency resolution, Q, task type, trial count, and score. Otherwise, preserve it only as session context.
+A warmup result enters the cumulative dashboard only when it functions as a formal comparable exercise with a recorded source, processing condition, task type, relevant parameters, trial count, and score. Otherwise, preserve it as daily context. Use the [full session-log template](SESSION_LOG.md) for detailed scored work.
