@@ -12,6 +12,7 @@
 - **Approximate playback level:**
 - **Tools or software:**
 - **Daily warmup sheet used:** Yes / No
+- **Weekly diagnostic used:** Yes / No
 
 ## Training Goal
 
