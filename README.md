@@ -6,7 +6,11 @@ Review the [prior listening background](PRIOR_EXPERIENCE.md), [progress dashboar
 
 ## Prior Training and Continued Development
 
-I began developing technical-listening skills through extensive independent practice on [SoundGym](https://www.soundgym.co/member/profile?m=byy1s26wj7u), producing a **quantified public training record** with an SPI of **3,410,130** and SoundGym's **Diamond Ears Award**. [SoundGym calculates SPI from the three highest scores in each audio game](https://www.soundgym.co/help/item?id=how-is-spi-calculated), so the result supports performance across standardized frequency, dynamics, level, panning, and spatial-listening exercises rather than simply recording participation volume. I later learned and practiced [Jason Corey's *Audio Production and Critical Listening: Technical Ear Training* methodology](https://sites.google.com/a/umich.edu/jason-corey/technical-ear-training) in an academic course. This repository is **continued execution of that previously established course-based training**, using [defined software chapters](chapters/), [newly documented comparison points and progress tracking](PROGRESS.md), and technical reflection to extend my broader [musical, educational, studio, research, and measurement background](PRIOR_EXPERIENCE.md). It does not represent my first exposure to or first use of the program, and the SoundGym record is used as supporting evidence rather than an unsupported percentile claim.
+I began developing technical-listening skills through extensive independent SoundGym practice, producing a quantified public record with an SPI of 3,410,130 and SoundGym’s Diamond Ears Award. SoundGym calculates SPI from the three highest scores in each audio game, so the result supports performance across standardized frequency, dynamics, level, panning, and spatial-listening exercises rather than simply recording participation volume.
+
+I later learned and practiced Jason Corey’s technical-ear-training methodology in an academic course. This repository is continued execution of that established course-based training through defined software chapters, documented comparison points, progress tracking, and technical reflection. It does not represent my first exposure to the program, and the SoundGym record is supporting evidence rather than an unsupported percentile claim.
+
+Review the [SoundGym profile](https://www.soundgym.co/member/profile?m=byy1s26wj7u), [SPI methodology](https://www.soundgym.co/help/item?id=how-is-spi-calculated), [Corey training reference](https://sites.google.com/a/umich.edu/jason-corey/technical-ear-training), [prior experience record](PRIOR_EXPERIENCE.md), [chapter curriculum](chapters/), and [progress dashboard](PROGRESS.md).
 
 ## Training Progress
 
@@ -22,12 +26,14 @@ Review the [software and download information](training-software/), [curriculum 
 
 ## Purpose
 
-The project turns [technical ear training](chapters/) into a [repeatable engineering-development practice](templates/SESSION_LOG.md). The goal is not simply to identify what sounds different, but to describe:
+The project turns technical ear training into a repeatable engineering-development practice. The goal is not simply to identify what sounds different, but to describe:
 
 1. **What changed**
 2. **What was heard**
 3. **Why it may sound that way**
 4. **How the observation could be measured or verified**
+
+Review the [chapter curriculum](chapters/), [session-log method](templates/SESSION_LOG.md), [exercise evidence](exercises/), and [technical listening library](LIBRARY.md).
 
 ## Repository Guide
 
@@ -51,10 +57,12 @@ The project turns [technical ear training](chapters/) into a [repeatable enginee
 
 ## Portfolio Relevance
 
-The combination of [prior experience](PRIOR_EXPERIENCE.md), [structured software exercises](chapters/), [chapter-by-chapter results](PROGRESS.md), [honest error tracking](logs/), and [technical reflection](LIBRARY.md) demonstrates active development in critical listening, [DSP and audio-system evaluation](https://github.com/kevinworleymusic-afk/engineering-development-portfolio#audio-dsp-and-software), and [automotive-audio tuning](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study).
+The combination of prior experience, structured software exercises, chapter-by-chapter results, honest error tracking, and technical reflection demonstrates active development in critical listening, DSP and audio-system evaluation, and automotive-audio tuning.
 
-Review this work in the context of the [main Technical Audio Engineering Portfolio](https://github.com/kevinworleymusic-afk/engineering-development-portfolio).
+Review the [prior experience record](PRIOR_EXPERIENCE.md), [chapter evidence](chapters/), [progress dashboard](PROGRESS.md), [session logs](logs/), [technical listening library](LIBRARY.md), [automotive development work](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study), and [main Technical Audio Engineering Portfolio](https://github.com/kevinworleymusic-afk/engineering-development-portfolio).
 
 ## Status
 
-The [chapter framework](chapters/) is established for continued use of the [software modules currently available](training-software/). The next step is to record [new comparable results](PROGRESS.md) from this continuation phase.
+The chapter framework is established for continued use of the currently available software modules. The next step is to record new comparable results from this continuation phase.
+
+Review the [available software](training-software/), [chapter framework](chapters/), [current progress](PROGRESS.md), and [immediate exercise queue](exercises/).
