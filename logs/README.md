@@ -8,6 +8,8 @@ The records are organized at three levels:
 
 ## Current Records
 
+- [Monthly calendar index](monthly/)
+- [July 2026 — Development Phase: Establishing Critical-Listening Processes](monthly/2026-07.md)
 - [August 2026 monthly calendar](monthly/2026-08.md)
 - [Week of July 27–August 2, 2026 daily logs](daily/2026-W31/)
 - [July 27, 2026 — Session 1](daily/2026-W31/2026-07-27_session-01.md)
