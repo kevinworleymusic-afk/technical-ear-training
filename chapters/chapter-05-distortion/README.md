@@ -1,7 +1,7 @@
 # Chapter 5 — Distortion
 
 **Software module:** TETpracticeDist  
-**Current evidence:** [Session 1](../../logs/daily/2026-W31/2026-07-27_session-01.md) and the [progress dashboard](../../PROGRESS.md)
+**Current evidence:** [Session 1](../../logs/03-daily/2026-W31/2026-07-27_session-01.md) and the [progress dashboard](../../PROGRESS.md)
 
 ## Training Focus
 
@@ -43,7 +43,7 @@ The sine-wave cumulative result is approximate because the first exercise used a
 
 ## Session Logs
 
-- [2026-07-27 — Session 1: clipping and bit-depth-reduction exercises](../../logs/daily/2026-W31/2026-07-27_session-01.md)
+- [2026-07-27 — Session 1: clipping and bit-depth-reduction exercises](../../logs/03-daily/2026-W31/2026-07-27_session-01.md)
 
 ## Chapter Reflection
 
