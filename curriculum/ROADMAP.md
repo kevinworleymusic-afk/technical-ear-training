@@ -2,7 +2,7 @@
 
 **Current documented continuation phase:** 733 scored trials across two sessions. The latest achievement is 97% on 30 two-band and 90% on 10 three-band +6 dB pink-noise EQ matching trials under the documented one-octave center-frequency, Q 2, 250 Hz–8 kHz conditions.
 
-Daily practice now begins with the [Chapter 2–6 warmup circuit](../templates/DAILY_WARMUP_PROGRESSION.md), followed by one longer primary-focus block. Developing or unfamiliar chapters use brief reference listening before scored questions.
+Daily practice now begins with the time-boxed [Chapter 2–6 warmup circuit](../templates/DAILY_WARMUP_PROGRESSION.md), followed by one longer primary-focus block. Trial counts are recorded as outputs from each time window rather than used as warmup quotas. Developing or unfamiliar chapters use brief reference listening before scored questions.
 
 ## Stage 1 — Vocabulary and Large Contrasts
 
