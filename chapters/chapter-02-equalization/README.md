@@ -38,7 +38,7 @@ Develop recognition of frequency regions and audible changes produced by equaliz
 
 ## Next Work
 
-- Use three-band +6 dB matching as the default for future pink-noise boost practice under the current one-octave, Q 2, 250 Hz–8 kHz settings.
+- Begin each EQ warmup with 3–5 single-band rapid-identification trials at +3 or +6 dB, then use three-band +6 dB matching as the default multi-frequency condition under the current one-octave, Q 2, 250 Hz–8 kHz settings.
 - Keep multi-frequency work in every routine boost session; use one- and two-band conditions only for calibration, retention, controlled comparison, or troubleshooting.
 - Increase response speed gradually as confidence and accuracy stabilize, then introduce music as a separately documented transfer condition.
 - Continue -6 dB and smaller cut matching.
@@ -53,4 +53,4 @@ Develop recognition of frequency regions and audible changes produced by equaliz
 
 ## Chapter Reflection
 
-The documented results establish a strong controlled-source foundation for EQ boost matching, with less reliable performance for cuts and smaller changes. Matching, memorized identification, and rapid identification remain explicitly separate competencies. Based on Session 2, routine pink-noise boost practice now progresses from the three-band matching condition. Continued work will test whether these cues remain stable across delayed sessions, program material, and playback systems before broader tonal-balance competence is claimed.
+The documented results establish a strong controlled-source foundation for EQ boost matching, with less reliable performance for cuts and smaller changes. Matching, memorized identification, and rapid identification remain explicitly separate competencies. The single-band rapid-identification primer is a new routine step, while the documented Session 2 achievement remains three-band direct matching. Continued work will test whether these cues remain stable across delayed sessions, program material, and playback systems before broader tonal-balance competence is claimed.
