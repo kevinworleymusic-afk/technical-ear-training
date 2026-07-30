@@ -41,8 +41,9 @@ Build a reliable descriptive vocabulary using obvious, single-variable changes.
 Reduce the size of changes and track whether confidence matches accuracy.
 
 - ±3 dB EQ changes
-- Gradual response-time reduction for stable multi-frequency matching
-- Memory-based and rapid identification as separately labeled tasks
+- Single-band +3 or +6 dB rapid identification before multi-frequency matching
+- Gradual response-time reduction as accuracy and confidence stabilize
+- Memory-based identification as a separately labeled task
 - Small loudness differences
 - Attack and release comparisons
 - Width and depth judgments
