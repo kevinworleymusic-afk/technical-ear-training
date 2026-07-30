@@ -14,7 +14,7 @@ Review the [SoundGym profile](https://www.soundgym.co/member/profile?m=byy1s26wj
 
 ## Training Progress
 
-This repository documents measurable development through a chapter-based curriculum covering equalization, Mid/Side listening, reverberation, compression, expansion, distortion, and editing. The current continuation phase contains 733 scored trials across two sessions. Its latest achievement is 97% across 30 two-band and 90% across 10 three-band +6 dB pink-noise EQ matching trials using one-octave center frequencies, Q 2, and a 250 Hz–8 kHz range.
+This repository documents measurable development toward working competence across equalization, Mid/Side listening, reverberation, compression, expansion, distortion, and editing. The current continuation phase contains 733 scored trials across two sessions. Daily warmups reinforce established skills, focused sessions develop weaker categories, and weekly diagnostics determine when additional skills are ready to join the established routine. The latest achievement is 97% across 30 two-band and 90% across 10 three-band +6 dB pink-noise EQ matching trials using one-octave center frequencies, Q 2, and a 250 Hz–8 kHz range.
 
 Review the [cumulative progress dashboard](PROGRESS.md), [chapter-level evidence](chapters/), [exercise library](exercises/), [latest Session 2 record](logs/2026-07-30_session-02.md), and [dated session logs](logs/).
 
