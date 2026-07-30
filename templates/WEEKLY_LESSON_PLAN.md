@@ -30,19 +30,16 @@ A development category may remain the primary focus across several days or the f
 - **Variables that should remain comparable:**
 - **Possible next progression if evidence supports it:**
 
-## Seven-Day Plan
+## Weekly Calendar
 
-| Day / date | Warmup category 1 | Warmup category 2 | Other maintenance / rotation | Daily development category | Intended purpose | Diagnostic / recovery |
+**Month / year:**  
+**Week of Monday:**  
+
+| **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** | **Sunday** |
 |---|---|---|---|---|---|---|
-| Day 1 |  |  |  |  | Establish baseline / cue |  |
-| Day 2 |  |  |  |  | Reinforce / compare |  |
-| Day 3 |  |  |  |  | Stabilize |  |
-| Day 4 |  |  |  |  | Adjust from evidence |  |
-| Day 5 |  |  |  |  | Increase difficulty if justified |  |
-| Day 6 |  |  |  |  | Transfer or retention |  |
-| Day 7 |  |  |  |  | Review / recovery |  |
+| **Date:**<br><br>**Warmup:**<br>1. <br>2. <br><br>**Development:**<br><br>**Purpose:** Establish baseline or cue<br><br>**Diagnostic / recovery:**<br><br>**Session log:** | **Date:**<br><br>**Warmup:**<br>1. <br>2. <br><br>**Development:**<br><br>**Purpose:** Reinforce or compare<br><br>**Diagnostic / recovery:**<br><br>**Session log:** | **Date:**<br><br>**Warmup:**<br>1. <br>2. <br><br>**Development:**<br><br>**Purpose:** Stabilize<br><br>**Diagnostic / recovery:**<br><br>**Session log:** | **Date:**<br><br>**Warmup:**<br>1. <br>2. <br><br>**Development:**<br><br>**Purpose:** Adjust from evidence<br><br>**Diagnostic / recovery:**<br><br>**Session log:** | **Date:**<br><br>**Warmup:**<br>1. <br>2. <br><br>**Development:**<br><br>**Purpose:** Increase difficulty if justified<br><br>**Diagnostic / recovery:**<br><br>**Session log:** | **Date:**<br><br>**Warmup:**<br>1. <br>2. <br><br>**Development:**<br><br>**Purpose:** Transfer or retention<br><br>**Diagnostic / recovery:**<br><br>**Session log:** | **Date:**<br><br>**Warmup:**<br>1. <br>2. <br><br>**Development:**<br><br>**Purpose:** Review, diagnostic, or recovery<br><br>**Diagnostic / recovery:**<br><br>**Session log:** |
 
-The weekly table stores broad categories and instructional purposes. Before each practice day, generate the exact 12-, 13-, or 14-minute warmup timetable and the objective-limited focused development block in that day's session log.
+This calendar stores the broad categories and purpose for each named day. A day may be marked **Rest / Recovery** instead of assigning practice. Before each active practice day, generate the exact 12-, 13-, or 14-minute warmup timetable and objective-limited focused development block in that day's linked session log.
 
 ## Daily Generation Rule
 
@@ -68,6 +65,6 @@ For each planned day:
 - **Diagnostic result, if completed:**
 - **Priority for next week:**
 
-## Calendar Use
+## Using the Calendar
 
-This lesson plan is the source for a future weekly calendar. Calendar entries should contain the day's broad warmup categories, development category, and a link to the generated session log. Detailed settings remain in the session log so calendar entries stay concise and can adapt to new evidence.
+Populate the Monday-through-Sunday grid before the week begins. Each active day should contain broad warmup categories, one development category, its instructional purpose, and a link to the generated session log. Keep technical settings in the session log so the calendar remains readable and the daily implementation can adapt to new evidence.
