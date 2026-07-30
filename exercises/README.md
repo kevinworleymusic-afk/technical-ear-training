@@ -15,11 +15,12 @@ This section connects the reusable listening exercises with the work actually co
 | 7 | Bit-depth-reduction matching | Pink noise | Bit-depth settings | 20 | 47% | Early baseline; paused |
 | 8 | Hard-clipping follow-up | Sine wave | Five clipping-severity settings | 101 | 88% | Close to 90% working criterion |
 | 9 | EQ cut matching | Pink noise | -6 dB, 250 Hz–8 kHz | 62 | 80% | Continued practice |
-| 10 | Two-band EQ boost matching | Pink noise | Two simultaneous +6 dB boosts, one-octave bandwidth, 250 Hz–8 kHz | 30 | 97% | Working criterion met; matching only |
+| 10 | Two-band EQ boost matching | Pink noise | Two +6 dB boosts; one-octave center frequencies; Q 2; 250 Hz–8 kHz | 30 | 97% | Working criterion met; matching only |
+| 11 | Three-band EQ boost matching | Pink noise | Three +6 dB boosts; one-octave center frequencies; Q 2; 250 Hz–8 kHz | 10 | 90% | Working criterion met; matching only |
 
-**Documented scored total:** 723 trials, including one approximately reported 100-trial exercise.
+**Documented scored total:** 733 trials, including one approximately reported 100-trial exercise.
 
-The scored total combines 402 EQ trials, approximately 301 hard-clipping trials, and 20 bit-depth-reduction trials. Results apply only to the listed sources, settings, and criteria.
+The scored total combines 412 EQ trials, approximately 301 hard-clipping trials, and 20 bit-depth-reduction trials. Results apply only to the listed sources, settings, and criteria.
 
 ## Exploratory Exercises
 
@@ -33,7 +34,7 @@ Mid/Side listening, expansion, and editing have not yet been exercised in the do
 ## What the Documented Sessions Establish
 
 - Pink-noise EQ boost matching is currently the strongest scored area.
-- The Session 2 result applies to direct two-band matching, not memorized or rapid identification.
+- The Session 2 results apply to direct two- and three-band matching, not memorized or rapid identification.
 - EQ cuts are usable but less reliable than boosts.
 - Smaller EQ changes reduce accuracy.
 - Sine-wave hard clipping provides more consistent cues than pink-noise clipping.
@@ -43,7 +44,7 @@ Mid/Side listening, expansion, and editing have not yet been exercised in the do
 
 ## Immediate Exercise Queue
 
-1. Repeat the two-band +6 dB EQ condition after a delay and later test it without direct matching.
+1. Repeat the two- and three-band +6 dB EQ conditions after a delay and later test it without direct matching.
 2. Repeat sine-wave hard-clipping matching and use 90% as the current working checkoff threshold.
 3. Continue -6 dB EQ-cut matching.
 4. Revisit +3 dB EQ boosts after a delay.
