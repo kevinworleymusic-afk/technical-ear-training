@@ -2,6 +2,12 @@
 
 A structured, documented practice system for developing critical-listening skills in audio engineering and system evaluation, with longer-term application to automotive audio.
 
+## Start a Practice Plan
+
+**Choose:** [EQ](templates/CATEGORY_CHOOSER.md) · [Mid/Side](templates/CATEGORY_CHOOSER.md) · [Reverberation](templates/CATEGORY_CHOOSER.md) · [Compression](templates/CATEGORY_CHOOSER.md) · [Expansion](templates/CATEGORY_CHOOSER.md) · [Distortion](templates/CATEGORY_CHOOSER.md) · [Editing](templates/CATEGORY_CHOOSER.md)
+
+Use: **Warmup: _category_ and _category_; Development: _category_.** I can then populate the timed warmup and objective-limited development block from your current evidence. Review the [category descriptions and input format](templates/CATEGORY_CHOOSER.md).
+
 Review the [prior listening background](PRIOR_EXPERIENCE.md), [progress dashboard](PROGRESS.md), [chapter curriculum](chapters/), [completed exercise evidence](exercises/), [session records](logs/), and [main Technical Audio Engineering Portfolio](https://github.com/kevinworleymusic-afk/engineering-development-portfolio).
 
 ## Prior Training and Continued Development
@@ -42,6 +48,7 @@ Review the [chapter curriculum](chapters/), [session-log method](templates/SESSI
 - [chapters/](chapters/) — actual chapter curriculum and chapter-level reflections
 - [exercises/](exercises/) — completed exercise evidence, exploratory work, and reusable exercise formats
 - [training-software/](training-software/) — software access and documentation
+- [templates/CATEGORY_CHOOSER.md](templates/CATEGORY_CHOOSER.md) — broad category menu and simple input format
 - [templates/SESSION_LOG.md](templates/SESSION_LOG.md) — repeatable full-session template
 - [templates/DAILY_WARMUP_PROGRESSION.md](templates/DAILY_WARMUP_PROGRESSION.md) — 12–14 minute warmup using established EQ/distortion skills and rotating familiarity work
 - [templates/FOCUSED_DEVELOPMENT_BLOCK.md](templates/FOCUSED_DEVELOPMENT_BLOCK.md) — objective-limited implementation template generated from the broad category selected after each warmup
