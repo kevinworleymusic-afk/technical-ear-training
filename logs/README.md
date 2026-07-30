@@ -23,3 +23,7 @@ Logs should preserve incorrect answers as well as correct ones. Matching, memori
 ## Creating Each New Session Log
 
 Start from the [full session-log template](../templates/SESSION_LOG.md). Review the [daily warmup progression](../templates/DAILY_WARMUP_PROGRESSION.md), choose that day's established and developing areas, and generate an exact 12-, 13-, or 14-minute warmup timetable in the dated log. Prepare the software first, then use a timer to complete as many careful trials as possible in each block. Record software or setup interruptions separately and exclude them from listening-practice time and trial totals.
+
+## Focused Work After the Warmup
+
+After completing the timed warmup, enter one selected focus in the dated log. Use the [focused development block](../templates/FOCUSED_DEVELOPMENT_BLOCK.md) to turn it into an immediate implementation plan with a defined objective, controlled variables, staged exercises, advancement decisions, and stopping rules. This work is not limited by a predetermined duration; elapsed valid listening time and trial count are recorded after the block.
