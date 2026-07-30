@@ -1,6 +1,6 @@
 # Exercise Library
 
-This section connects the reusable listening exercises with the work actually completed so far. Detailed chronology and observations remain in [Session 1](../logs/2026-07-27_session-01.md) and [Session 2](../logs/2026-07-30_session-02.md), while cumulative results are maintained in the [progress dashboard](../PROGRESS.md).
+This section connects the reusable listening exercises with the work actually completed so far. Detailed chronology and observations remain in [Session 1](../logs/daily/2026-W31/2026-07-27_session-01.md) and [Session 2](../logs/daily/2026-W31/2026-07-30_session-02.md), while cumulative results are maintained in the [progress dashboard](../PROGRESS.md).
 
 ## Current Exercise Evidence
 
@@ -119,7 +119,7 @@ These exercise formats support later sessions and applications beyond the standa
 
 ## Documentation Method
 
-For each new exercise, use the [daily warmup progression sheet](../templates/DAILY_WARMUP_PROGRESSION.md) before focused practice when appropriate.
+For each new exercise, use the [daily warmup progression sheet](../templates/daily/DAILY_WARMUP_PROGRESSION.md) before focused practice when appropriate.
 
 1. Record source, processing, settings, trials, correct answers, accuracy, and confidence where available.
 2. Separate exploratory exposure from formally scored work.
