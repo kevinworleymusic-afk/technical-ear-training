@@ -1,6 +1,6 @@
 # Ear Training Chapters
 
-This section documents continued work with the chapter-based technical ear-training software stored in the linked Google Drive folder. Results below are synchronized with the central [progress dashboard](../PROGRESS.md) and the dated [session logs](../logs/).
+This section documents continued work with the chapter-based technical ear-training software stored in the linked Google Drive folder. The current continuation phase contains **733 scored trials across two sessions**. Results below are synchronized with the central [progress dashboard](../PROGRESS.md) and the dated [session logs](../logs/).
 
 ## Available Curriculum and Current Evidence
 
