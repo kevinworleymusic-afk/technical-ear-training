@@ -2,6 +2,10 @@
 
 A structured, documented practice system for developing critical-listening skills in audio engineering and system evaluation, with longer-term application to automotive audio.
 
+## Calendar
+
+Open the [interactive critical-listening calendar](calendar/) to switch between months and select dated plans or completed sessions.
+
 ## Start a Practice Plan
 
 **Choose:** [EQ](templates/CATEGORY_CHOOSER.md) · [Mid/Side](templates/CATEGORY_CHOOSER.md) · [Reverberation](templates/CATEGORY_CHOOSER.md) · [Compression](templates/CATEGORY_CHOOSER.md) · [Expansion](templates/CATEGORY_CHOOSER.md) · [Distortion](templates/CATEGORY_CHOOSER.md) · [Editing](templates/CATEGORY_CHOOSER.md)
@@ -47,7 +51,7 @@ Review the [chapter curriculum](chapters/), [session-log method](templates/daily
 - [Weekly](logs/weekly/) — Monday-through-Sunday lesson plans
 - [Daily](logs/daily/) — detailed session logs grouped week by week
 
-The reusable templates mirror the same hierarchy under [templates/monthly/](templates/monthly/), [templates/weekly/](templates/weekly/), and [templates/daily/](templates/daily/).
+The [calendar view](calendar/) sits above this hierarchy for month selection and clickable dates. The reusable templates mirror the same hierarchy under [templates/monthly/](templates/monthly/), [templates/weekly/](templates/weekly/), and [templates/daily/](templates/daily/).
 
 ## Repository Guide
 
