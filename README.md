@@ -22,13 +22,13 @@ Review the [SoundGym profile](https://www.soundgym.co/member/profile?m=byy1s26wj
 
 This repository documents measurable development toward working competence across equalization, Mid/Side listening, reverberation, compression, expansion, distortion, and editing. The current continuation phase contains 733 scored trials across two sessions. Daily warmups reinforce established skills, focused sessions develop weaker categories, and weekly diagnostics determine when additional skills are ready to join the established routine. The latest achievement is 97% across 30 two-band and 90% across 10 three-band +6 dB pink-noise EQ matching trials using one-octave center frequencies, Q 2, and a 250 Hz–8 kHz range.
 
-Review the [cumulative progress dashboard](PROGRESS.md), [chapter-level evidence](chapters/), [exercise library](exercises/), [latest Session 2 record](logs/2026-07-30_session-02.md), and [dated session logs](logs/).
+Review the [cumulative progress dashboard](PROGRESS.md), [chapter-level evidence](chapters/), [exercise library](exercises/), [latest Session 2 record](logs/daily/2026-W31/2026-07-30_session-02.md), and [dated session logs](logs/).
 
 ## Training Software
 
 The standalone chapter applications are stored externally because each package is approximately 1.22 GB. GitHub contains the curriculum map, training method, session records, and interpretation of results.
 
-Review the [software and download information](training-software/), [curriculum map](chapters/), [session template](templates/SESSION_LOG.md), [adaptive daily warmup](templates/DAILY_WARMUP_PROGRESSION.md), [weekly diagnostic circuit](templates/WEEKLY_DIAGNOSTIC_CIRCUIT.md), [session records](logs/), and [progress interpretation](PROGRESS.md).
+Review the [software and download information](training-software/), [curriculum map](chapters/), [session template](templates/daily/SESSION_LOG.md), [adaptive daily warmup](templates/daily/DAILY_WARMUP_PROGRESSION.md), [weekly diagnostic circuit](templates/weekly/WEEKLY_DIAGNOSTIC_CIRCUIT.md), [session records](logs/), and [progress interpretation](PROGRESS.md).
 
 ## Purpose
 
@@ -39,7 +39,15 @@ The project turns technical ear training into a repeatable engineering-developme
 3. **Why it may sound that way**
 4. **How the observation could be measured or verified**
 
-Review the [chapter curriculum](chapters/), [session-log method](templates/SESSION_LOG.md), [exercise evidence](exercises/), and [technical listening library](LIBRARY.md).
+Review the [chapter curriculum](chapters/), [session-log method](templates/daily/SESSION_LOG.md), [exercise evidence](exercises/), and [technical listening library](LIBRARY.md).
+
+## Planning and Log Structure
+
+- [Monthly](logs/monthly/) — physical month calendars with numbered dates, warmup categories and minutes, development categories, and brief targets
+- [Weekly](logs/weekly/) — Monday-through-Sunday lesson plans
+- [Daily](logs/daily/) — detailed session logs grouped week by week
+
+The reusable templates mirror the same hierarchy under [templates/monthly/](templates/monthly/), [templates/weekly/](templates/weekly/), and [templates/daily/](templates/daily/).
 
 ## Repository Guide
 
@@ -48,21 +56,22 @@ Review the [chapter curriculum](chapters/), [session-log method](templates/SESSI
 - [chapters/](chapters/) — actual chapter curriculum and chapter-level reflections
 - [exercises/](exercises/) — completed exercise evidence, exploratory work, and reusable exercise formats
 - [training-software/](training-software/) — software access and documentation
+- [logs/monthly/2026-08.md](logs/monthly/2026-08.md) — active August 2026 numbered calendar
 - [templates/CATEGORY_CHOOSER.md](templates/CATEGORY_CHOOSER.md) — broad category menu and simple input format
-- [templates/SESSION_LOG.md](templates/SESSION_LOG.md) — repeatable full-session template
-- [templates/DAILY_WARMUP_PROGRESSION.md](templates/DAILY_WARMUP_PROGRESSION.md) — 12–14 minute warmup using established EQ/distortion skills and rotating familiarity work
-- [templates/FOCUSED_DEVELOPMENT_BLOCK.md](templates/FOCUSED_DEVELOPMENT_BLOCK.md) — objective-limited implementation template generated from the broad category selected after each warmup
-- [templates/MONTHLY_LESSON_CALENDAR.md](templates/MONTHLY_LESSON_CALENDAR.md) — reusable full-month, six-week calendar for long-range warmup, development, diagnostic, and recovery planning
-- [templates/WEEKLY_LESSON_PLAN.md](templates/WEEKLY_LESSON_PLAN.md) — Monday-through-Sunday calendar for broad warmup categories, recurring development focuses, diagnostics, recovery, and daily adaptation
-- [templates/WEEKLY_DIAGNOSTIC_CIRCUIT.md](templates/WEEKLY_DIAGNOSTIC_CIRCUIT.md) — 30–45 minute full Chapters 2–6 diagnostic for broad weekly progress
+- [templates/daily/SESSION_LOG.md](templates/daily/SESSION_LOG.md) — repeatable full-session template
+- [templates/daily/DAILY_WARMUP_PROGRESSION.md](templates/daily/DAILY_WARMUP_PROGRESSION.md) — 12–14 minute warmup using established EQ/distortion skills and rotating familiarity work
+- [templates/daily/FOCUSED_DEVELOPMENT_BLOCK.md](templates/daily/FOCUSED_DEVELOPMENT_BLOCK.md) — objective-limited implementation template generated from the broad category selected after each warmup
+- [templates/monthly/MONTHLY_LESSON_CALENDAR.md](templates/monthly/MONTHLY_LESSON_CALENDAR.md) — reusable full-month, six-week calendar for long-range warmup, development, diagnostic, and recovery planning
+- [templates/weekly/WEEKLY_LESSON_PLAN.md](templates/weekly/WEEKLY_LESSON_PLAN.md) — Monday-through-Sunday calendar for broad warmup categories, recurring development focuses, diagnostics, recovery, and daily adaptation
+- [templates/weekly/WEEKLY_DIAGNOSTIC_CIRCUIT.md](templates/weekly/WEEKLY_DIAGNOSTIC_CIRCUIT.md) — 30–45 minute full Chapters 2–6 diagnostic for broad weekly progress
 - [logs/](logs/) — dated results and progress evidence
 - [LIBRARY.md](LIBRARY.md) — technical listening concepts and references
 
 ## Practice Method
 
-- Create each dated session log from the [session template](templates/SESSION_LOG.md), review the [daily warmup progression](templates/DAILY_WARMUP_PROGRESSION.md), and assign an exact 12-, 13-, or 14-minute timetable before practice.
+- Create each dated session log from the [session template](templates/daily/SESSION_LOG.md), review the [daily warmup progression](templates/daily/DAILY_WARMUP_PROGRESSION.md), and assign an exact 12-, 13-, or 14-minute timetable before practice.
 - Prepare the required software before starting the timer; complete as many careful trials as possible within each warmup block and exclude documented software/setup interruptions from practice time.
-- After the warmup, enter one broad development category and generate an immediately executable [focused development block](templates/FOCUSED_DEVELOPMENT_BLOCK.md); this block ends by objective, evidence, or listening-quality criteria rather than a fixed duration.
+- After the warmup, enter one broad development category and generate an immediately executable [focused development block](templates/daily/FOCUSED_DEVELOPMENT_BLOCK.md); this block ends by objective, evidence, or listening-quality criteria rather than a fixed duration.
 - Use comparable settings when measuring improvement.
 - Record a new, comparable documentation baseline for this continuation phase before focusing on a score target.
 - Preserve incorrect judgments and recurring confusions.
@@ -70,7 +79,7 @@ Review the [chapter curriculum](chapters/), [session-log method](templates/SESSI
 - Separate audible observations from technical interpretation.
 - Connect listening observations to measurements when practical.
 
-Review the [monthly lesson calendar](templates/MONTHLY_LESSON_CALENDAR.md), [weekly lesson plan](templates/WEEKLY_LESSON_PLAN.md), [session-log method](templates/SESSION_LOG.md), [adaptive daily warmup](templates/DAILY_WARMUP_PROGRESSION.md), [weekly diagnostic circuit](templates/WEEKLY_DIAGNOSTIC_CIRCUIT.md), [progress baseline](PROGRESS.md), [dated listening records](logs/), [technical interpretation library](LIBRARY.md), and [measurement evidence](https://github.com/kevinworleymusic-afk/engineering-development-portfolio#technical-evidence-at-a-glance).
+Review the [monthly lesson calendar](templates/monthly/MONTHLY_LESSON_CALENDAR.md), [weekly lesson plan](templates/weekly/WEEKLY_LESSON_PLAN.md), [session-log method](templates/daily/SESSION_LOG.md), [adaptive daily warmup](templates/daily/DAILY_WARMUP_PROGRESSION.md), [weekly diagnostic circuit](templates/weekly/WEEKLY_DIAGNOSTIC_CIRCUIT.md), [progress baseline](PROGRESS.md), [dated listening records](logs/), [technical interpretation library](LIBRARY.md), and [measurement evidence](https://github.com/kevinworleymusic-afk/engineering-development-portfolio#technical-evidence-at-a-glance).
 
 ## Portfolio Relevance
 
