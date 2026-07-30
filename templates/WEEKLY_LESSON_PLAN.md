@@ -1,5 +1,11 @@
 # Weekly Critical-Listening Lesson Plan
 
+## Category Chooser
+
+**Choose:** [EQ](CATEGORY_CHOOSER.md) · [Mid/Side](CATEGORY_CHOOSER.md) · [Reverberation](CATEGORY_CHOOSER.md) · [Compression](CATEGORY_CHOOSER.md) · [Expansion](CATEGORY_CHOOSER.md) · [Distortion](CATEGORY_CHOOSER.md) · [Editing](CATEGORY_CHOOSER.md)
+
+See the [full category descriptions and input format](CATEGORY_CHOOSER.md).
+
 Use this template to plan ear-training instruction one week at a time. It treats the week like a teacher's lesson plan while preserving day-to-day adjustment based on evidence.
 
 The listener chooses broad categories. The detailed session plan is then generated from the current [progress dashboard](../PROGRESS.md), [chapter curriculum](../chapters/), [daily warmup progression](DAILY_WARMUP_PROGRESSION.md), and prior session logs.
