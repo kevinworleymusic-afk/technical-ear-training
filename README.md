@@ -52,7 +52,7 @@ Review the [chapter curriculum](chapters/), [session-log method](templates/SESSI
 - [templates/SESSION_LOG.md](templates/SESSION_LOG.md) — repeatable full-session template
 - [templates/DAILY_WARMUP_PROGRESSION.md](templates/DAILY_WARMUP_PROGRESSION.md) — 12–14 minute warmup using established EQ/distortion skills and rotating familiarity work
 - [templates/FOCUSED_DEVELOPMENT_BLOCK.md](templates/FOCUSED_DEVELOPMENT_BLOCK.md) — objective-limited implementation template generated from the broad category selected after each warmup
-- [templates/WEEKLY_LESSON_PLAN.md](templates/WEEKLY_LESSON_PLAN.md) — seven-day curriculum planner for broad warmup categories, recurring development focuses, diagnostics, and daily adaptation
+- [templates/WEEKLY_LESSON_PLAN.md](templates/WEEKLY_LESSON_PLAN.md) — Monday-through-Sunday calendar for broad warmup categories, recurring development focuses, diagnostics, recovery, and daily adaptation
 - [templates/WEEKLY_DIAGNOSTIC_CIRCUIT.md](templates/WEEKLY_DIAGNOSTIC_CIRCUIT.md) — 30–45 minute full Chapters 2–6 diagnostic for broad weekly progress
 - [logs/](logs/) — dated results and progress evidence
 - [LIBRARY.md](LIBRARY.md) — technical listening concepts and references
