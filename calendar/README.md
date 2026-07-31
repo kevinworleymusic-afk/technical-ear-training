@@ -6,6 +6,8 @@
 
 Each cell uses the same category marker, status notation, compact description, and linked evidence pattern as the master calendar.
 
+Repository and document additions use the date of the first relevant GitHub commit. Sessions, calls, and outreach use their recorded real-world dates. Entries describing multi-day strategy or procedure development are period-level records and do not imply that a particular file was created that day.
+
 Software, portfolio, and capture/reproduction work from July 18–25 remains in the master engineering calendar; it is not classified here as Critical Listening practice.
 
 <details>
@@ -18,8 +20,8 @@ Software, portfolio, and capture/reproduction work from July 18–25 remains in 
 | — | — | **1** | **2** | **3** | **4** | **5** |
 | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
 | **13** | **14** | **15** | **16** | **17** | **18** | **19** |
-| **20** | **21** | **22** | **23** | **24** | **25** | [**26**](https://github.com/kevinworleymusic-afk/technical-ear-training)<br>[🟦 **LISTEN**](./)<br>✓ Created ear-training repo<br>[Chapters](../chapters/) |
-| [**27**](../logs/03-daily/2026-W31/2026-07-27_session-01.md)<br>[🟦 **LISTEN**](./)<br>✓ Ran baseline + Session 1<br>[Session](../logs/03-daily/2026-W31/2026-07-27_session-01.md) · [EQ](../chapters/chapter-02-equalization/) · [Distortion](../chapters/chapter-05-distortion/) | [**28**](../templates/03-daily/DAILY_WARMUP_PROGRESSION.md)<br>[🟦 **LISTEN**](./)<br>✓ Designed warmup/logs<br>[Warmup](../templates/03-daily/DAILY_WARMUP_PROGRESSION.md) · [Session template](../templates/03-daily/SESSION_LOG.md) | [**29**](../templates/03-daily/FOCUSED_DEVELOPMENT_BLOCK.md)<br>[🟦 **LISTEN**](./)<br>✓ Planned training<br>[Development block](../templates/03-daily/FOCUSED_DEVELOPMENT_BLOCK.md) · [Weekly plan](../templates/02-weekly/WEEKLY_LESSON_PLAN.md) · [Diagnostic](../templates/02-weekly/WEEKLY_DIAGNOSTIC_CIRCUIT.md) | [**30**](../logs/03-daily/2026-W31/2026-07-30_session-02.md)<br>[🟦 **LISTEN**](./)<br>✓ Ran EQ Session 2<br>[Session](../logs/03-daily/2026-W31/2026-07-30_session-02.md) · [EQ](../chapters/chapter-02-equalization/) · [Progress](../PROGRESS.md) | [**31**](./)<br>[🟦 **LISTEN**](./)<br>◇ Document calendar<br>[Calendar](./) · [Monthly template](../templates/01-monthly/MONTHLY_LESSON_CALENDAR.md) | — | — |
+| **20** | **21** | **22** | **23** | **24** | **25** | [**26**](https://github.com/kevinworleymusic-afk/technical-ear-training/commit/eeada61c4cc3681726648613069fd563b90bb3aa)<br>[🟦 **LISTEN**](./)<br>✓ Initialized ear-training repo<br>[Chapters](../chapters/) |
+| [**27**](../logs/03-daily/2026-W31/2026-07-27_session-01.md)<br>[🟦 **LISTEN**](./)<br>✓ Ran baseline + Session 1<br>[Session](../logs/03-daily/2026-W31/2026-07-27_session-01.md) · [EQ](../chapters/chapter-02-equalization/) · [Distortion](../chapters/chapter-05-distortion/) | [**28**](../logs/02-weekly/2026-07-27_weekly-plan.md)<br>[🟦 **LISTEN**](./)<br>✓ Developed listening procedures<br>[Weekly record](../logs/02-weekly/2026-07-27_weekly-plan.md) | [**29**](https://github.com/kevinworleymusic-afk/technical-ear-training/commit/59470940fc4ab99f65c5c7a8969b57216360b3cb)<br>[🟦 **LISTEN**](./)<br>✓ Refined training evidence<br>[Chapters](../chapters/) · [Exercises](../exercises/) | [**30**](../logs/03-daily/2026-W31/2026-07-30_session-02.md)<br>[🟦 **LISTEN**](./)<br>✓ Ran Session 2 + built warmup system<br>[Session](../logs/03-daily/2026-W31/2026-07-30_session-02.md) · [Warmup](../templates/03-daily/DAILY_WARMUP_PROGRESSION.md) · [Weekly plan](../templates/02-weekly/WEEKLY_LESSON_PLAN.md) | [**31**](./)<br>[🟦 **LISTEN**](./)<br>◇ Document calendar<br>[Calendar](./) · [Monthly template](../templates/01-monthly/MONTHLY_LESSON_CALENDAR.md) | — | — |
 
 ### Month Objective
 
