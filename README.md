@@ -18,9 +18,9 @@ Review the [prior listening background](PRIOR_EXPERIENCE.md), [progress dashboar
 
 I began developing technical-listening skills through extensive independent SoundGym practice, producing a quantified public record with an SPI of 3,410,130 and SoundGym’s Diamond Ears Award. SoundGym calculates SPI from the three highest scores in each audio game, so the result supports performance across standardized frequency, dynamics, level, panning, and spatial-listening exercises rather than simply recording participation volume.
 
-I later learned and practiced Jason Corey’s technical-ear-training methodology in an academic course. This repository is continued execution of that established course-based training through defined software chapters, documented comparison points, progress tracking, and technical reflection. It does not represent my first exposure to the program, and the SoundGym record is supporting evidence rather than an unsupported percentile claim.
+I later used James Coley’s technical-ear-training software in an academic course. This repository continues that established course-based work through defined software chapters, documented comparison points, progress tracking, and technical reflection. It does not represent my first exposure to the program, and the SoundGym record is supporting evidence rather than an unsupported percentile claim.
 
-Review the [SoundGym profile](https://www.soundgym.co/member/profile?m=byy1s26wj7u), [SPI methodology](https://www.soundgym.co/help/item?id=how-is-spi-calculated), [Corey training reference](https://sites.google.com/a/umich.edu/jason-corey/technical-ear-training), [prior experience record](PRIOR_EXPERIENCE.md), [chapter curriculum](chapters/), and [progress dashboard](PROGRESS.md).
+Review the [SoundGym profile](https://www.soundgym.co/member/profile?m=byy1s26wj7u), [SPI methodology](https://www.soundgym.co/help/item?id=how-is-spi-calculated), [training-software record](training-software/), [prior experience record](PRIOR_EXPERIENCE.md), [chapter curriculum](chapters/), and [progress dashboard](PROGRESS.md).
 
 ## Training Progress
 
