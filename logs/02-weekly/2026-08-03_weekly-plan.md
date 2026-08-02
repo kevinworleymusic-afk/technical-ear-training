@@ -4,11 +4,11 @@
 
 ## Objective
 
-Set up the recurring critical-listening procedure on Monday, then begin the first structured practice cycle.
+Begin the first structured practice cycle using the procedure finalized Sunday, August 2.
 
 ## Progression Marker
 
-On Monday, identify the usable all-chapter warmups, assign realistic timing, select one development focus, and confirm the daily recording method. Then create later daily plans from those choices. Record the first comparable results without changing difficulty merely to improve the score.
+Use the selected warmups, timing, development focus, and recording method established on August 2. Record the first comparable results without changing difficulty merely to improve the score. Record the first comparable results without changing difficulty merely to improve the score.
 
 ## Populate Before the Week Begins
 
