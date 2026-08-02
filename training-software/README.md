@@ -2,7 +2,7 @@
 
 **[Access the software download folder →](SOFTWARE_DOWNLOADS.md)**
 
-This project continues my use of James Coley’s chapter-based technical-ear-training software. I used the software in an academic course; the work documented here continues that established training through a more systematic portfolio framework. Each standalone chapter application is approximately 1.22 GB, so the application files are stored externally while GitHub documents the curriculum and training results.
+This project continues my use of James Corey’s chapter-based software tests for EQ, compression, and other technical-ear-training categories. I used the software in an academic course; the work documented here continues that established training through a more systematic portfolio framework. Each standalone chapter application is approximately 1.22 GB, so the application files are stored externally while GitHub documents the curriculum and training results.
 
 ## Available Software Modules
 
