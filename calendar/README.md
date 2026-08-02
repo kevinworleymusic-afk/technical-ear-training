@@ -44,7 +44,7 @@ Software, portfolio, and capture/reproduction work from July 18–25 remains in 
 
 | **Mon** | **Tue** | **Wed** | **Thu** | **Fri** | **Sat** | **Sun** |
 |---|---|---|---|---|---|---|
-| — | — | — | — | — | **1**<br>[🟦 **LISTEN**](./)<br>↪ Listening setup moved to Sunday | [**2**](../logs/03-daily/2026-W31/2026-08-02_session-04.md)<br>[🟦 **LISTEN**](./)<br>◇ Finalize recurring procedure<br>[Setup plan](../logs/03-daily/2026-W31/2026-08-02_session-04.md) · [Chapters](../chapters/) · [Warmup template](../templates/03-daily/DAILY_WARMUP_PROGRESSION.md) |
+| — | — | — | — | — | **1**<br>[🟦 **LISTEN**](./)<br>↪ Listening setup moved to Sunday | [**2**](../logs/03-daily/2026-W31/2026-08-02_session-04.md)<br>[🟦 **LISTEN**](./)<br>◇ Develop recurring procedure<br>[Setup plan](../logs/03-daily/2026-W31/2026-08-02_session-04.md) · [Chapters](../chapters/) · [Warmup template](../templates/03-daily/DAILY_WARMUP_PROGRESSION.md) |
 | [**3**](../logs/03-daily/2026-W32/2026-08-03_procedure-setup.md)<br>[🟦 **LISTEN**](./)<br>◇ *How Long* — Bill Cantos<br>[Launch plan](../logs/03-daily/2026-W32/2026-08-03_procedure-setup.md) · [Weekly plan](../logs/02-weekly/2026-08-03_weekly-plan.md) | [**4**](../logs/01-monthly/2026-08.md)<br>[🟦 **LISTEN**](./)<br>◇ *Clap Hands* — George Krikes | [**5**](../logs/01-monthly/2026-08.md)<br>[🟦 **LISTEN**](./)<br>◇ *Four Wheel Drive* — Paul Thorn | [**6**](../logs/01-monthly/2026-08.md)<br>[🟦 **LISTEN**](./)<br>◇ *Fiesta Linda* — Open Hands feat. Abraham Laboriel | [**7**](../logs/01-monthly/2026-08.md)<br>[🟦 **LISTEN**](./)<br>◇ *Fast Car* — Tracy Chapman | [**8**](../logs/01-monthly/2026-08.md)<br>[🟦 **LISTEN**](./)<br>◇ *Morph the Cat* — Donald Fagen | [**9**](../logs/01-monthly/2026-08.md)<br>[🟦 **LISTEN**](./)<br>◇ *Bird on a Wire* — Jennifer Warnes |
 | [**10**](../logs/01-monthly/2026-08.md) | [**11**](../logs/01-monthly/2026-08.md) | [**12**](../logs/01-monthly/2026-08.md) | [**13**](../logs/01-monthly/2026-08.md) | [**14**](../logs/01-monthly/2026-08.md) | [**15**](../logs/01-monthly/2026-08.md) | [**16**](../logs/01-monthly/2026-08.md) |
 | [**17**](../logs/01-monthly/2026-08.md) | [**18**](../logs/01-monthly/2026-08.md) | [**19**](../logs/01-monthly/2026-08.md) | [**20**](../logs/01-monthly/2026-08.md) | [**21**](../logs/01-monthly/2026-08.md) | [**22**](../logs/01-monthly/2026-08.md) | [**23**](../logs/01-monthly/2026-08.md) |
@@ -58,7 +58,7 @@ Software, portfolio, and capture/reproduction work from July 18–25 remains in 
 
 ### Weekly Progression
 
-- [**August 1–2:** Complete initial procedure integration.](../logs/02-weekly/2026-07-27_weekly-plan.md)
+- [**August 1–2:** Develop the initial procedure structure.](../logs/02-weekly/2026-07-27_weekly-plan.md)
 - [**August 3–9:** Begin the first structured practice cycle.](../logs/02-weekly/2026-08-03_weekly-plan.md)
 - [**August 10–16:** Stabilize the selected development focus.](../logs/02-weekly/2026-08-10_weekly-plan.md)
 - [**August 17–23:** Increase difficulty where evidence supports it.](../logs/02-weekly/2026-08-17_weekly-plan.md)
