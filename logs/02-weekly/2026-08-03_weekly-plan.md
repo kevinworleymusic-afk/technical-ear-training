@@ -8,7 +8,21 @@ Begin the first structured practice cycle using the procedure finalized Sunday, 
 
 ## Progression Marker
 
-Use the selected warmups, timing, development focus, and recording method established on August 2. Record the first comparable results without changing difficulty merely to improve the score. Record the first comparable results without changing difficulty merely to improve the score.
+Use the selected warmups, timing, development focus, and recording method established on August 2. Record the first comparable results without changing difficulty merely to improve the score.
+
+## Reference Track Schedule
+
+These tracks are selected listening material for the week; their inclusion does not mark a session or analysis as completed.
+
+| Day | Reference track |
+|---|---|
+| Monday | *How Long* — Bill Cantos |
+| Tuesday | *Clap Hands* — George Krikes |
+| Wednesday | *Four Wheel Drive* — Paul Thorn |
+| Thursday | *Fiesta Linda* — Open Hands featuring Abraham Laboriel |
+| Friday | *Fast Car* — Tracy Chapman |
+| Saturday | *Morph the Cat* — Donald Fagen |
+| Sunday | *Bird on a Wire* — Jennifer Warnes |
 
 ## Populate Before the Week Begins
 
