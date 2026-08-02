@@ -4,11 +4,11 @@
 
 ## Objective
 
-Complete the initial system-development phase and begin the first structured practice cycle.
+Set up the recurring critical-listening procedure on Monday, then begin the first structured practice cycle.
 
 ## Progression Marker
 
-Choose warmup categories from current competencies, select one development focus, and create daily plans from those choices. Record the first comparable results without changing difficulty merely to improve the score.
+On Monday, identify the usable all-chapter warmups, assign realistic timing, select one development focus, and confirm the daily recording method. Then create later daily plans from those choices. Record the first comparable results without changing difficulty merely to improve the score.
 
 ## Populate Before the Week Begins
 
