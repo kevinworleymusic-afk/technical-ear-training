@@ -1,12 +1,12 @@
-# Recurring Critical-Listening Procedure Setup — August 3, 2026
+# Regular Critical-Listening Practice Launch — August 3, 2026
 
-[Weekly plan](../../02-weekly/2026-08-03_weekly-plan.md) · [Critical-listening calendar](../../../calendar/) · [Rescheduled August 2 plan](../2026-W31/2026-08-02_session-04.md)
+[Weekly plan](../../02-weekly/2026-08-03_weekly-plan.md) · [Critical-listening calendar](../../../calendar/) · [August 2 procedure setup](../2026-W31/2026-08-02_session-04.md)
 
-**Status:** Planned. Complete the recurring-procedure setup moved from Sunday. Regular practice begins after the procedure is established.
+**Status:** Planned. Begin regular use of the procedure finalized on Sunday, August 2. Complete the result fields only after the session occurs.
 
 ## Primary Objective
 
-Finalize the warmups, timing, focused-development category, and recording method that will be used for regular critical-listening practice.
+Run the first regular critical-listening session using the selected warmups, timing, focused-development category, and recording method established on August 2.
 
 ## Session Record
 
