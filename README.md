@@ -24,9 +24,9 @@ Review the [SoundGym profile](https://www.soundgym.co/member/profile?m=byy1s26wj
 
 ## Training Progress
 
-This repository documents measurable development toward working competence across equalization, Mid/Side listening, reverberation, compression, expansion, distortion, and editing. The current continuation phase contains 733 scored trials across two sessions. Daily warmups reinforce established skills, focused sessions develop weaker categories, and weekly diagnostics determine when additional skills are ready to join the established routine. The latest achievement is 97% across 30 two-band and 90% across 10 three-band +6 dB pink-noise EQ matching trials using one-octave center frequencies, Q 2, and a 250 Hz–8 kHz range.
+This repository documents measurable development toward working competence across equalization, Mid/Side listening, reverberation, compression, expansion, distortion, and editing. The current continuation phase contains at least 1,804 documented trials across three sessions, including at least 1,627 trials with recorded accuracy. On August 3, 1,071+ pink-noise EQ trials at Q = 8 established new single- and multiple-boost baselines: 98% across 45 single-boost +3 dB trials over 2–16 kHz, 93% across 105 fresh 1–16 kHz trials, and 89% across 101 three-boost +6 dB trials. Daily warmups, focused sessions, and weekly diagnostics remain separate from the detailed evidence log.
 
-Review the [cumulative progress dashboard](PROGRESS.md), [chapter-level evidence](chapters/), [exercise library](exercises/), [latest Session 2 record](logs/03-daily/2026-W31/2026-07-30_session-02.md), and [dated session logs](logs/).
+Review the [cumulative progress dashboard](PROGRESS.md), [chapter-level evidence](chapters/), [exercise library](exercises/), [latest completed session](logs/03-daily/2026-W32/2026-08-03_procedure-setup.md), and [dated session logs](logs/).
 
 ## Training Software
 
@@ -93,6 +93,6 @@ Review the [prior experience record](PRIOR_EXPERIENCE.md), [chapter evidence](ch
 
 ## Status
 
-The chapter framework is active across two documented sessions. Three-band +6 dB matching is now the default pink-noise boost condition; the next progression is to stabilize multi-frequency accuracy and confidence, reduce response time gradually, and then document transfer to music separately.
+The chapter framework is active across three documented sessions. The next progression is a short pink-noise EQ warmup followed by separately documented EQ transfer work using one selected reference song; today’s unusually long baseline will also be checked later in shorter, fresh sessions.
 
 Review the [available software](training-software/), [chapter framework](chapters/), [current progress](PROGRESS.md), and [immediate exercise queue](exercises/).
