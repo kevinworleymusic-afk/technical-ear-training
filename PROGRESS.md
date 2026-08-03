@@ -56,6 +56,8 @@ Each row represents one comparable combination of skill, sample type, and test c
 
 ## August 3 Cumulative Result
 
+> **Q = 8 difficulty choice:** After the earlier Q = 2 work, I intentionally selected Q = 8 for most August 3 exercises because its narrower bandwidth made the frequency-identification task more challenging and more frequency-specific. I chose to develop under that harder condition rather than remain at Q = 2 or another broader setting. Q = 2 and Q = 8 results remain separate because they are not directly interchangeable test conditions.
+
 The day’s **1,142 trials produced an approximately 88.8% trial-weighted cumulative score**. This calculation weights each recorded block by its number of trials rather than averaging the displayed percentages equally.
 
 | Common exercise group | Trials | Trial-weighted result |
