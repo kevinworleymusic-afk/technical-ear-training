@@ -12,7 +12,7 @@ Use the selected warmups, timing, development focus, and recording method establ
 
 ## Reference Track Schedule
 
-These tracks are selected listening material for the week; their inclusion does not mark a session or analysis as completed.
+These tracks form Kevin’s seven-track weekly rotation: approximately one different reference song per day, cycled again in later weeks. Day assignments may rotate between weeks so Sunday’s warmup does not always use the same song. The rotation is Kevin’s practice design; Harman did not prescribe this schedule. Track inclusion does not mark a session or analysis as completed.
 
 | Day | Reference track |
 |---|---|
@@ -23,6 +23,16 @@ These tracks are selected listening material for the week; their inclusion does 
 | Friday | *Fast Car* — Tracy Chapman |
 | Saturday | *Morph the Cat* — Donald Fagen |
 | Sunday | *Bird on a Wire* — Jennifer Warnes |
+
+### Selection Rationale and Sources
+
+The first four tracks are the program material identified on Harman’s 2011 [*How to Listen* page](https://harmanhowtolisten.blogspot.com/2011/01/welcome-to-how-to-listen.html): *How Long*, *Clap Hands*, *Four Wheel Drive*, and *Fiesta Linda*. *Fast Car*, *Morph the Cat*, and *Bird on a Wire* appear in Harman’s [Professional Reference Songs](https://artoflistening.harman.com/professional-reference-songs) collection.
+
+These sources explain why the recordings were chosen as technically relevant listening material. They do not imply that Harman designed, endorsed, or evaluated Kevin’s daily exercise procedure.
+
+### Sunday Diagnostic Structure
+
+Keep Sunday as the regular diagnostic day. Begin with the assigned reference-track warmup, then complete the standardized diagnostic tests. Rotate track-to-day assignments in later weeks if desired while keeping the core diagnostic procedure stable for comparison.
 
 ## Populate Before the Week Begins
 
