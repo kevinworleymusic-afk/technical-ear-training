@@ -10,14 +10,15 @@ Run the first regular critical-listening session using the selected warmups, tim
 
 ## Session Record
 
-- **Warmup categories and timing:**
-- **Focused-development category:** Narrow-band EQ identification, including endpoint checks and a reduced-gain central-range test.
-- **Exercise settings:** Pink noise with Q = 8. Endpoint sets used 63/125/250 Hz and 4/8/16 kHz. The reduced-gain test used one boosted band per trial across the full 250 Hz–8 kHz range.
+- **Warmup categories and timing:** A 20-trial +6 dB warmup preceded the focused 250 Hz–1 kHz +3 dB block.
+- **Focused-development category:** Narrow-band EQ identification, including endpoint checks and reduced-gain central-range tests.
+- **Exercise settings:** Pink noise with Q = 8. Endpoint sets used 63/125/250 Hz and 4/8/16 kHz. The full central-range test used one boosted band per trial across 250 Hz–8 kHz. Focused subdivision began with 250/500/1 kHz.
 - **Initial +9 dB endpoint blocks:** Approximately 15 trials in each frequency set (approximately 30 trials total), with 100% identification in both sets.
 - **High-frequency +6 dB follow-up:** Completed 53 trials using the 4 kHz, 8 kHz, and 16 kHz set. The high-frequency changes, including 16 kHz, were audible at +6 dB. An accuracy percentage was not recorded.
 - **Low-frequency +6 dB check:** The 63 Hz boost was not reliably audible at +6 dB. Its current demonstrated identification level remains +9 dB. A trial count and accuracy percentage were not recorded for this check.
 - **Central-range +3 dB test:** Completed 40 trials with one boosted band per trial across 250 Hz–8 kHz and scored 74%.
+- **Focused low-mid +3 dB test:** After 20 warmup trials at +6 dB, completed 23 trials across 250 Hz, 500 Hz, and 1 kHz at +3 dB and scored 64%.
 - **Monitoring note:** The high-frequency boost was initially easier to hear after increasing headphone monitoring level. Monitoring was then returned to a comfortable level, and the boost remained audible.
-- **Audible cues used:** Most bands were identifiable at +6 dB. Both endpoints were identifiable at +9 dB; 16 kHz was subsequently audible at +6 dB, while 63 Hz was not reliably audible at +6 dB. Across the central 250 Hz–8 kHz range, +3 dB boosts were identified at 74% over 40 trials.
+- **Audible cues used:** Most bands were identifiable at +6 dB. Both endpoints were identifiable at +9 dB; 16 kHz was subsequently audible at +6 dB, while 63 Hz was not reliably audible at +6 dB. Across the full central range, +3 dB boosts were identified at 74%; the focused low-mid set produced 64% at +3 dB.
 - **Procedure followed consistently:** In progress
-- **Adjustment for the next session:** Repeat the 250 Hz–8 kHz, +3 dB, Q = 8 test at a fixed comfortable monitoring level to assess consistency. Continue separate 63 Hz work at +9 dB before periodically retesting +6 dB.
+- **Adjustment for the next session:** Continue the 250/500/1 kHz set at +3 dB until results stabilize, then practice the 2/4/8 kHz set under the same conditions. Keep Q = 8 and monitoring fixed at a comfortable level.
