@@ -16,7 +16,7 @@ Chapter 1 is not documented because it was not visible in the supplied software 
 
 ## Current Interpretation
 
-Three documented continuation sessions have established baselines in Chapters 2 and 5. EQ work on pink noise is currently the strongest chapter-based area. Session 2 established direct Q 2 matching results; the August 3 session separately established Q 8 identification results across +9, +6, and +3 dB conditions, including single-, two-, and three-boost tasks. The next planned step is a pink-noise warmup followed by song-based EQ transfer. Sine-wave hard-clipping matching remains close to its working checkoff criterion. EQ cuts, pink-noise clipping, and bit-depth reduction remain active development areas. Compression and reverberation require direct parameter exploration before formal quiz-style testing; Mid/Side, expansion, and editing have not yet been scored.
+Three documented continuation sessions have established baselines in Chapters 2 and 5. EQ work on pink noise is currently the strongest chapter-based area. Session 2 established direct Q 2 matching results; the August 2 session separately established Q 8 identification results across +9, +6, and +3 dB conditions, including single-, two-, and three-boost tasks. The next planned step is a pink-noise warmup followed by song-based EQ transfer. Sine-wave hard-clipping matching remains close to its working checkoff criterion. EQ cuts, pink-noise clipping, and bit-depth reduction remain active development areas. Compression and reverberation require direct parameter exploration before formal quiz-style testing; Mid/Side, expansion, and editing have not yet been scored.
 
 These results describe performance only for the specific sources, settings, and exercises logged. They do not imply mastery across all program material or listening systems.
 
@@ -30,4 +30,4 @@ Each chapter records:
 - links to dated session logs
 - a chapter reflection after sufficient practice
 
-Use the central [progress dashboard](../PROGRESS.md) for the cumulative cross-chapter view, [Session 1](../logs/03-daily/2026-W31/2026-07-27_session-01.md) for the original multi-skill baseline, [Session 2](../logs/03-daily/2026-W31/2026-07-30_session-02.md) for the earlier Q 2 matching work, and the [August 3 session](../logs/03-daily/2026-W32/2026-08-03_procedure-setup.md) for the current Q 8 identification baseline.
+Use the central [progress dashboard](../PROGRESS.md) for the cumulative cross-chapter view, [Session 1](../logs/03-daily/2026-W31/2026-07-27_session-01.md) for the original multi-skill baseline, [Session 2](../logs/03-daily/2026-W31/2026-07-30_session-02.md) for the earlier Q 2 matching work, and the [August 2 session](../logs/03-daily/2026-W31/2026-08-02_session-04.md) for the current Q 8 identification baseline.
