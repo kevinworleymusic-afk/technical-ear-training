@@ -1,6 +1,6 @@
 # Pink-Noise Warmup and Song-Based EQ Practice — August 4, 2026
 
-[Weekly plan](../../02-weekly/2026-08-03_weekly-plan.md) · [August calendar](../../01-monthly/2026-08.md) · [August 3 baseline](2026-08-03_procedure-setup.md)
+[Weekly plan](../../02-weekly/2026-08-02_weekly-plan.md) · [August calendar](../../01-monthly/2026-08.md) · [August 2 baseline](2026-08-02_procedure-setup.md)
 
 **Status:** Planned.
 
