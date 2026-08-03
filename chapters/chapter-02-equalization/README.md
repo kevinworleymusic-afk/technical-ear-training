@@ -11,7 +11,7 @@ Develop recognition of frequency regions and audible changes produced by equaliz
 
 - **Documented work:** Sessions 1–3, 2026-07-27 through 2026-08-03
 - **Documented EQ trials:** At least 1,483
-- **EQ trials with recorded accuracy:** At least 1,306
+- **EQ trials with recorded accuracy:** All 1,483 documented EQ trials
 - **Best recent exercise:** 98% on 45 single-boost +3 dB trials across 2–16 kHz at Q = 8
 - **Sessions completed:** 3
 - **Status:** Active — controlled boosts are strongest; 63 Hz at +6 dB, cuts, delayed retention, and transfer to music remain active
@@ -35,8 +35,8 @@ The August 3 work used pink noise and is kept separate from the earlier Q = 2 di
 | Condition | Total trials | Cumulative result | Best block / note |
 |---|---:|---:|---|
 | One +9 dB boost; endpoint sets 63/125/250 Hz and 4/8/16 kHz | approximately 30 | 100% in each set | Controlled endpoint baseline |
-| One +6 dB boost; 4/8/16 kHz | 53 | Accuracy not recorded | All three bands, including 16 kHz, were audible |
-| One +6 dB boost; 250/500/1 kHz | 124 | Accuracy not recorded | Combines the 20-trial warmup and 104-trial rapid-fire block |
+| One +6 dB boost; 4/8/16 kHz | 53 | 90% | All three bands, including 16 kHz, were audible |
+| One +6 dB boost; 250/500/1 kHz | 124 | 83% | Combines the 20-trial warmup and 104-trial rapid-fire block |
 | One +3 dB boost; 250 Hz–8 kHz | 40 | 74% | Broad-range starting point |
 | One +3 dB boost; 250/500/1 kHz | 58 | 76.7% weighted | Best block 85%; improved from the earlier 64% block |
 | One +6 dB boost; 500/1k/2 kHz | 100 | 98% | First portion of the 178-trial counter |
