@@ -19,6 +19,21 @@ This page is the concise evidence summary for my continued technical ear-trainin
 
 All 1,875 documented trials have an accuracy result. The total remains “at least” because one earlier hard-clipping exercise was recorded as approximately 100 trials.
 
+## Development Areas and Improvement Evidence
+
+These results are included in the cumulative totals and are intentionally visible rather than filtered out:
+
+| Development area | Initial evidence | Later evidence | Interpretation / next step |
+|---|---|---|---|
+| Broad +3 dB identification, 250 Hz–8 kHz | 74% across 40 trials | Broke the range into smaller frequency groups and improved those focused sets | Continue adding one frequency at a time until the complete 250 Hz–8 kHz range is rebuilt, then repeat the broad condition |
+| Low-mid +3 dB identification, 250/500/1 kHz | 64% across 23 trials | 85% across 35 trials after +6 dB reinforcement | Improvement occurred within the session; test retention later |
+| Five-choice +3 dB identification, 1–16 kHz | 77% across 100 fresh trials | 93% across 105 later trials | Main confusion was 1 kHz versus 16 kHz; repeat in a shorter fresh session |
+| 63 Hz identification | Reliable at +9 dB but not in the brief +6 dB check | Shifted to low-frequency practice through 250 Hz, where +3 dB changes were detectable | Use the clearer 250 Hz cue to build low-frequency discrimination, then transfer the practice back toward 63 Hz after rest |
+| EQ cuts | 82% at −12 dB; 80% at −6 dB | No later cut block yet | Continue cut identification separately from boost work |
+| Bit-depth reduction | 47% across 20 trials | No later scored block yet | Establish audible cues through direct parameter exploration before retesting |
+
+The purpose of this section is to show both current strengths and remaining work. A lower score is treated as a useful baseline, not removed from the record.
+
 ## August 3 EQ Session
 
 The session used James Corey’s technical ear-training software and pink noise. Exercises included single-, two-, and three-boost identification at different gain, bandwidth, and frequency-range settings.
@@ -87,21 +102,6 @@ The 74% and 77% results are retained as part of the evidence rather than omitted
 | Hard-clipping matching, sine wave | Approximately 201 | Approximately 86%; best block 88% |
 | Hard-clipping matching, pink noise | 100 | 72% |
 | Bit-depth-reduction matching, pink noise | 20 | 47% |
-
-## Development Areas and Improvement Evidence
-
-These results are included in the cumulative totals and are intentionally visible rather than filtered out:
-
-| Development area | Initial evidence | Later evidence | Interpretation / next step |
-|---|---|---|---|
-| Broad +3 dB identification, 250 Hz–8 kHz | 74% across 40 trials | Broke the range into smaller frequency groups and improved those focused sets | Continue adding one frequency at a time until the complete 250 Hz–8 kHz range is rebuilt, then repeat the broad condition |
-| Low-mid +3 dB identification, 250/500/1 kHz | 64% across 23 trials | 85% across 35 trials after +6 dB reinforcement | Improvement occurred within the session; test retention later |
-| Five-choice +3 dB identification, 1–16 kHz | 77% across 100 fresh trials | 93% across 105 later trials | Main confusion was 1 kHz versus 16 kHz; repeat in a shorter fresh session |
-| 63 Hz identification | Reliable at +9 dB but not in the brief +6 dB check | Shifted to low-frequency practice through 250 Hz, where +3 dB changes were detectable | Use the clearer 250 Hz cue to build low-frequency discrimination, then transfer the practice back toward 63 Hz after rest |
-| EQ cuts | 82% at −12 dB; 80% at −6 dB | No later cut block yet | Continue cut identification separately from boost work |
-| Bit-depth reduction | 47% across 20 trials | No later scored block yet | Establish audible cues through direct parameter exploration before retesting |
-
-The purpose of this section is to show both current strengths and remaining work. A lower score is treated as a useful baseline, not removed from the record.
 
 ## What the Evidence Shows
 
