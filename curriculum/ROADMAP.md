@@ -1,6 +1,6 @@
 # Technical Ear Training Roadmap
 
-**Current documented continuation phase:** At least 1,804 trials across three sessions, including at least 1,627 trials with recorded accuracy. The August 3 session added Q = 8 single- and multiple-boost identification baselines, including 98% across 45 single-boost +3 dB trials over 2–16 kHz, 93% across 105 fresh 1–16 kHz trials, and 89% across 101 three-boost +6 dB trials.
+**Current documented continuation phase:** At least 1,804 trials across three sessions, with recorded accuracy for all 1,804 trials. The August 3 session added Q = 8 single- and multiple-boost identification baselines, including 98% across 45 single-boost +3 dB trials over 2–16 kHz, 93% across 105 fresh 1–16 kHz trials, and 89% across 101 three-boost +6 dB trials.
 
 The long-term objective is working competence across every available chapter. Normal practice days begin with the 12–14 minute [adaptive daily warmup](../templates/03-daily/DAILY_WARMUP_PROGRESSION.md), which reinforces established EQ and distortion cues while rotating two developing categories. Focused sessions push developing areas forward, and the 30–45 minute [weekly full-chapter diagnostic](../templates/02-weekly/WEEKLY_DIAGNOSTIC_CIRCUIT.md) determines which skills need more work and which are ready to enter the established warmup. Trial counts are outputs from each time window rather than quotas; unfamiliar chapters begin with reference listening before scored questions.
 
@@ -58,7 +58,8 @@ Reduce the size of changes and track whether confidence matches accuracy.
 - Bit-depth Reduction (Pink Noise): 47% (20 trials, exercise intentionally paused)
 
 **Session 3 (2026-08-03)**
-- Completed at least 1,071 pink-noise EQ trials at Q = 8; 894 had recorded accuracy.
+- Completed 1,071 pink-noise EQ trials at Q = 8, all with recorded accuracy.
+- The 53 high-frequency +6 dB trials scored 90%, and the combined 124 low-mid +6 dB trials scored 83%.
 - Strong +3 dB results included 93% across 1–4 kHz, 98% across 2–16 kHz, and 93% on a fresh 1–16 kHz repeat.
 - The 250/500/1 kHz +3 dB result improved from 64% to 85% after +6 dB reinforcement.
 - Two simultaneous +3 dB boosts reached 85% across 50 trials; three simultaneous +6 dB boosts reached 89% across 101 trials.
