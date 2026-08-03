@@ -36,9 +36,24 @@ Run the first regular critical-listening session using the selected warmups, tim
 - **Adjustment for the next session:** Transfer the exercise from pink noise to one selected reference song. Begin with a short pink-noise EQ warmup, then use comparable EQ-identification work on the song. Keep monitoring fixed at a comfortable level and reset the counter when conditions change.
 
 
+## August 3 Cumulative Result
+
+The day’s **1,071 trials produced an approximately 88.4% trial-weighted cumulative score**. This calculation weights each recorded block by its number of trials rather than averaging the displayed percentages equally.
+
+| Common exercise group | Trials | Trial-weighted result |
+|---|---:|---:|
+| One boost at +9 dB, Q = 8 | 30 | 100% |
+| One boost at +6 dB, Q = 8 | 277 | approximately 91.0% |
+| One boost at +3 dB, Q = 8 | 613 | approximately 86.8% |
+| Two simultaneous boosts at +3 dB, Q = 8 | 50 | 85% |
+| Three simultaneous boosts at +6 dB, Q = 8 | 101 | 89% |
+| **All August 3 exercises** | **1,071** | **approximately 88.4%** |
+
+Repeated blocks belonging to the same broad exercise type are grouped here. The detailed tables retain separate frequency sets where those settings materially differ. The cumulative result is approximate because several software percentages were rounded, the 78-trial +3 dB segment was derived from rounded cumulative displays, and the two- and three-boost exercises use the software’s partial-credit scoring.
+
 ## End-of-Session Recap
 
-- **Documented volume:** **1,071 trials with recorded accuracy**, with every completed block included once; this excludes only the brief uncounted 63 Hz +6 dB check.
+- **Documented volume:** **1,071 trials with an approximately 88.4% trial-weighted cumulative score**, with every completed block included once; this excludes only the brief uncounted 63 Hz +6 dB check.
 - **Strongest single-boost results:** 98% across 2–16 kHz in 45 trials at +3 dB; 93% across 1–16 kHz in 105 trials at +3 dB; 93% across 1–4 kHz in 101 trials at +3 dB; and 90% across 53 high-frequency +6 dB trials.
 - **Multiple-boost results:** 85% across 50 two-boost trials at +3 dB and 89% across 101 three-boost trials at +6 dB.
 - **Improvement during the session:** The 20-trial 250 Hz–1 kHz +6 dB warmup scored 100%, followed by 104 rapid-fire trials at 83%; the combined 124-trial weighted result was approximately 85.7%. Across 58 total +3 dB trials in that range, the two blocks scored 64% over 23 trials and 85% over 35 trials after the +6 dB reinforcement. The 500 Hz–2 kHz work also included 100 +6 dB trials at 98% and 78 valid +3 dB trials at approximately 86–87%.
