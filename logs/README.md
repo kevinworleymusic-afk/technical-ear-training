@@ -18,6 +18,6 @@ The records are organized at three levels:
 - [August 3, 2026 — Session 3 and completed Q = 8 EQ baseline](03-daily/2026-W32/2026-08-03_procedure-setup.md)
 - [August 4, 2026 — Planned pink-noise warmup and song-based EQ transfer](03-daily/2026-W32/2026-08-04_song-eq-practice.md)
 
-**Current continuation-phase total:** At least 1,804 documented trials across three completed sessions, with recorded accuracy for all 1,804 trials.
+**Current continuation-phase total:** At least 1,875 documented trials across three completed sessions, with recorded accuracy for all 1,875 trials.
 
 Use the [monthly calendar template](../templates/01-monthly/MONTHLY_LESSON_CALENDAR.md), [weekly lesson-plan template](../templates/02-weekly/WEEKLY_LESSON_PLAN.md), and [daily session-log template](../templates/03-daily/SESSION_LOG.md).
