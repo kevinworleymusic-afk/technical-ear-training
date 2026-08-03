@@ -15,7 +15,8 @@ Run the first regular critical-listening session using the selected warmups, tim
 - **Exercise settings:** Pink noise; three-frequency identification; Q = 8. Low-frequency set: 63 Hz, 125 Hz, and 250 Hz. High-frequency set: 4 kHz, 8 kHz, and 16 kHz.
 - **Initial +9 dB endpoint blocks:** Approximately 15 trials in each frequency set (approximately 30 trials total), with 100% identification in both sets.
 - **High-frequency +6 dB follow-up:** Completed 53 trials using the 4 kHz, 8 kHz, and 16 kHz set. The high-frequency changes, including 16 kHz, were audible at +6 dB. An accuracy percentage was not recorded.
+- **Low-frequency +6 dB check:** The 63 Hz boost was not reliably audible at +6 dB. Its current demonstrated identification level remains +9 dB. A trial count and accuracy percentage were not recorded for this check.
 - **Monitoring note:** The high-frequency boost was initially easier to hear after increasing headphone monitoring level. Monitoring was then returned to a comfortable level, and the boost remained audible.
-- **Audible cues used:** Other tested frequency bands were identifiable at +6 dB. Both 63 Hz and 16 kHz were identifiable at +9 dB during the initial endpoint blocks; the high-frequency set was then successfully made audible at +6 dB.
+- **Audible cues used:** Other tested frequency bands were identifiable at +6 dB. Both endpoints were identifiable at +9 dB; 16 kHz was subsequently audible at +6 dB, while 63 Hz was not reliably audible at +6 dB.
 - **Procedure followed consistently:** In progress
-- **Adjustment for the next session:** Test the 63/125/250 Hz set at +6 dB, keeping Q = 8 and monitoring at a fixed, comfortable level. Record the exact accuracy percentage for each completed block so results can be compared across sessions.
+- **Adjustment for the next session:** Continue focused 63/125/250 Hz practice at +9 dB, then retest at +6 dB while keeping Q = 8 and monitoring fixed at a comfortable level. Record the exact trial count and accuracy percentage for each block.
