@@ -1,0 +1,94 @@
+# Critical-Listening Results Summary
+
+**Current through August 3, 2026**
+
+This page is the concise evidence summary for my continued technical ear-training work. It presents the cumulative data without replacing the detailed session logs, where the settings, sequence, observations, errors, and limitations are preserved.
+
+## Results at a Glance
+
+| Measure | Current record |
+|---|---:|
+| Completed documented sessions | 3 |
+| All documented trials | At least 1,875 |
+| Equalization trials | 1,554 |
+| Hard-clipping trials | Approximately 301 |
+| Bit-depth-reduction trials | 20 |
+| Latest session | August 3, 2026 |
+| Latest-session trials | 1,142 |
+| Latest-session weighted result | Approximately 88.8% |
+
+All 1,875 documented trials have an accuracy result. The total remains “at least” because one earlier hard-clipping exercise was recorded as approximately 100 trials.
+
+## August 3 EQ Session
+
+The session used James Corey’s technical ear-training software and pink noise. Exercises included single-, two-, and three-boost identification at different gain, bandwidth, and frequency-range settings.
+
+### Grouped Results
+
+| Common exercise group | Trials | Trial-weighted result |
+|---|---:|---:|
+| One boost at +9 dB | 30 | 100% |
+| One boost at +6 dB | 277 | Approximately 91.0% |
+| One boost at +3 dB | 613 | Approximately 86.8% |
+| Two simultaneous boosts at +3 dB | 50 | 85% |
+| Three simultaneous boosts at +6 dB | 172 | Approximately 91.5% |
+| **Entire session** | **1,142** | **Approximately 88.8%** |
+
+The grouped table combines repeated blocks of the same broad exercise type. The [full August 3 session record](logs/03-daily/2026-W32/2026-08-03_procedure-setup.md) keeps materially different frequency sets, bandwidths, and block results separate.
+
+### Selected Detailed Results
+
+| Exercise | Trials | Result |
+|---|---:|---:|
+| Three boosts, +6 dB, one-octave bands, 63 Hz–16 kHz | 71 | 95% |
+| Three boosts, +6 dB, Q = 8, 250 Hz–8 kHz | 101 | 89% |
+| Two boosts, +3 dB, Q = 8, 1–16 kHz | 50 | 85% |
+| One boost, +3 dB, Q = 8, 2–16 kHz | 45 | 98% |
+| One boost, +3 dB, Q = 8, 1–16 kHz | 105 | 93% |
+| One boost, +3 dB, Q = 8, 1–4 kHz | 101 | 93% |
+| One boost, +6 dB, Q = 8, 4–16 kHz | 53 | 90% |
+| One boost, +6 dB, Q = 8, 250 Hz–1 kHz | 20 warmup + 104 rapid-fire | 100% warmup; 83% rapid-fire |
+| One boost, +6 dB, Q = 8, 500 Hz–2 kHz | 100 | 98% |
+| One boost, +3 dB, Q = 8, 500 Hz–2 kHz | 78 | Approximately 86–87% |
+
+The 78-trial +3 dB result is valid completed work. Its exact percentage is approximate because it was derived from the software’s rounded cumulative displays after the gain changed from +6 to +3 dB.
+
+## Earlier Controlled Results
+
+| Exercise | Trials | Result |
+|---|---:|---:|
+| One-band +12 dB EQ boost matching, pink noise | 100 | 90% |
+| One-band +6 dB EQ boost matching, pink noise | 109 | 89.9% cumulative |
+| Two-band +6 dB EQ boost matching, Q = 2, 250 Hz–8 kHz | 30 | 97% |
+| Three-band +6 dB EQ boost matching, Q = 2, 250 Hz–8 kHz | 10 | 90% |
+| −12 dB EQ cut matching, pink noise | 50 | 82% |
+| −6 dB EQ cut matching, 250 Hz–8 kHz | 62 | 80% |
+| Hard-clipping matching, sine wave | Approximately 201 | Approximately 86%; best block 88% |
+| Hard-clipping matching, pink noise | 100 | 72% |
+| Bit-depth-reduction matching, pink noise | 20 | 47% |
+
+## What the Evidence Shows
+
+- Controlled pink-noise EQ boost identification is currently the strongest area.
+- The August 3 session demonstrated +3 dB identification across several Q = 8 frequency sets and both two- and three-boost work.
+- Low-mid +3 dB performance improved from 64% over 23 trials to 85% over 35 trials after +6 dB reinforcement.
+- The listener distinguished 8 kHz from 16 kHz during focused upper-range practice.
+- The clearest remaining EQ target is 63 Hz below +9 dB.
+- EQ cuts, bit-depth reduction, delayed retention, and transfer from pink noise to music remain development areas.
+
+## Limits and Interpretation
+
+These results apply only to the documented software, source material, settings, playback conditions, and scoring systems. Several software percentages were rounded, and multiple-boost exercises use partial-credit scoring. The August 3 session was unusually long, so fatigue and recent-trial sequence may have influenced some blocks. Results do not claim generalized professional mastery; they document a measurable controlled-source baseline and the next development steps.
+
+## Next Step
+
+Acquire one selected reference song, complete a short pink-noise EQ warmup, and perform separately logged EQ-identification work using the song. Pink-noise and music results will remain separate so transfer can be evaluated honestly.
+
+## Supporting Evidence
+
+- [Cumulative progress dashboard](PROGRESS.md)
+- [August 3 complete session log](logs/03-daily/2026-W32/2026-08-03_procedure-setup.md)
+- [Equalization chapter](chapters/chapter-02-equalization/)
+- [Cumulative exercise library](exercises/)
+- [August 4 song-based practice plan](logs/03-daily/2026-W32/2026-08-04_song-eq-practice.md)
+- [Prior listening background](PRIOR_EXPERIENCE.md)
