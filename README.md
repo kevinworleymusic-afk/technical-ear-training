@@ -24,7 +24,7 @@ Review the [SoundGym profile](https://www.soundgym.co/member/profile?m=byy1s26wj
 
 ## Training Progress
 
-This repository documents measurable development toward working competence across equalization, Mid/Side listening, reverberation, compression, expansion, distortion, and editing. The current continuation phase contains at least 1,804 documented trials across three sessions, including at least 1,627 trials with recorded accuracy. On August 3, 1,071+ pink-noise EQ trials at Q = 8 established new single- and multiple-boost baselines: 98% across 45 single-boost +3 dB trials over 2–16 kHz, 93% across 105 fresh 1–16 kHz trials, and 89% across 101 three-boost +6 dB trials. Daily warmups, focused sessions, and weekly diagnostics remain separate from the detailed evidence log.
+This repository documents measurable development toward working competence across equalization, Mid/Side listening, reverberation, compression, expansion, distortion, and editing. The current continuation phase contains at least 1,804 documented trials across three sessions, with recorded accuracy for all 1,804 trials. On August 3, 1,071+ pink-noise EQ trials at Q = 8 established new single- and multiple-boost baselines: 98% across 45 single-boost +3 dB trials over 2–16 kHz, 93% across 105 fresh 1–16 kHz trials, and 89% across 101 three-boost +6 dB trials. Daily warmups, focused sessions, and weekly diagnostics remain separate from the detailed evidence log.
 
 Review the [cumulative progress dashboard](PROGRESS.md), [chapter-level evidence](chapters/), [exercise library](exercises/), [latest completed session](logs/03-daily/2026-W32/2026-08-03_procedure-setup.md), and [dated session logs](logs/).
 
