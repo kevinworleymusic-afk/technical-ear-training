@@ -30,6 +30,8 @@ Develop recognition of frequency regions and audible changes produced by equaliz
 
 ## August 3 Q = 8 Evidence
 
+> **Q = 8 difficulty choice:** After the earlier Q = 2 work, I intentionally selected Q = 8 for most August 3 exercises because its narrower bandwidth made the frequency-identification task more challenging and more frequency-specific. I chose to develop under that harder condition rather than remain at Q = 2 or another broader setting. Q = 2 and Q = 8 results remain separate because they are not directly interchangeable test conditions.
+
 The August 3 work used pink noise and is kept separate from the earlier Q = 2 direct-matching criteria. Repeated blocks with identical settings are combined below so each exercise condition appears once.
 
 | Condition | Total trials | Cumulative result | Best block / note |
