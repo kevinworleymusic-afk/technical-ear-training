@@ -2,30 +2,48 @@
 
 This section connects the reusable listening exercises with the work actually completed so far. Detailed chronology and observations remain in [Session 1](../logs/03-daily/2026-W31/2026-07-27_session-01.md), [Session 2](../logs/03-daily/2026-W31/2026-07-30_session-02.md), and the [August 3 session](../logs/03-daily/2026-W32/2026-08-03_procedure-setup.md), while cumulative results are maintained in the [progress dashboard](../PROGRESS.md).
 
-## Current Exercise Evidence
+## Cumulative Exercise Evidence
 
-| Session exercise | Chapter / skill | Source | Settings or criterion | Trials | Result | Status |
-|---|---|---|---|---:|---:|---|
-| 1 | EQ boost matching | Pink noise | +12 dB octave-band boost | 100 | 90% | Working criterion met |
-| 2 | EQ boost matching | Pink noise | +6 dB octave-band boost | 109 | 89.9% cumulative; 90% exercise score | Working criterion met |
-| 3 | EQ boost matching | Pink noise | +3 dB octave-band boost | 51 | 82.4% cumulative; 83% exercise score | Continued practice |
-| 4 | EQ cut matching | Pink noise | -12 dB octave-band cut | 50 | 82% | Continued practice |
-| 5 | Hard-clipping matching | Pink noise | Clipping-severity settings | 100 | 72% | Continued practice |
-| 6 | Hard-clipping matching | Sine wave | Five clipping-severity settings | approximately 100 | 83% | Initial baseline |
-| 7 | Bit-depth-reduction matching | Pink noise | Bit-depth settings | 20 | 47% | Early baseline; paused |
-| 8 | Hard-clipping follow-up | Sine wave | Five clipping-severity settings | 101 | 88% | Close to 90% working criterion |
-| 9 | EQ cut matching | Pink noise | -6 dB, 250 Hz–8 kHz | 62 | 80% | Continued practice |
-| 10 | Two-band EQ boost matching | Pink noise | Two +6 dB boosts; one-octave center frequencies; Q 2; 250 Hz–8 kHz | 30 | 97% | Working criterion met; matching only |
-| 11 | Three-band EQ boost matching | Pink noise | Three +6 dB boosts; one-octave center frequencies; Q 2; 250 Hz–8 kHz | 10 | 90% | Working criterion met; matching only |
-| 12 | Single-band EQ identification | Pink noise | +3 dB; Q 8; 1–4 kHz | 101 | 93% | Working controlled-range result |
-| 13 | Single-band EQ identification | Pink noise | +3 dB; Q 8; 2–16 kHz | 45 | 98% | Working controlled-range result |
-| 14 | Single-band EQ identification repeat | Pink noise | +3 dB; Q 8; 1–16 kHz | 105 | 93% | Repeat after an earlier 77% fresh block |
-| 15 | Two-band EQ identification | Pink noise | Two +3 dB boosts; Q 8; 1–16 kHz | 50 | 85% | Partial-credit software score |
-| 16 | Three-band EQ identification | Pink noise | Three +6 dB boosts; Q 8; 250 Hz–8 kHz | 101 | 89% | Scoring rule not independently confirmed |
+Each comparable exercise condition appears once. Repeated blocks are combined into the same row, and every documented repetition is counted once.
 
-**Documented total:** At least 1,804 trials across three sessions, including one approximately reported 100-trial exercise. At least 1,627 trials have a recorded accuracy result.
+| Chapter / skill | Source | Settings or criterion | Total trials | Cumulative result | Best block / status |
+|---|---|---|---:|---:|---|
+| EQ boost matching | Pink noise | +12 dB octave-band boost | 100 | 90% | 90%; criterion met |
+| EQ boost matching | Pink noise | +6 dB octave-band boost | 109 | 89.9% | 90%; criterion met |
+| EQ boost matching | Pink noise | +3 dB octave-band boost | 51 | 82.4% | 83%; continued practice |
+| EQ cut matching | Pink noise | -12 dB octave-band cut | 50 | 82% | Continued practice |
+| EQ cut matching | Pink noise | -6 dB; 250 Hz–8 kHz | 62 | 80% | Continued practice |
+| Two-band EQ boost matching | Pink noise | Two +6 dB boosts; one-octave centers; Q 2; 250 Hz–8 kHz | 30 | 97% | Criterion met; matching |
+| Three-band EQ boost matching | Pink noise | Three +6 dB boosts; one-octave centers; Q 2; 250 Hz–8 kHz | 10 | 90% | Criterion met; matching |
+| Single-band EQ identification | Pink noise | +9 dB; Q 8; endpoint sets 63/125/250 Hz and 4/8/16 kHz | approximately 30 | 100% in each set | Controlled baseline |
+| Single-band EQ identification | Pink noise | +6 dB; Q 8; 4/8/16 kHz | 53 | Accuracy not recorded | Completed |
+| Single-band EQ identification | Pink noise | +6 dB; Q 8; 250/500/1 kHz | 124 | Accuracy not recorded | 20 warmup + 104 rapid-fire |
+| Single-band EQ identification | Pink noise | +3 dB; Q 8; 250 Hz–8 kHz | 40 | 74% | Broad-range baseline |
+| Single-band EQ identification | Pink noise | +3 dB; Q 8; 250/500/1 kHz | 58 | 76.7% weighted | Best block 85% |
+| Single-band EQ identification | Pink noise | +6 dB; Q 8; 500/1k/2 kHz | 100 | 98% | Criterion met |
+| Single-band EQ identification | Pink noise | +3 dB; Q 8; 500/1k/2 kHz | 78 | approximately 86–87% | Valid result derived from cumulative display |
+| Single-band EQ identification | Pink noise | +3 dB; Q 8; 1/2/4 kHz | 101 | 93% | Strong controlled result |
+| Single-band EQ identification | Pink noise | +3 dB; Q 8; 2/4/8 kHz | 31 | 97% | Strong controlled result |
+| Single-band EQ identification | Pink noise | +3 dB; Q 8; 2/4/8/16 kHz | 45 | 98% | Strong controlled result |
+| Single-band EQ identification | Pink noise | +3 dB; Q 8; 1/2/4/8/16 kHz | 260 | approximately 86% weighted | Best block 93% |
+| Two-band EQ identification | Pink noise | Two +3 dB boosts; Q 8; 1–16 kHz | 50 | 85% | Partial-credit score |
+| Three-band EQ identification | Pink noise | Three +6 dB boosts; Q 8; 250 Hz–8 kHz | 101 | 89% | Software score |
+| Hard-clipping matching | Pink noise | Clipping-severity settings | 100 | 72% | Continued practice |
+| Hard-clipping matching | Sine wave | Five clipping-severity settings | approximately 201 | approximately 86% | Best block 88% |
+| Bit-depth-reduction matching | Pink noise | Bit-depth settings | 20 | 47% | Early baseline; paused |
 
-The cumulative total includes at least 1,483 EQ trials, approximately 301 hard-clipping trials, and 20 bit-depth-reduction trials. Results apply only to the listed sources, settings, and criteria.
+## Totals Across All Exercises
+
+| Exercise area | Documented trials |
+|---|---:|
+| Equalization | 1,483 |
+| Hard clipping | approximately 301 |
+| Bit-depth reduction | 20 |
+| **All documented repetitions** | **at least 1,804** |
+
+At least 1,627 of the 1,804 trials have a recorded accuracy result. The remaining 177 are still included as completed repetitions: 53 high-frequency +6 dB EQ trials and 124 low-mid +6 dB EQ trials.
+
+The 78-trial 500 Hz–2 kHz +3 dB exercise is valid completed work. Its approximately 86–87% result is derived from the rounded cumulative display after the preceding 100-trial +6 dB segment; the rounding affects only the precision of the percentage, not whether the repetitions count.
 
 ## Exploratory Exercises
 
