@@ -2,7 +2,7 @@
 
 [Weekly plan](../../02-weekly/2026-08-03_weekly-plan.md) · [Critical-listening calendar](../../../calendar/) · [August 2 procedure setup](../2026-W31/2026-08-02_session-04.md)
 
-**Status:** In progress. Regular use of the procedure finalized on Sunday, August 2 has begun.
+**Status:** Completed. The first regular use of the procedure finalized on Sunday, August 2 was completed.
 
 ## Primary Objective
 
@@ -32,5 +32,15 @@ Run the first regular critical-listening session using the selected warmups, tim
 - **Monitoring note:** The high-frequency boost was initially easier to hear after increasing headphone monitoring level. Monitoring was then returned to a comfortable level, and the boost remained audible.
 - **Audible cues used:** Most bands were identifiable at +6 dB. Both endpoints were identifiable at +9 dB; 16 kHz was subsequently audible at +6 dB, while 63 Hz was not reliably audible at +6 dB. Focused +3 dB results were 64% for 250 Hz–1 kHz, 93% for 1–4 kHz, 97% for 2–8 kHz, 98% for 2–16 kHz, 77% on the first fresh 1–16 kHz block, and 93% on a 105-trial repeat of that full set. The 500 Hz–2 kHz bridge block produced 98% at +6 dB. During upper-range practice, the listener perceived a distinct difference between the 8 kHz and 16 kHz boosts. In the fresh five-choice test, errors were concentrated primarily between the nonadjacent 1 kHz and 16 kHz options.
 - **Sequential-context observation:** After hearing several recent 4–8 kHz trials, an ambiguous trial was more likely to be labeled 16 kHz. After hearing more trials toward the opposite/lower side, the response bias shifted toward 1 kHz. This suggests that recent stimulus history influenced endpoint labeling during uncertain trials.
-- **Procedure followed consistently:** In progress
-- **Adjustment for the next session:** Confirm the estimated 86–87% result with a fresh, reset 500 Hz–2 kHz block at +3 dB. Repeat the fresh 1–16 kHz test after rest to determine whether the 1/16 kHz confusion persists. On uncertain trials, compare the processed sound directly with the reference and classify the audible quality before looking at the response choices. Keep Q = 8 and monitoring fixed at a comfortable level.
+- **Procedure followed consistently:** Completed for this session
+- **Adjustment for the next session:** Transfer the exercise from pink noise to one selected reference song. Begin with a short pink-noise EQ warmup, then use comparable EQ-identification work on the song. Keep monitoring fixed at a comfortable level and reset the counter when conditions change.
+
+
+## End-of-Session Recap
+
+- **Documented volume:** At least **1,071 trials**, excluding the brief uncounted 63 Hz +6 dB check.
+- **Strongest single-boost results:** 98% across 2–16 kHz in 45 trials at +3 dB; 93% across 1–16 kHz in 105 trials at +3 dB; and 93% across 1–4 kHz in 101 trials at +3 dB.
+- **Multiple-boost results:** 85% across 50 two-boost trials at +3 dB and 89% across 101 three-boost trials at +6 dB.
+- **Improvement during the session:** The 250 Hz–1 kHz +3 dB score improved from 64% over 23 trials to 85% over 35 fresh trials after focused +6 dB reinforcement.
+- **Current development targets:** Improve 63 Hz identification below +9 dB, retest difficult conditions after rest, reduce response bias from the recent trial sequence, and transfer the EQ cues from pink noise to music.
+- **Overall takeaway:** This session established a detailed working baseline and showed rapid cue learning. Because the session was unusually long, the strongest and weakest results should be checked again in shorter, fresh sessions before drawing broader conclusions.
