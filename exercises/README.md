@@ -18,14 +18,14 @@ Each comparable exercise condition appears once. Repeated blocks are combined in
 | Single-band EQ identification | Pink noise | +9 dB; Q 8; endpoint sets 63/125/250 Hz and 4/8/16 kHz | approximately 30 | 100% in each set | Controlled baseline |
 | Single-band EQ identification | Pink noise | +6 dB; Q 8; 4/8/16 kHz | 53 | 90% | Completed |
 | Single-band EQ identification | Pink noise | +6 dB; Q 8; 250/500/1 kHz | 124 | approximately 85.7% weighted | 20 warmup at 100%; 104 rapid-fire at 83% |
-| Single-band EQ identification | Pink noise | +3 dB; Q 8; 250 Hz–8 kHz | 40 | 74% | Broad-range baseline |
+| Single-band EQ identification | Pink noise | +3 dB; Q 8; 250 Hz–8 kHz | 40 | 74% | Broad-range baseline retained |
 | Single-band EQ identification | Pink noise | +3 dB; Q 8; 250/500/1 kHz | 58 | 76.7% weighted | Best block 85% |
 | Single-band EQ identification | Pink noise | +6 dB; Q 8; 500/1k/2 kHz | 100 | 98% | Criterion met |
 | Single-band EQ identification | Pink noise | +3 dB; Q 8; 500/1k/2 kHz | 78 | approximately 86–87% | Valid result derived from cumulative display |
 | Single-band EQ identification | Pink noise | +3 dB; Q 8; 1/2/4 kHz | 101 | 93% | Strong controlled result |
 | Single-band EQ identification | Pink noise | +3 dB; Q 8; 2/4/8 kHz | 31 | 97% | Strong controlled result |
 | Single-band EQ identification | Pink noise | +3 dB; Q 8; 2/4/8/16 kHz | 45 | 98% | Strong controlled result |
-| Single-band EQ identification | Pink noise | +3 dB; Q 8; 1/2/4/8/16 kHz | 260 | approximately 86% weighted | Best block 93% |
+| Single-band EQ identification | Pink noise | +3 dB; Q 8; 1/2/4/8/16 kHz | 260 | approximately 86% weighted | Blocks approximately 87%, 77%, and 93% |
 | Two-band EQ identification | Pink noise | Two +3 dB boosts; Q 8; 1–16 kHz | 50 | 85% | Partial-credit score |
 | Three-band EQ identification | Pink noise | Three +6 dB boosts; one-octave bands; 63 Hz–16 kHz | 71 | 95% | Broad-range exercise |
 | Three-band EQ identification | Pink noise | Three +6 dB boosts; Q 8; 250 Hz–8 kHz | 101 | 89% | Software score |
