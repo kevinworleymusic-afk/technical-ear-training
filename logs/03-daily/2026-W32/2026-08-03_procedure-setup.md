@@ -19,6 +19,7 @@ Run the first regular critical-listening session using the selected warmups, tim
 - **Central-range +3 dB test:** Completed 40 trials with one boosted band per trial across 250 Hz–8 kHz and scored 74%.
 - **Focused low-mid +3 dB block:** After the +6 dB warmup, completed 23 trials across 250 Hz, 500 Hz, and 1 kHz at +3 dB and scored 64%.
 - **Rapid-fire low-mid +6 dB bridge block:** Completed 104 rapid-fire, one-boost trials across 250 Hz, 500 Hz, and 1 kHz at +6 dB and Q = 8 before returning to +3 dB. Accuracy was not reported.
+- **Low-mid +3 dB follow-up:** Completed 35 fresh one-boost trials across 250 Hz, 500 Hz, and 1 kHz at +3 dB and Q = 8, scoring 85%.
 - **500 Hz–2 kHz bridge and follow-up:** Completed the first 100 three-choice trials across 500 Hz, 1 kHz, and 2 kHz at +6 dB with 98% accuracy. The boost was then reduced to +3 dB without resetting the counter. At 178 cumulative trials, the display showed 93%, establishing 78 added +3 dB trials. Based on the rounded displayed percentages, the +3 dB block is estimated at approximately 86–87%.
 - **Focused 1–4 kHz +3 dB block:** Completed 101 fresh three-choice trials across 1 kHz, 2 kHz, and 4 kHz at +3 dB and scored 93%.
 - **Focused upper-range +3 dB block:** Completed 31 trials across 2 kHz, 4 kHz, and 8 kHz at +3 dB and scored 97% (approximately 30 correct out of 31).
