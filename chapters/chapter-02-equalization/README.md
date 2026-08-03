@@ -37,14 +37,14 @@ The August 3 work used pink noise and is kept separate from the earlier Q = 2 di
 | One +9 dB boost; endpoint sets 63/125/250 Hz and 4/8/16 kHz | approximately 30 | 100% in each set | Controlled endpoint baseline |
 | One +6 dB boost; 4/8/16 kHz | 53 | 90% | All three bands, including 16 kHz, were audible |
 | One +6 dB boost; 250/500/1 kHz | 124 | approximately 85.7% weighted | 20-trial warmup: 100%; 104-trial rapid-fire block: 83% |
-| One +3 dB boost; 250 Hz–8 kHz | 40 | 74% | Broad-range starting point |
+| One +3 dB boost; 250 Hz–8 kHz | 40 | 74% | Broad-range starting point retained |
 | One +3 dB boost; 250/500/1 kHz | 58 | 76.7% weighted | Best block 85%; improved from the earlier 64% block |
 | One +6 dB boost; 500/1k/2 kHz | 100 | 98% | First portion of the 178-trial counter |
 | One +3 dB boost; 500/1k/2 kHz | 78 | approximately 86–87% | Valid second portion derived from the 178-trial cumulative display |
 | One +3 dB boost; 1/2/4 kHz | 101 | 93% | Strong controlled range |
 | One +3 dB boost; 2/4/8 kHz | 31 | 97% | Strong controlled range |
 | One +3 dB boost; 2/4/8/16 kHz | 45 | 98% | 8 and 16 kHz became perceptually distinct |
-| One +3 dB boost; 1/2/4/8/16 kHz | 260 | approximately 86% weighted | Combined 55-, 100-, and 105-trial blocks; best block 93% |
+| One +3 dB boost; 1/2/4/8/16 kHz | 260 | approximately 86% weighted | Block scores approximately 87%, 77%, and 93% |
 | Two simultaneous +3 dB boosts; 1–16 kHz | 50 | 85% partial-credit score | Multiple-boost baseline |
 | Three simultaneous +6 dB boosts; one-octave bands; 63 Hz–16 kHz | 71 | 95% | Initial broad-range multiple-boost exercise |
 | Three simultaneous +6 dB boosts; Q = 8; 250 Hz–8 kHz | 101 | 89% software score | Exact partial-credit rule unconfirmed |
