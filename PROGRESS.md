@@ -1,6 +1,6 @@
 # Technical Ear Training Progress
 
-This dashboard summarizes cumulative measurable progress through the available software chapters. Session-specific scores, exercise order, settings, and observations belong in the dated files under `logs/`.
+This dashboard summarizes cumulative measurable progress through the available software chapters. For a shorter reviewer-facing view, open the [Critical-Listening Results Summary](LISTENING_RESULTS_SUMMARY.md). Session-specific scores, exercise order, settings, and observations belong in the dated files under `logs/`.
 
 ## Chapter Dashboard
 
