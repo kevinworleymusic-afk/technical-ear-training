@@ -1,6 +1,6 @@
 # Exercise Library
 
-This section connects the reusable listening exercises with the work actually completed so far. Detailed chronology and observations remain in [Session 1](../logs/03-daily/2026-W31/2026-07-27_session-01.md), [Session 2](../logs/03-daily/2026-W31/2026-07-30_session-02.md), and the [August 3 session](../logs/03-daily/2026-W32/2026-08-03_procedure-setup.md), while cumulative results are maintained in the [progress dashboard](../PROGRESS.md).
+This section connects the reusable listening exercises with the work actually completed so far. Detailed chronology and observations remain in [Session 1](../logs/03-daily/2026-W31/2026-07-27_session-01.md), [Session 2](../logs/03-daily/2026-W31/2026-07-30_session-02.md), and the [August 2 session](../logs/03-daily/2026-W31/2026-08-02_session-04.md), while cumulative results are maintained in the [progress dashboard](../PROGRESS.md).
 
 ## Cumulative Exercise Evidence
 
@@ -33,7 +33,7 @@ Each comparable exercise condition appears once. Repeated blocks are combined in
 | Hard-clipping matching | Sine wave | Five clipping-severity settings | approximately 201 | approximately 86% | Best block 88% |
 | Bit-depth-reduction matching | Pink noise | Bit-depth settings | 20 | 47% | Early baseline; paused |
 
-## August 3 Grouped Cumulative Result
+## August 2 Grouped Cumulative Result
 
 The day’s **1,142 trials produced an approximately 88.8% trial-weighted cumulative score**. This calculation weights each recorded block by its number of trials rather than averaging the displayed percentages equally.
 
@@ -44,7 +44,7 @@ The day’s **1,142 trials produced an approximately 88.8% trial-weighted cumula
 | One boost at +3 dB, Q = 8 | 613 | approximately 86.8% |
 | Two simultaneous boosts at +3 dB, Q = 8 | 50 | 85% |
 | Three simultaneous boosts at +6 dB | 172 | approximately 91.5% weighted |
-| **All August 3 exercises** | **1,142** | **approximately 88.8%** |
+| **All August 2 exercises** | **1,142** | **approximately 88.8%** |
 
 Repeated blocks belonging to the same broad exercise type are grouped here. The detailed tables retain separate frequency sets where those settings materially differ. The cumulative result is approximate because several software percentages were rounded, the 78-trial +3 dB segment was derived from rounded cumulative displays, and the two- and three-boost exercises use the software’s partial-credit scoring.
 
@@ -55,7 +55,7 @@ Repeated blocks belonging to the same broad exercise type are grouped here. The 
 | Aug. 3 — two boosts, +3 dB, Q = 8, 1–16 kHz | 50 | 100 | 85% |
 | Aug. 3 — three boosts, +6 dB, one-octave bands, 63 Hz–16 kHz | 71 | 213 | 95% |
 | Aug. 3 — three boosts, +6 dB, Q = 8, 250 Hz–8 kHz | 101 | 303 | 89% |
-| **August 3 subtotal** | **222** | **616** | **Approximately 90.0% weighted** |
+| **August 2 subtotal** | **222** | **616** | **Approximately 90.0% weighted** |
 | July 30 — two boosts, +6 dB, Q = 2, 250 Hz–8 kHz | 30 | 60 | 97% |
 | July 30 — three boosts, +6 dB, Q = 2, 250 Hz–8 kHz | 10 | 30 | 90% |
 | **July 30 subtotal** | **40** | **90** | **Approximately 95.3% weighted** |
@@ -100,7 +100,7 @@ Mid/Side listening, expansion, and editing have not yet been exercised in the do
 
 1. Acquire one selected reference song, complete a short pink-noise EQ warmup, and then perform comparable song-based EQ work as a separately documented transfer condition.
 2. Retest 63 Hz after rest and confirm the +6 dB threshold before reducing gain.
-3. Repeat shorter Q = 8 +3 dB blocks to test retention without the fatigue of the August 3 session.
+3. Repeat shorter Q = 8 +3 dB blocks to test retention without the fatigue of the August 2 session.
 4. Repeat sine-wave hard-clipping matching and use 90% as the current working checkoff threshold.
 5. Continue -6 dB EQ-cut matching.
 6. Revisit +3 dB EQ boosts after a delay.
