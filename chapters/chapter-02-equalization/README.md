@@ -30,22 +30,26 @@ Develop recognition of frequency regions and audible changes produced by equaliz
 
 ## August 3 Q = 8 Evidence
 
-The August 3 work used pink noise and is kept separate from the earlier Q = 2 direct-matching criteria.
+The August 3 work used pink noise and is kept separate from the earlier Q = 2 direct-matching criteria. Repeated blocks with identical settings are combined below so each exercise condition appears once.
 
-| Condition | Trials | Result | Interpretation |
+| Condition | Total trials | Cumulative result | Best block / note |
 |---|---:|---:|---|
-| Endpoint sets, one +9 dB boost: 63/125/250 Hz and 4/8/16 kHz | approximately 30 | 100% in each set | Controlled endpoint baseline |
-| One +3 dB boost, 250 Hz–8 kHz | 40 | 74% | Broad-range starting point |
-| One +3 dB boost, 250/500/1 kHz | 23, then 35 fresh | 64%, then 85% | Improved after +6 dB reinforcement |
-| One +3 dB boost, 1/2/4 kHz | 101 | 93% | Strong controlled range |
-| One +3 dB boost, 2/4/8 kHz | 31 | 97% | Strong controlled range |
-| One +3 dB boost, 2/4/8/16 kHz | 45 | 98% | 8 and 16 kHz became perceptually distinct |
-| One +3 dB boost, 1–16 kHz | 55-trial continuation, then 100 and 105 fresh | approximately 87%, 77%, 93% | Main confusion was 1 versus 16 kHz; repeat varied |
-| +6 then +3 dB, 500/1k/2 kHz, counter not reset | 178 total | 93% cumulative | +3 dB portion estimated 86–87%; confirm fresh |
-| Two simultaneous +3 dB boosts, 1–16 kHz | 50 | 85% partial-credit score | Multiple-boost baseline |
-| Three simultaneous +6 dB boosts, 250 Hz–8 kHz | 101 | 89% software score | Exact partial-credit rule unconfirmed |
+| One +9 dB boost; endpoint sets 63/125/250 Hz and 4/8/16 kHz | approximately 30 | 100% in each set | Controlled endpoint baseline |
+| One +6 dB boost; 4/8/16 kHz | 53 | Accuracy not recorded | All three bands, including 16 kHz, were audible |
+| One +6 dB boost; 250/500/1 kHz | 124 | Accuracy not recorded | Combines the 20-trial warmup and 104-trial rapid-fire block |
+| One +3 dB boost; 250 Hz–8 kHz | 40 | 74% | Broad-range starting point |
+| One +3 dB boost; 250/500/1 kHz | 58 | 76.7% weighted | Best block 85%; improved from the earlier 64% block |
+| One +6 dB boost; 500/1k/2 kHz | 100 | 98% | First portion of the 178-trial counter |
+| One +3 dB boost; 500/1k/2 kHz | 78 | approximately 86–87% | Valid second portion derived from the 178-trial cumulative display |
+| One +3 dB boost; 1/2/4 kHz | 101 | 93% | Strong controlled range |
+| One +3 dB boost; 2/4/8 kHz | 31 | 97% | Strong controlled range |
+| One +3 dB boost; 2/4/8/16 kHz | 45 | 98% | 8 and 16 kHz became perceptually distinct |
+| One +3 dB boost; 1/2/4/8/16 kHz | 260 | approximately 86% weighted | Combined 55-, 100-, and 105-trial blocks; best block 93% |
+| Two simultaneous +3 dB boosts; 1–16 kHz | 50 | 85% partial-credit score | Multiple-boost baseline |
+| Three simultaneous +6 dB boosts; 250 Hz–8 kHz | 101 | 89% software score | Exact partial-credit rule unconfirmed |
+| **August 3 total** | **1,071** | — | Excludes only the brief uncounted 63 Hz +6 dB check |
 
-An additional 177 trials were documented without an accuracy percentage: 53 high-frequency +6 dB trials, 104 low-mid +6 dB rapid-fire trials, and a 20-trial +6 dB warmup. The brief 63 Hz +6 dB check was not counted.
+The 78-trial +3 dB block is not doubtful or incomplete. Its approximately 86–87% result is calculated from the software’s rounded cumulative displays: 98% after the first 100 +6 dB trials and 93% after all 178 trials. The approximation applies only to the exact percentage because the software displayed rounded values; all 78 repetitions are included as completed +3 dB work.
 
 ## Current Listening Observations
 
@@ -64,7 +68,7 @@ An additional 177 trials were documented without an accuracy percentage: 53 high
 
 - Acquire one selected reference song, complete a short pink-noise EQ warmup, and then apply comparable EQ changes to the song as a separate transfer condition.
 - Retest 63 Hz after rest, beginning at +9 dB and reducing only when identification is stable.
-- Reset counters whenever the source, gain, range, Q, or number of simultaneous boosts changes.
+- Reset counters whenever practical when the source, gain, range, Q, or number of simultaneous boosts changes. When a counter continues, preserve the cumulative displays so each segment can still be derived and counted.
 - Keep monitoring fixed at a comfortable level and use shorter sessions to reduce fatigue effects.
 - Begin each EQ warmup with two minutes of single-band rapid identification at +3 or +6 dB, then use three minutes of three-band +6 dB matching as the default multi-frequency condition under the current one-octave, Q 2, 250 Hz–8 kHz settings.
 - Keep multi-frequency work in every routine boost session; use one- and two-band conditions only for calibration, retention, controlled comparison, or troubleshooting.
