@@ -18,7 +18,7 @@ This dashboard summarizes cumulative measurable progress through the available s
 
 - **Total sessions:** 3
 - **Total documented trials:** at least 1,804, including one approximately reported 100-trial exercise
-- **Trials with recorded accuracy:** at least 1,627
+- **Trials with recorded accuracy:** all 1,804 documented trials
 - **Current chapters:** Chapters 2 and 5, with exploratory work in Chapters 3B and 4A
 - **Last session:** 2026-08-03
 - **Next target:** Acquire one selected reference song, complete a short pink-noise EQ warmup, and begin separately documented song-based EQ transfer work
@@ -37,8 +37,8 @@ Each row represents one comparable combination of skill, sample type, and test c
 | EQ cut matching | Pink noise | -12 dB octave-band cut | 50 | 82% | 82% | ◐ |
 | EQ cut matching | Pink noise | -6 dB cut, 250 Hz to 8 kHz | 62 | 80% | 80% | ◐ |
 | Single-band EQ identification | Pink noise | +9 dB; Q 8; endpoint sets 63/125/250 Hz and 4/8/16 kHz | approximately 30 | 100% in each set | 100% | ✅ controlled endpoint baseline |
-| Single-band EQ identification | Pink noise | +6 dB; Q 8; 4/8/16 kHz | 53 | Accuracy not recorded | — | Completed; all bands audible |
-| Single-band EQ identification | Pink noise | +6 dB; Q 8; 250/500/1 kHz | 124 across warmup and rapid-fire blocks | Accuracy not recorded | — | Completed reinforcement work |
+| Single-band EQ identification | Pink noise | +6 dB; Q 8; 4/8/16 kHz | 53 | 90% | 90% | ✅ |
+| Single-band EQ identification | Pink noise | +6 dB; Q 8; 250/500/1 kHz | 124 across warmup and rapid-fire blocks | 83% | 83% | ◐ completed reinforcement work |
 | Single-band EQ identification | Pink noise | +3 dB; Q 8; 250 Hz–8 kHz | 40 | 74% | 74% | ◐ broad-range baseline |
 | Single-band EQ identification | Pink noise | +3 dB; Q 8; 250/500/1 kHz | 58 across two fresh blocks | 76.7% weighted | 85% | ◐ improved after +6 dB reinforcement |
 | Single-band EQ identification | Pink noise | +3 dB; Q 8; 1/2/4 kHz | 101 | 93% | 93% | ✅ controlled range |
