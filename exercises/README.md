@@ -27,6 +27,7 @@ Each comparable exercise condition appears once. Repeated blocks are combined in
 | Single-band EQ identification | Pink noise | +3 dB; Q 8; 2/4/8/16 kHz | 45 | 98% | Strong controlled result |
 | Single-band EQ identification | Pink noise | +3 dB; Q 8; 1/2/4/8/16 kHz | 260 | approximately 86% weighted | Best block 93% |
 | Two-band EQ identification | Pink noise | Two +3 dB boosts; Q 8; 1–16 kHz | 50 | 85% | Partial-credit score |
+| Three-band EQ identification | Pink noise | Three +6 dB boosts; one-octave bands; 63 Hz–16 kHz | 71 | 95% | Broad-range exercise |
 | Three-band EQ identification | Pink noise | Three +6 dB boosts; Q 8; 250 Hz–8 kHz | 101 | 89% | Software score |
 | Hard-clipping matching | Pink noise | Clipping-severity settings | 100 | 72% | Continued practice |
 | Hard-clipping matching | Sine wave | Five clipping-severity settings | approximately 201 | approximately 86% | Best block 88% |
@@ -34,7 +35,7 @@ Each comparable exercise condition appears once. Repeated blocks are combined in
 
 ## August 3 Grouped Cumulative Result
 
-The day’s **1,071 trials produced an approximately 88.4% trial-weighted cumulative score**. This calculation weights each recorded block by its number of trials rather than averaging the displayed percentages equally.
+The day’s **1,142 trials produced an approximately 88.8% trial-weighted cumulative score**. This calculation weights each recorded block by its number of trials rather than averaging the displayed percentages equally.
 
 | Common exercise group | Trials | Trial-weighted result |
 |---|---:|---:|
@@ -42,8 +43,8 @@ The day’s **1,071 trials produced an approximately 88.4% trial-weighted cumula
 | One boost at +6 dB, Q = 8 | 277 | approximately 91.0% |
 | One boost at +3 dB, Q = 8 | 613 | approximately 86.8% |
 | Two simultaneous boosts at +3 dB, Q = 8 | 50 | 85% |
-| Three simultaneous boosts at +6 dB, Q = 8 | 101 | 89% |
-| **All August 3 exercises** | **1,071** | **approximately 88.4%** |
+| Three simultaneous boosts at +6 dB | 172 | approximately 91.5% weighted |
+| **All August 3 exercises** | **1,142** | **approximately 88.8%** |
 
 Repeated blocks belonging to the same broad exercise type are grouped here. The detailed tables retain separate frequency sets where those settings materially differ. The cumulative result is approximate because several software percentages were rounded, the 78-trial +3 dB segment was derived from rounded cumulative displays, and the two- and three-boost exercises use the software’s partial-credit scoring.
 
@@ -51,12 +52,12 @@ Repeated blocks belonging to the same broad exercise type are grouped here. The 
 
 | Exercise area | Documented trials |
 |---|---:|
-| Equalization | 1,483 |
+| Equalization | 1,554 |
 | Hard clipping | approximately 301 |
 | Bit-depth reduction | 20 |
-| **All documented repetitions** | **at least 1,804** |
+| **All documented repetitions** | **at least 1,875** |
 
-All 1,804 documented trials now have recorded accuracy results. The 53 high-frequency +6 dB EQ trials scored 90%, and the 20-trial low-mid +6 dB warmup scored 100% and the following 104 rapid-fire trials scored 83%, producing approximately 85.7% weighted accuracy across all 124 trials.
+All 1,875 documented trials now have recorded accuracy results. The 53 high-frequency +6 dB EQ trials scored 90%, and the 20-trial low-mid +6 dB warmup scored 100% and the following 104 rapid-fire trials scored 83%, producing approximately 85.7% weighted accuracy across all 124 trials.
 
 The 78-trial 500 Hz–2 kHz +3 dB exercise is valid completed work. Its approximately 86–87% result is derived from the rounded cumulative display after the preceding 100-trial +6 dB segment; the rounding affects only the precision of the percentage, not whether the repetitions count.
 
