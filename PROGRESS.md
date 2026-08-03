@@ -6,7 +6,7 @@ This dashboard summarizes cumulative measurable progress through the available s
 
 | Chapter | Area | Cumulative range | Best | Sessions | Status |
 |---|---|---:|---:|---:|---|
-| 2 | Equalization | 80–97% across scored pink-noise EQ criteria | 97% | 2 | ◐ Boost matching is strong; moderate and smaller cuts remain active practice areas |
+| 2 | Equalization | 64–100% across recorded pink-noise EQ conditions | 100% | 3 | ◐ Strong controlled-source boost identification; 63 Hz at +6 dB, cuts, retention, and transfer remain active |
 | 3A | Mid/Side listening | — | — | 0 | No scored work logged |
 | 3B | Reverberation | Exploratory practice only | — | 1 | Direct parameter exploration needed before formal testing |
 | 4A | Compression | Exploratory practice only | — | 1 | Direct parameter exploration needed before formal testing |
@@ -16,12 +16,12 @@ This dashboard summarizes cumulative measurable progress through the available s
 
 ## Practice Totals
 
-- **Total sessions:** 2
-- **Total documented scored trials:** 733, including one approximately reported 100-trial exercise
-- **Total training time:** at least approximately 1 hour 20 minutes; Session 2 duration was not recorded
+- **Total sessions:** 3
+- **Total documented trials:** at least 1,804, including one approximately reported 100-trial exercise
+- **Trials with recorded accuracy:** at least 1,627
 - **Current chapters:** Chapters 2 and 5, with exploratory work in Chapters 3B and 4A
-- **Last session:** 2026-07-30
-- **Next target:** Begin daily EQ work with single-band +3 or +6 dB rapid identification, then continue three-band +6 dB pink-noise matching; track the two task types separately before transferring to music
+- **Last session:** 2026-08-03
+- **Next target:** Acquire one selected reference song, complete a short pink-noise EQ warmup, and begin separately documented song-based EQ transfer work
 
 ## Cumulative Performance Dashboard
 
@@ -36,6 +36,16 @@ Each row represents one comparable combination of skill, sample type, and test c
 | EQ boost matching | Pink noise | +3 dB octave-band boost | 51 | 82.4% | 83% | ◐ |
 | EQ cut matching | Pink noise | -12 dB octave-band cut | 50 | 82% | 82% | ◐ |
 | EQ cut matching | Pink noise | -6 dB cut, 250 Hz to 8 kHz | 62 | 80% | 80% | ◐ |
+| Single-band EQ identification | Pink noise | +9 dB; Q 8; endpoint sets 63/125/250 Hz and 4/8/16 kHz | approximately 30 | 100% in each set | 100% | ✅ controlled endpoint baseline |
+| Single-band EQ identification | Pink noise | +3 dB; Q 8; 250 Hz–8 kHz | 40 | 74% | 74% | ◐ broad-range baseline |
+| Single-band EQ identification | Pink noise | +3 dB; Q 8; 250/500/1 kHz | 58 across two fresh blocks | 76.7% weighted | 85% | ◐ improved after +6 dB reinforcement |
+| Single-band EQ identification | Pink noise | +3 dB; Q 8; 1/2/4 kHz | 101 | 93% | 93% | ✅ controlled range |
+| Single-band EQ identification | Pink noise | +3 dB; Q 8; 2/4/8 kHz | 31 | 97% | 97% | ✅ controlled range |
+| Single-band EQ identification | Pink noise | +3 dB; Q 8; 2/4/8/16 kHz | 45 | 98% | 98% | ✅ controlled range |
+| Single-band EQ identification | Pink noise | +3 dB; Q 8; 1/2/4/8/16 kHz | 260 across continuation and fresh blocks | approximately 86% weighted | 93% | ◐ repeat fresh after rest |
+| Single-band EQ identification | Pink noise | +6 then +3 dB; Q 8; 500/1k/2 kHz | 178 cumulative without reset | 93% cumulative; +3 dB portion estimated 86–87% | 98% at +6 dB | ◐ estimate needs fresh reset |
+| Two-band EQ identification | Pink noise | Two simultaneous +3 dB boosts; Q 8; 1–16 kHz | 50 | 85% partial-credit score | 85% | ◐ transfer/retention target |
+| Three-band EQ identification | Pink noise | Three simultaneous +6 dB boosts; Q 8; 250 Hz–8 kHz | 101 | 89% software score | 89% | ◐ exact partial-credit rule unconfirmed |
 | Hard-clipping matching | Sine wave | Five clipping-severity settings | approximately 201 | approximately 86% | 88% | ◐ |
 | Hard-clipping matching | Pink noise | Clipping-severity settings | 100 | 72% | 72% | ☐ |
 | Bit-depth-reduction matching | Pink noise | Bit-depth settings | 20 | 47% | 47% | ☐ |
@@ -53,10 +63,11 @@ Each row represents one comparable combination of skill, sample type, and test c
 
 ## Progress Interpretation
 
-- **Strongest listening area:** octave-band EQ identification using pink noise, especially large and moderate boosts.
-- **Highest individual result:** 97% across 30 two-band +6 dB pink-noise EQ matching trials using one-octave center frequencies, Q 2, over 250 Hz–8 kHz; the three-band condition reached 90% across 10 trials.
+- **Strongest listening area:** controlled pink-noise EQ boost identification, including narrow-band +3 dB work across much of the tested range.
+- **Highest recent results:** 98% across 45 single-boost +3 dB trials over 2–16 kHz at Q 8, 93% across 105 fresh 1–16 kHz trials, and 89% across 101 three-boost +6 dB trials. Earlier Q 2 direct-matching results remain separately documented.
 - **Largest scored trial base:** sine-wave hard-clipping matching, with approximately 201 total attempts, approximately 86% cumulative accuracy, and a best individual exercise score of 88%.
 - **Most persistent weakness:** bit-depth reduction on pink noise; reliable listening cues did not emerge during the first 20 trials.
+- **Current EQ limitation:** 63 Hz was reliable at +9 dB but not at +6 dB in the brief check; a fresh retest is needed. The long session also revealed possible trial-sequence bias and fatigue effects.
 - **Training strategy:** the long-term goal is working competence across all available chapters. Normal days use a 12–14 minute adaptive warmup built around established EQ and distortion cues plus two rotating familiarity categories; focused sessions develop weaker areas, and a 30–45 minute full Chapters 2–6 diagnostic gauges broad progress weekly. Skills move into the established warmup when their cues become repeatable enough for meaningful practice. Trial counts remain outputs from time windows, and rapid identification, matching, and exploratory exposure stay separately labeled.
 - **Technical application:** the work is building repeatable listening judgments that can later be compared with measurements and applied to tonal balance, distortion recognition, and system tuning.
 
