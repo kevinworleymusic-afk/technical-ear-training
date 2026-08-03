@@ -36,7 +36,7 @@ The August 3 work used pink noise and is kept separate from the earlier Q = 2 di
 |---|---:|---:|---|
 | One +9 dB boost; endpoint sets 63/125/250 Hz and 4/8/16 kHz | approximately 30 | 100% in each set | Controlled endpoint baseline |
 | One +6 dB boost; 4/8/16 kHz | 53 | 90% | All three bands, including 16 kHz, were audible |
-| One +6 dB boost; 250/500/1 kHz | 124 | 83% | Combines the 20-trial warmup and 104-trial rapid-fire block |
+| One +6 dB boost; 250/500/1 kHz | 124 | approximately 85.7% weighted | 20-trial warmup: 100%; 104-trial rapid-fire block: 83% |
 | One +3 dB boost; 250 Hz–8 kHz | 40 | 74% | Broad-range starting point |
 | One +3 dB boost; 250/500/1 kHz | 58 | 76.7% weighted | Best block 85%; improved from the earlier 64% block |
 | One +6 dB boost; 500/1k/2 kHz | 100 | 98% | First portion of the 178-trial counter |
