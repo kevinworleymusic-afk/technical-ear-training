@@ -2,6 +2,10 @@
 
 A structured, documented practice system for developing critical-listening skills in audio engineering and system evaluation, with longer-term application to automotive audio.
 
+## Results Summary
+
+Open the [concise critical-listening results summary](LISTENING_RESULTS_SUMMARY.md) for cumulative totals, grouped exercise data, strongest results, and limitations.
+
 ## Calendar
 
 Open the [interactive critical-listening calendar](calendar/) to switch between months and select dated plans or completed sessions.
