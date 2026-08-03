@@ -38,7 +38,7 @@ Each row represents one comparable combination of skill, sample type, and test c
 | EQ cut matching | Pink noise | -6 dB cut, 250 Hz to 8 kHz | 62 | 80% | 80% | ◐ |
 | Single-band EQ identification | Pink noise | +9 dB; Q 8; endpoint sets 63/125/250 Hz and 4/8/16 kHz | approximately 30 | 100% in each set | 100% | ✅ controlled endpoint baseline |
 | Single-band EQ identification | Pink noise | +6 dB; Q 8; 4/8/16 kHz | 53 | 90% | 90% | ✅ |
-| Single-band EQ identification | Pink noise | +6 dB; Q 8; 250/500/1 kHz | 124 across warmup and rapid-fire blocks | 83% | 83% | ◐ completed reinforcement work |
+| Single-band EQ identification | Pink noise | +6 dB; Q 8; 250/500/1 kHz | 124 total: 20 warmup + 104 rapid-fire | approximately 85.7% weighted | 100% warmup; 83% rapid-fire | ✅ completed reinforcement work |
 | Single-band EQ identification | Pink noise | +3 dB; Q 8; 250 Hz–8 kHz | 40 | 74% | 74% | ◐ broad-range baseline |
 | Single-band EQ identification | Pink noise | +3 dB; Q 8; 250/500/1 kHz | 58 across two fresh blocks | 76.7% weighted | 85% | ◐ improved after +6 dB reinforcement |
 | Single-band EQ identification | Pink noise | +3 dB; Q 8; 1/2/4 kHz | 101 | 93% | 93% | ✅ controlled range |
