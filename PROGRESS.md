@@ -39,12 +39,12 @@ Each row represents one comparable combination of skill, sample type, and test c
 | Single-band EQ identification | Pink noise | +9 dB; Q 8; endpoint sets 63/125/250 Hz and 4/8/16 kHz | approximately 30 | 100% in each set | 100% | ✅ controlled endpoint baseline |
 | Single-band EQ identification | Pink noise | +6 dB; Q 8; 4/8/16 kHz | 53 | 90% | 90% | ✅ |
 | Single-band EQ identification | Pink noise | +6 dB; Q 8; 250/500/1 kHz | 124 total: 20 warmup + 104 rapid-fire | approximately 85.7% weighted | 100% warmup; 83% rapid-fire | ✅ completed reinforcement work |
-| Single-band EQ identification | Pink noise | +3 dB; Q 8; 250 Hz–8 kHz | 40 | 74% | 74% | ◐ broad-range baseline |
+| Single-band EQ identification | Pink noise | +3 dB; Q 8; 250 Hz–8 kHz | 40 | 74% | 74% | ◐ broad-range baseline retained |
 | Single-band EQ identification | Pink noise | +3 dB; Q 8; 250/500/1 kHz | 58 across two fresh blocks | 76.7% weighted | 85% | ◐ improved after +6 dB reinforcement |
 | Single-band EQ identification | Pink noise | +3 dB; Q 8; 1/2/4 kHz | 101 | 93% | 93% | ✅ controlled range |
 | Single-band EQ identification | Pink noise | +3 dB; Q 8; 2/4/8 kHz | 31 | 97% | 97% | ✅ controlled range |
 | Single-band EQ identification | Pink noise | +3 dB; Q 8; 2/4/8/16 kHz | 45 | 98% | 98% | ✅ controlled range |
-| Single-band EQ identification | Pink noise | +3 dB; Q 8; 1/2/4/8/16 kHz | 260 across continuation and fresh blocks | approximately 86% weighted | 93% | ◐ repeat fresh after rest |
+| Single-band EQ identification | Pink noise | +3 dB; Q 8; 1/2/4/8/16 kHz | 260 across continuation and fresh blocks | approximately 86% weighted | 93% | Block scores approximately 87%, 77%, and 93% |
 | Single-band EQ identification | Pink noise | +6 dB; Q 8; 500/1k/2 kHz | 100 | 98% | 98% | ✅ |
 | Single-band EQ identification | Pink noise | +3 dB; Q 8; 500/1k/2 kHz | 78 | approximately 86–87%, derived from the 178-trial cumulative display | approximately 86–87% | ✅ valid completed block |
 | Two-band EQ identification | Pink noise | Two simultaneous +3 dB boosts; Q 8; 1–16 kHz | 50 | 85% partial-credit score | 85% | ◐ transfer/retention target |
