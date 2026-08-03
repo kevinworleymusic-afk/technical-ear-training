@@ -1,6 +1,6 @@
 # Technical Ear Training Roadmap
 
-**Current documented continuation phase:** At least 1,875 trials across three sessions, with recorded accuracy for all 1,875 trials. The August 3 session added Q = 8 single- and multiple-boost identification baselines, including 98% across 45 single-boost +3 dB trials over 2–16 kHz, 93% across 105 fresh 1–16 kHz trials, 95% across 71 broad-range three-boost +6 dB trials and 89% across 101 Q = 8 three-boost +6 dB trials.
+**Current documented continuation phase:** At least 1,875 trials across three sessions, with recorded accuracy for all 1,875 trials. The August 2 session added Q = 8 single- and multiple-boost identification baselines, including 98% across 45 single-boost +3 dB trials over 2–16 kHz, 93% across 105 fresh 1–16 kHz trials, 95% across 71 broad-range three-boost +6 dB trials and 89% across 101 Q = 8 three-boost +6 dB trials.
 
 The long-term objective is working competence across every available chapter. Normal practice days begin with the 12–14 minute [adaptive daily warmup](../templates/03-daily/DAILY_WARMUP_PROGRESSION.md), which reinforces established EQ and distortion cues while rotating two developing categories. Focused sessions push developing areas forward, and the 30–45 minute [weekly full-chapter diagnostic](../templates/02-weekly/WEEKLY_DIAGNOSTIC_CIRCUIT.md) determines which skills need more work and which are ready to enter the established warmup. Trial counts are outputs from each time window rather than quotas; unfamiliar chapters begin with reference listening before scored questions.
 
@@ -57,7 +57,7 @@ Reduce the size of changes and track whether confidence matches accuracy.
 - EQ Boost (+3 dB): 83% (51 trials)
 - Bit-depth Reduction (Pink Noise): 47% (20 trials, exercise intentionally paused)
 
-**Session 3 (2026-08-03)**
+**Session 3 (2026-08-02)**
 - Completed 1,142 pink-noise EQ trials at Q = 8, all with recorded accuracy.
 - The 53 high-frequency +6 dB trials scored 90%. In the low-mid +6 dB work, the 20-trial warmup scored 100% and the following 104 rapid-fire trials scored 83%, producing approximately 85.7% weighted accuracy across 124 trials.
 - Strong +3 dB results included 93% across 1–4 kHz, 98% across 2–16 kHz, and 93% on a fresh 1–16 kHz repeat.
