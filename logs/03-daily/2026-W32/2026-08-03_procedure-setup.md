@@ -20,7 +20,7 @@ Run the first regular critical-listening session using the selected warmups, tim
 - **Focused low-mid +3 dB block:** After the +6 dB warmup, completed 23 trials across 250 Hz, 500 Hz, and 1 kHz at +3 dB and scored 64%.
 - **Rapid-fire low-mid +6 dB bridge block:** Completed 104 rapid-fire, one-boost trials across 250 Hz, 500 Hz, and 1 kHz at +6 dB and Q = 8 before returning to +3 dB. Accuracy was not reported.
 - **Low-mid +3 dB follow-up:** Completed 35 fresh one-boost trials across 250 Hz, 500 Hz, and 1 kHz at +3 dB and Q = 8, scoring 85%.
-- **500 Hz–2 kHz bridge and follow-up:** Completed the first 100 three-choice trials across 500 Hz, 1 kHz, and 2 kHz at +6 dB with 98% accuracy. The boost was then reduced to +3 dB without resetting the counter. At 178 cumulative trials, the display showed 93%, establishing 78 added +3 dB trials. Based on the rounded displayed percentages, the +3 dB block is estimated at approximately 86–87%.
+- **500 Hz–2 kHz bridge and follow-up:** Completed 100 three-choice trials across 500 Hz, 1 kHz, and 2 kHz at +6 dB with 98% accuracy, followed by 78 completed trials at +3 dB. The counter continued to 178 and displayed 93% cumulatively, which yields approximately 86–87% for the +3 dB segment. The +3 dB block is valid completed work; only its exact percentage is approximate because the displayed percentages were rounded.
 - **Focused 1–4 kHz +3 dB block:** Completed 101 fresh three-choice trials across 1 kHz, 2 kHz, and 4 kHz at +3 dB and scored 93%.
 - **Focused upper-range +3 dB block:** Completed 31 trials across 2 kHz, 4 kHz, and 8 kHz at +3 dB and scored 97% (approximately 30 correct out of 31).
 - **Expanded upper-range +3 dB block:** Completed 45 four-choice trials across 2 kHz, 4 kHz, 8 kHz, and 16 kHz at +3 dB and scored 98% (approximately 44 correct out of 45).
@@ -38,9 +38,9 @@ Run the first regular critical-listening session using the selected warmups, tim
 
 ## End-of-Session Recap
 
-- **Documented volume:** At least **1,071 trials**, excluding the brief uncounted 63 Hz +6 dB check.
+- **Documented volume:** **1,071 trials**, with every completed block included once; this excludes only the brief uncounted 63 Hz +6 dB check.
 - **Strongest single-boost results:** 98% across 2–16 kHz in 45 trials at +3 dB; 93% across 1–16 kHz in 105 trials at +3 dB; and 93% across 1–4 kHz in 101 trials at +3 dB.
 - **Multiple-boost results:** 85% across 50 two-boost trials at +3 dB and 89% across 101 three-boost trials at +6 dB.
-- **Improvement during the session:** The 250 Hz–1 kHz +3 dB score improved from 64% over 23 trials to 85% over 35 fresh trials after focused +6 dB reinforcement.
+- **Improvement during the session:** Across 58 total 250 Hz–1 kHz +3 dB trials, the two blocks scored 64% over 23 trials and 85% over 35 trials after focused +6 dB reinforcement. The 500 Hz–2 kHz work also included 100 +6 dB trials at 98% and 78 valid +3 dB trials at approximately 86–87%.
 - **Current development targets:** Improve 63 Hz identification below +9 dB, retest difficult conditions after rest, reduce response bias from the recent trial sequence, and transfer the EQ cues from pink noise to music.
 - **Overall takeaway:** This session established a detailed working baseline and showed rapid cue learning. Because the session was unusually long, the strongest and weakest results should be checked again in shorter, fresh sessions before drawing broader conclusions.
