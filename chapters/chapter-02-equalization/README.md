@@ -1,7 +1,7 @@
 # Chapter 2 — Equalization
 
 **Software module:** TETpracticeEQ  
-**Current evidence:** [Session 1](../../logs/03-daily/2026-W31/2026-07-27_session-01.md), [Session 2](../../logs/03-daily/2026-W31/2026-07-30_session-02.md), and the [progress dashboard](../../PROGRESS.md)
+**Current evidence:** [Session 1](../../logs/03-daily/2026-W31/2026-07-27_session-01.md), [Session 2](../../logs/03-daily/2026-W31/2026-07-30_session-02.md), the [August 3 baseline](../../logs/03-daily/2026-W32/2026-08-03_procedure-setup.md), and the [progress dashboard](../../PROGRESS.md)
 
 ## Training Focus
 
@@ -9,11 +9,12 @@ Develop recognition of frequency regions and audible changes produced by equaliz
 
 ## Progress Summary
 
-- **Documented work:** Sessions 1–2, 2026-07-27 through 2026-07-30
-- **Cumulative range:** 80–97% across seven scored pink-noise EQ criteria
-- **Best exercise:** 97% on two-band +6 dB matching
-- **Sessions completed:** 2
-- **Status:** Active — large and moderate boost matching is strongest; smaller boosts and cuts remain active practice areas
+- **Documented work:** Sessions 1–3, 2026-07-27 through 2026-08-03
+- **Documented EQ trials:** At least 1,483
+- **EQ trials with recorded accuracy:** At least 1,306
+- **Best recent exercise:** 98% on 45 single-boost +3 dB trials across 2–16 kHz at Q = 8
+- **Sessions completed:** 3
+- **Status:** Active — controlled boosts are strongest; 63 Hz at +6 dB, cuts, delayed retention, and transfer to music remain active
 
 ## Scored Evidence
 
@@ -27,6 +28,25 @@ Develop recognition of frequency regions and audible changes produced by equaliz
 | -12 dB octave-band cut, pink noise | 50 | 82% | 82% | Continued practice |
 | -6 dB cut, 250 Hz–8 kHz, pink noise | 62 | 80% | 80% | Continued practice |
 
+## August 3 Q = 8 Evidence
+
+The August 3 work used pink noise and is kept separate from the earlier Q = 2 direct-matching criteria.
+
+| Condition | Trials | Result | Interpretation |
+|---|---:|---:|---|
+| Endpoint sets, one +9 dB boost: 63/125/250 Hz and 4/8/16 kHz | approximately 30 | 100% in each set | Controlled endpoint baseline |
+| One +3 dB boost, 250 Hz–8 kHz | 40 | 74% | Broad-range starting point |
+| One +3 dB boost, 250/500/1 kHz | 23, then 35 fresh | 64%, then 85% | Improved after +6 dB reinforcement |
+| One +3 dB boost, 1/2/4 kHz | 101 | 93% | Strong controlled range |
+| One +3 dB boost, 2/4/8 kHz | 31 | 97% | Strong controlled range |
+| One +3 dB boost, 2/4/8/16 kHz | 45 | 98% | 8 and 16 kHz became perceptually distinct |
+| One +3 dB boost, 1–16 kHz | 55-trial continuation, then 100 and 105 fresh | approximately 87%, 77%, 93% | Main confusion was 1 versus 16 kHz; repeat varied |
+| +6 then +3 dB, 500/1k/2 kHz, counter not reset | 178 total | 93% cumulative | +3 dB portion estimated 86–87%; confirm fresh |
+| Two simultaneous +3 dB boosts, 1–16 kHz | 50 | 85% partial-credit score | Multiple-boost baseline |
+| Three simultaneous +6 dB boosts, 250 Hz–8 kHz | 101 | 89% software score | Exact partial-credit rule unconfirmed |
+
+An additional 177 trials were documented without an accuracy percentage: 53 high-frequency +6 dB trials, 104 low-mid +6 dB rapid-fire trials, and a 20-trial +6 dB warmup. The brief 63 Hz +6 dB check was not counted.
+
 ## Current Listening Observations
 
 - Large and moderate boosts were matched most consistently.
@@ -34,10 +54,18 @@ Develop recognition of frequency regions and audible changes produced by equaliz
 - Accuracy decreased as boost magnitude fell to +3 dB.
 - Cuts were harder than boosts.
 - During cut exercises, neighboring frequency regions sometimes appeared more prominent, producing adjacent-band errors.
-- The present evidence uses pink noise; transfer to music, speech, instruments, and additional monitoring systems remains to be tested.
+- Q = 8 +3 dB identification was strongest from 1–16 kHz, while the 250 Hz–1 kHz block improved during the session.
+- Both 63 Hz and 16 kHz were identifiable at +9 dB. The 16 kHz boost later became audible at +6 and +3 dB; 63 Hz was not reliably audible at +6 dB in the brief check.
+- Recent stimulus history appeared to bias uncertain 1 kHz versus 16 kHz responses.
+- The unusually long session introduces fatigue as a possible confound.
+- The present evidence uses pink noise; transfer to music begins next and will be logged separately.
 
 ## Next Work
 
+- Acquire one selected reference song, complete a short pink-noise EQ warmup, and then apply comparable EQ changes to the song as a separate transfer condition.
+- Retest 63 Hz after rest, beginning at +9 dB and reducing only when identification is stable.
+- Reset counters whenever the source, gain, range, Q, or number of simultaneous boosts changes.
+- Keep monitoring fixed at a comfortable level and use shorter sessions to reduce fatigue effects.
 - Begin each EQ warmup with two minutes of single-band rapid identification at +3 or +6 dB, then use three minutes of three-band +6 dB matching as the default multi-frequency condition under the current one-octave, Q 2, 250 Hz–8 kHz settings.
 - Keep multi-frequency work in every routine boost session; use one- and two-band conditions only for calibration, retention, controlled comparison, or troubleshooting.
 - Increase response speed gradually as confidence and accuracy stabilize, then introduce music as a separately documented transfer condition.
@@ -50,7 +78,8 @@ Develop recognition of frequency regions and audible changes produced by equaliz
 
 - [2026-07-27 — Session 1: EQ, Distortion, Dynamics, and Reverb](../../logs/03-daily/2026-W31/2026-07-27_session-01.md)
 - [2026-07-30 — Session 2: Multi-Band EQ Boost Matching](../../logs/03-daily/2026-W31/2026-07-30_session-02.md)
+- [2026-08-03 — Session 3: Q = 8 Pink-Noise EQ Identification Baseline](../../logs/03-daily/2026-W32/2026-08-03_procedure-setup.md)
 
 ## Chapter Reflection
 
-The documented results establish a strong controlled-source foundation for EQ boost matching, with less reliable performance for cuts and smaller changes. Matching, memorized identification, and rapid identification remain explicitly separate competencies. The single-band rapid-identification primer is a new routine step, while the documented Session 2 achievement remains three-band direct matching. Continued work will test whether these cues remain stable across delayed sessions, program material, and playback systems before broader tonal-balance competence is claimed.
+The documented results establish a strong controlled-source foundation for EQ boost matching and identification. The August 3 work extends the evidence to narrow-band Q = 8 conditions and smaller +3 dB changes across much of the tested range, while showing that 63 Hz and fresh-session consistency still need development. Matching, memorized identification, and rapid identification remain explicitly separate competencies. The single-band rapid-identification primer is a new routine step, while the documented Session 2 achievement remains three-band direct matching. Continued work will test whether these cues remain stable across delayed sessions, program material, and playback systems before broader tonal-balance competence is claimed.
