@@ -17,8 +17,8 @@ This dashboard summarizes cumulative measurable progress through the available s
 ## Practice Totals
 
 - **Total sessions:** 3
-- **Total documented trials:** at least 1,804, including one approximately reported 100-trial exercise
-- **Trials with recorded accuracy:** all 1,804 documented trials
+- **Total documented trials:** at least 1,875, including one approximately reported 100-trial exercise
+- **Trials with recorded accuracy:** all 1,875 documented trials
 - **Current chapters:** Chapters 2 and 5, with exploratory work in Chapters 3B and 4A
 - **Last session:** 2026-08-03
 - **Next target:** Acquire one selected reference song, complete a short pink-noise EQ warmup, and begin separately documented song-based EQ transfer work
@@ -48,6 +48,7 @@ Each row represents one comparable combination of skill, sample type, and test c
 | Single-band EQ identification | Pink noise | +6 dB; Q 8; 500/1k/2 kHz | 100 | 98% | 98% | ✅ |
 | Single-band EQ identification | Pink noise | +3 dB; Q 8; 500/1k/2 kHz | 78 | approximately 86–87%, derived from the 178-trial cumulative display | approximately 86–87% | ✅ valid completed block |
 | Two-band EQ identification | Pink noise | Two simultaneous +3 dB boosts; Q 8; 1–16 kHz | 50 | 85% partial-credit score | 85% | ◐ transfer/retention target |
+| Three-band EQ identification | Pink noise | Three simultaneous +6 dB boosts; one-octave bands; 63 Hz–16 kHz | 71 | 95% | 95% | ✅ |
 | Three-band EQ identification | Pink noise | Three simultaneous +6 dB boosts; Q 8; 250 Hz–8 kHz | 101 | 89% software score | 89% | ◐ exact partial-credit rule unconfirmed |
 | Hard-clipping matching | Sine wave | Five clipping-severity settings | approximately 201 | approximately 86% | 88% | ◐ |
 | Hard-clipping matching | Pink noise | Clipping-severity settings | 100 | 72% | 72% | ☐ |
@@ -55,7 +56,7 @@ Each row represents one comparable combination of skill, sample type, and test c
 
 ## August 3 Cumulative Result
 
-The day’s **1,071 trials produced an approximately 88.4% trial-weighted cumulative score**. This calculation weights each recorded block by its number of trials rather than averaging the displayed percentages equally.
+The day’s **1,142 trials produced an approximately 88.8% trial-weighted cumulative score**. This calculation weights each recorded block by its number of trials rather than averaging the displayed percentages equally.
 
 | Common exercise group | Trials | Trial-weighted result |
 |---|---:|---:|
@@ -63,8 +64,8 @@ The day’s **1,071 trials produced an approximately 88.4% trial-weighted cumula
 | One boost at +6 dB, Q = 8 | 277 | approximately 91.0% |
 | One boost at +3 dB, Q = 8 | 613 | approximately 86.8% |
 | Two simultaneous boosts at +3 dB, Q = 8 | 50 | 85% |
-| Three simultaneous boosts at +6 dB, Q = 8 | 101 | 89% |
-| **All August 3 exercises** | **1,071** | **approximately 88.4%** |
+| Three simultaneous boosts at +6 dB | 172 | approximately 91.5% weighted |
+| **All August 3 exercises** | **1,142** | **approximately 88.8%** |
 
 Repeated blocks belonging to the same broad exercise type are grouped here. The detailed tables retain separate frequency sets where those settings materially differ. The cumulative result is approximate because several software percentages were rounded, the 78-trial +3 dB segment was derived from rounded cumulative displays, and the two- and three-boost exercises use the software’s partial-credit scoring.
 
@@ -72,10 +73,10 @@ Repeated blocks belonging to the same broad exercise type are grouped here. The 
 
 | Exercise area | Documented trials |
 |---|---:|
-| Equalization | 1,483 |
+| Equalization | 1,554 |
 | Hard clipping | approximately 301 |
 | Bit-depth reduction | 20 |
-| **All documented exercises** | **at least 1,804** |
+| **All documented exercises** | **at least 1,875** |
 
 Every repetition is included once in these totals. Repeated blocks with identical settings are combined in one row; materially different gain, Q, frequency set, source, task type, or number of simultaneous boosts remains separate.
 
