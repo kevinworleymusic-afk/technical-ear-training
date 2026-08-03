@@ -59,7 +59,7 @@ Reduce the size of changes and track whether confidence matches accuracy.
 
 **Session 3 (2026-08-03)**
 - Completed 1,071 pink-noise EQ trials at Q = 8, all with recorded accuracy.
-- The 53 high-frequency +6 dB trials scored 90%, and the combined 124 low-mid +6 dB trials scored 83%.
+- The 53 high-frequency +6 dB trials scored 90%. In the low-mid +6 dB work, the 20-trial warmup scored 100% and the following 104 rapid-fire trials scored 83%, producing approximately 85.7% weighted accuracy across 124 trials.
 - Strong +3 dB results included 93% across 1–4 kHz, 98% across 2–16 kHz, and 93% on a fresh 1–16 kHz repeat.
 - The 250/500/1 kHz +3 dB result improved from 64% to 85% after +6 dB reinforcement.
 - Two simultaneous +3 dB boosts reached 85% across 50 trials; three simultaneous +6 dB boosts reached 89% across 101 trials.
