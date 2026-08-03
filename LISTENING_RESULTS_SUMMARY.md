@@ -34,6 +34,18 @@ The session used James Corey’s technical ear-training software and pink noise.
 | Three simultaneous boosts at +6 dB | 172 | Approximately 91.5% |
 | **Entire session** | **1,142** | **Approximately 88.8%** |
 
+### Multiple-Boost Workload
+
+| Scope | Multi-boost trials | Individual boosted-band targets |
+|---|---:|---:|
+| August 3 two-boost work | 50 | 100 |
+| August 3 three-boost work | 172 | 516 |
+| **August 3 total** | **222** | **616** |
+| Earlier July 30 multi-boost work | 40 | 90 |
+| **All documented multi-boost work** | **262** | **706** |
+
+A software trial is one question, even when that question contains two or three boosted bands. Therefore, the official exercise count is 222 multi-boost trials for August 3, but those trials required identifying 616 individual boosted-band targets.
+
 The grouped table combines repeated blocks of the same broad exercise type. The [full August 3 session record](logs/03-daily/2026-W32/2026-08-03_procedure-setup.md) keeps materially different frequency sets, bandwidths, and block results separate.
 
 ### Selected Detailed Results
