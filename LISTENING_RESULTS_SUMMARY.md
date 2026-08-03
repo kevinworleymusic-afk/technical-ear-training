@@ -1,6 +1,6 @@
 # Critical-Listening Results Summary
 
-**Current through August 3, 2026**
+**Current through August 2, 2026**
 
 This page is the concise evidence summary for my continued technical ear-training work. It presents the cumulative data without replacing the detailed session logs, where the settings, sequence, observations, errors, and limitations are preserved.
 
@@ -13,7 +13,7 @@ This page is the concise evidence summary for my continued technical ear-trainin
 | Equalization trials | 1,554 |
 | Hard-clipping trials | Approximately 301 |
 | Bit-depth-reduction trials | 20 |
-| Latest session | August 3, 2026 |
+| Latest session | August 2, 2026 |
 | Latest-session trials | 1,142 |
 | Latest-session weighted result | Approximately 88.8% |
 
@@ -34,9 +34,9 @@ These results are included in the cumulative totals and are intentionally visibl
 
 The purpose of this section is to show both current strengths and remaining work. A lower score is treated as a useful baseline, not removed from the record.
 
-## August 3 EQ Session
+## August 2 EQ Session
 
-> **Q = 8 difficulty choice:** After the earlier Q = 2 work, I intentionally selected Q = 8 for most August 3 exercises because its narrower bandwidth made the frequency-identification task more challenging and more frequency-specific. I chose to develop under that harder condition rather than remain at Q = 2 or another broader setting. Q = 2 and Q = 8 results remain separate because they are not directly interchangeable test conditions.
+> **Q = 8 difficulty choice:** After the earlier Q = 2 work, I intentionally selected Q = 8 for most August 2 exercises because its narrower bandwidth made the frequency-identification task more challenging and more frequency-specific. I chose to develop under that harder condition rather than remain at Q = 2 or another broader setting. Q = 2 and Q = 8 results remain separate because they are not directly interchangeable test conditions.
 
 The session used James Corey’s technical ear-training software and pink noise. Exercises included single-, two-, and three-boost identification at different gain, bandwidth, and frequency-range settings.
 
@@ -58,7 +58,7 @@ The session used James Corey’s technical ear-training software and pink noise.
 | Aug. 3 — two boosts, +3 dB, Q = 8, 1–16 kHz | 50 | 100 | 85% |
 | Aug. 3 — three boosts, +6 dB, one-octave bands, 63 Hz–16 kHz | 71 | 213 | 95% |
 | Aug. 3 — three boosts, +6 dB, Q = 8, 250 Hz–8 kHz | 101 | 303 | 89% |
-| **August 3 subtotal** | **222** | **616** | **Approximately 90.0% weighted** |
+| **August 2 subtotal** | **222** | **616** | **Approximately 90.0% weighted** |
 | July 30 — two boosts, +6 dB, Q = 2, 250 Hz–8 kHz | 30 | 60 | 97% |
 | July 30 — three boosts, +6 dB, Q = 2, 250 Hz–8 kHz | 10 | 30 | 90% |
 | **July 30 subtotal** | **40** | **90** | **Approximately 95.3% weighted** |
@@ -66,7 +66,7 @@ The session used James Corey’s technical ear-training software and pink noise.
 
 A software trial is one question, even when that question contains two or three boosted bands. Accuracy values are the software-reported trial scores; the subtotal and overall percentages are weighted by trial count. Therefore, August 3 contains 222 multi-boost trials representing 616 individual boosted-band targets.
 
-The grouped table combines repeated blocks of the same broad exercise type. The [full August 3 session record](logs/03-daily/2026-W32/2026-08-03_procedure-setup.md) keeps materially different frequency sets, bandwidths, and block results separate.
+The grouped table combines repeated blocks of the same broad exercise type. The [full August 2 session record](logs/03-daily/2026-W31/2026-08-02_session-04.md) keeps materially different frequency sets, bandwidths, and block results separate.
 
 ### Complete August 3 Block Results
 
@@ -108,7 +108,7 @@ The 74% and 77% results are retained as part of the evidence rather than omitted
 ## What the Evidence Shows
 
 - Controlled pink-noise EQ boost identification is currently the strongest area.
-- The August 3 session demonstrated +3 dB identification across several Q = 8 frequency sets and both two- and three-boost work.
+- The August 2 session demonstrated +3 dB identification across several Q = 8 frequency sets and both two- and three-boost work.
 - Low-mid +3 dB performance improved from 64% over 23 trials to 85% over 35 trials after +6 dB reinforcement.
 - The listener distinguished 8 kHz from 16 kHz during focused upper-range practice.
 - The clearest remaining EQ target is 63 Hz below +9 dB.
@@ -116,7 +116,7 @@ The 74% and 77% results are retained as part of the evidence rather than omitted
 
 ## Limits and Interpretation
 
-These results apply only to the documented software, source material, settings, playback conditions, and scoring systems. Several software percentages were rounded, and multiple-boost exercises use partial-credit scoring. The August 3 session was unusually long, so fatigue and recent-trial sequence may have influenced some blocks. Results do not claim generalized professional mastery; they document a measurable controlled-source baseline and the next development steps.
+These results apply only to the documented software, source material, settings, playback conditions, and scoring systems. Several software percentages were rounded, and multiple-boost exercises use partial-credit scoring. The August 2 session was unusually long, so fatigue and recent-trial sequence may have influenced some blocks. Results do not claim generalized professional mastery; they document a measurable controlled-source baseline and the next development steps.
 
 ## Next Step
 
@@ -125,7 +125,7 @@ Acquire one selected reference song, complete a short pink-noise EQ warmup, and 
 ## Supporting Evidence
 
 - [Cumulative progress dashboard](PROGRESS.md)
-- [August 3 complete session log](logs/03-daily/2026-W32/2026-08-03_procedure-setup.md)
+- [August 2 complete session log](logs/03-daily/2026-W31/2026-08-02_session-04.md)
 - [Equalization chapter](chapters/chapter-02-equalization/)
 - [Cumulative exercise library](exercises/)
 - [August 4 song-based practice plan](logs/03-daily/2026-W32/2026-08-04_song-eq-practice.md)
