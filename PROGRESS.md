@@ -53,6 +53,21 @@ Each row represents one comparable combination of skill, sample type, and test c
 | Hard-clipping matching | Pink noise | Clipping-severity settings | 100 | 72% | 72% | ☐ |
 | Bit-depth-reduction matching | Pink noise | Bit-depth settings | 20 | 47% | 47% | ☐ |
 
+## August 3 Cumulative Result
+
+The day’s **1,071 trials produced an approximately 88.4% trial-weighted cumulative score**. This calculation weights each recorded block by its number of trials rather than averaging the displayed percentages equally.
+
+| Common exercise group | Trials | Trial-weighted result |
+|---|---:|---:|
+| One boost at +9 dB, Q = 8 | 30 | 100% |
+| One boost at +6 dB, Q = 8 | 277 | approximately 91.0% |
+| One boost at +3 dB, Q = 8 | 613 | approximately 86.8% |
+| Two simultaneous boosts at +3 dB, Q = 8 | 50 | 85% |
+| Three simultaneous boosts at +6 dB, Q = 8 | 101 | 89% |
+| **All August 3 exercises** | **1,071** | **approximately 88.4%** |
+
+Repeated blocks belonging to the same broad exercise type are grouped here. The detailed tables retain separate frequency sets where those settings materially differ. The cumulative result is approximate because several software percentages were rounded, the 78-trial +3 dB segment was derived from rounded cumulative displays, and the two- and three-boost exercises use the software’s partial-credit scoring.
+
 ### Totals by Exercise Area
 
 | Exercise area | Documented trials |
