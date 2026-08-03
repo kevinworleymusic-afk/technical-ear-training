@@ -37,18 +37,32 @@ Each row represents one comparable combination of skill, sample type, and test c
 | EQ cut matching | Pink noise | -12 dB octave-band cut | 50 | 82% | 82% | ◐ |
 | EQ cut matching | Pink noise | -6 dB cut, 250 Hz to 8 kHz | 62 | 80% | 80% | ◐ |
 | Single-band EQ identification | Pink noise | +9 dB; Q 8; endpoint sets 63/125/250 Hz and 4/8/16 kHz | approximately 30 | 100% in each set | 100% | ✅ controlled endpoint baseline |
+| Single-band EQ identification | Pink noise | +6 dB; Q 8; 4/8/16 kHz | 53 | Accuracy not recorded | — | Completed; all bands audible |
+| Single-band EQ identification | Pink noise | +6 dB; Q 8; 250/500/1 kHz | 124 across warmup and rapid-fire blocks | Accuracy not recorded | — | Completed reinforcement work |
 | Single-band EQ identification | Pink noise | +3 dB; Q 8; 250 Hz–8 kHz | 40 | 74% | 74% | ◐ broad-range baseline |
 | Single-band EQ identification | Pink noise | +3 dB; Q 8; 250/500/1 kHz | 58 across two fresh blocks | 76.7% weighted | 85% | ◐ improved after +6 dB reinforcement |
 | Single-band EQ identification | Pink noise | +3 dB; Q 8; 1/2/4 kHz | 101 | 93% | 93% | ✅ controlled range |
 | Single-band EQ identification | Pink noise | +3 dB; Q 8; 2/4/8 kHz | 31 | 97% | 97% | ✅ controlled range |
 | Single-band EQ identification | Pink noise | +3 dB; Q 8; 2/4/8/16 kHz | 45 | 98% | 98% | ✅ controlled range |
 | Single-band EQ identification | Pink noise | +3 dB; Q 8; 1/2/4/8/16 kHz | 260 across continuation and fresh blocks | approximately 86% weighted | 93% | ◐ repeat fresh after rest |
-| Single-band EQ identification | Pink noise | +6 then +3 dB; Q 8; 500/1k/2 kHz | 178 cumulative without reset | 93% cumulative; +3 dB portion estimated 86–87% | 98% at +6 dB | ◐ estimate needs fresh reset |
+| Single-band EQ identification | Pink noise | +6 dB; Q 8; 500/1k/2 kHz | 100 | 98% | 98% | ✅ |
+| Single-band EQ identification | Pink noise | +3 dB; Q 8; 500/1k/2 kHz | 78 | approximately 86–87%, derived from the 178-trial cumulative display | approximately 86–87% | ✅ valid completed block |
 | Two-band EQ identification | Pink noise | Two simultaneous +3 dB boosts; Q 8; 1–16 kHz | 50 | 85% partial-credit score | 85% | ◐ transfer/retention target |
 | Three-band EQ identification | Pink noise | Three simultaneous +6 dB boosts; Q 8; 250 Hz–8 kHz | 101 | 89% software score | 89% | ◐ exact partial-credit rule unconfirmed |
 | Hard-clipping matching | Sine wave | Five clipping-severity settings | approximately 201 | approximately 86% | 88% | ◐ |
 | Hard-clipping matching | Pink noise | Clipping-severity settings | 100 | 72% | 72% | ☐ |
 | Bit-depth-reduction matching | Pink noise | Bit-depth settings | 20 | 47% | 47% | ☐ |
+
+### Totals by Exercise Area
+
+| Exercise area | Documented trials |
+|---|---:|
+| Equalization | 1,483 |
+| Hard clipping | approximately 301 |
+| Bit-depth reduction | 20 |
+| **All documented exercises** | **at least 1,804** |
+
+Every repetition is included once in these totals. Repeated blocks with identical settings are combined in one row; materially different gain, Q, frequency set, source, task type, or number of simultaneous boosts remains separate.
 
 *The cumulative sine-wave hard-clipping percentage is approximate because the first exercise was recorded as approximately 100 trials with a rounded 83% score rather than an exact correct-answer count. It is calculated as a trial-weighted estimate across that exercise and the 101-trial follow-up.*
 
