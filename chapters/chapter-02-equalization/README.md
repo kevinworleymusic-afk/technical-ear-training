@@ -10,8 +10,8 @@ Develop recognition of frequency regions and audible changes produced by equaliz
 ## Progress Summary
 
 - **Documented work:** Sessions 1–3, 2026-07-27 through 2026-08-03
-- **Documented EQ trials:** At least 1,483
-- **EQ trials with recorded accuracy:** All 1,483 documented EQ trials
+- **Documented EQ trials:** At least 1,554
+- **EQ trials with recorded accuracy:** All 1,554 documented EQ trials
 - **Best recent exercise:** 98% on 45 single-boost +3 dB trials across 2–16 kHz at Q = 8
 - **Sessions completed:** 3
 - **Status:** Active — controlled boosts are strongest; 63 Hz at +6 dB, cuts, delayed retention, and transfer to music remain active
@@ -46,14 +46,15 @@ The August 3 work used pink noise and is kept separate from the earlier Q = 2 di
 | One +3 dB boost; 2/4/8/16 kHz | 45 | 98% | 8 and 16 kHz became perceptually distinct |
 | One +3 dB boost; 1/2/4/8/16 kHz | 260 | approximately 86% weighted | Combined 55-, 100-, and 105-trial blocks; best block 93% |
 | Two simultaneous +3 dB boosts; 1–16 kHz | 50 | 85% partial-credit score | Multiple-boost baseline |
-| Three simultaneous +6 dB boosts; 250 Hz–8 kHz | 101 | 89% software score | Exact partial-credit rule unconfirmed |
-| **August 3 total** | **1,071** | — | Excludes only the brief uncounted 63 Hz +6 dB check |
+| Three simultaneous +6 dB boosts; one-octave bands; 63 Hz–16 kHz | 71 | 95% | Initial broad-range multiple-boost exercise |
+| Three simultaneous +6 dB boosts; Q = 8; 250 Hz–8 kHz | 101 | 89% software score | Exact partial-credit rule unconfirmed |
+| **August 3 total** | **1,142** | — | Excludes only the brief uncounted 63 Hz +6 dB check |
 
 The 78-trial +3 dB block is not doubtful or incomplete. Its approximately 86–87% result is calculated from the software’s rounded cumulative displays: 98% after the first 100 +6 dB trials and 93% after all 178 trials. The approximation applies only to the exact percentage because the software displayed rounded values; all 78 repetitions are included as completed +3 dB work.
 
 ## August 3 Cumulative Result
 
-The day’s **1,071 trials produced an approximately 88.4% trial-weighted cumulative score**. This calculation weights each recorded block by its number of trials rather than averaging the displayed percentages equally.
+The day’s **1,142 trials produced an approximately 88.8% trial-weighted cumulative score**. This calculation weights each recorded block by its number of trials rather than averaging the displayed percentages equally.
 
 | Common exercise group | Trials | Trial-weighted result |
 |---|---:|---:|
@@ -61,8 +62,8 @@ The day’s **1,071 trials produced an approximately 88.4% trial-weighted cumula
 | One boost at +6 dB, Q = 8 | 277 | approximately 91.0% |
 | One boost at +3 dB, Q = 8 | 613 | approximately 86.8% |
 | Two simultaneous boosts at +3 dB, Q = 8 | 50 | 85% |
-| Three simultaneous boosts at +6 dB, Q = 8 | 101 | 89% |
-| **All August 3 exercises** | **1,071** | **approximately 88.4%** |
+| Three simultaneous boosts at +6 dB | 172 | approximately 91.5% weighted |
+| **All August 3 exercises** | **1,142** | **approximately 88.8%** |
 
 Repeated blocks belonging to the same broad exercise type are grouped here. The detailed tables retain separate frequency sets where those settings materially differ. The cumulative result is approximate because several software percentages were rounded, the 78-trial +3 dB segment was derived from rounded cumulative displays, and the two- and three-boost exercises use the software’s partial-credit scoring.
 
