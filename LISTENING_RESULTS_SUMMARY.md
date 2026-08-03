@@ -94,7 +94,7 @@ These results are included in the cumulative totals and are intentionally visibl
 
 | Development area | Initial evidence | Later evidence | Interpretation / next step |
 |---|---|---|---|
-| Broad +3 dB identification, 250 Hz–8 kHz | 74% across 40 trials | Not repeated under the exact same broad condition | Repeat after rest to establish a comparable trend |
+| Broad +3 dB identification, 250 Hz–8 kHz | 74% across 40 trials | Broke the range into smaller frequency groups and improved those focused sets | Continue adding one frequency at a time until the complete 250 Hz–8 kHz range is rebuilt, then repeat the broad condition |
 | Low-mid +3 dB identification, 250/500/1 kHz | 64% across 23 trials | 85% across 35 trials after +6 dB reinforcement | Improvement occurred within the session; test retention later |
 | Five-choice +3 dB identification, 1–16 kHz | 77% across 100 fresh trials | 93% across 105 later trials | Main confusion was 1 kHz versus 16 kHz; repeat in a shorter fresh session |
 | 63 Hz identification | Reliable at +9 dB but not in the brief +6 dB check | Shifted to low-frequency practice through 250 Hz, where +3 dB changes were detectable | Use the clearer 250 Hz cue to build low-frequency discrimination, then transfer the practice back toward 63 Hz after rest |
