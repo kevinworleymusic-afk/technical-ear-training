@@ -51,22 +51,28 @@ A software trial is one question, even when that question contains two or three 
 
 The grouped table combines repeated blocks of the same broad exercise type. The [full August 3 session record](logs/03-daily/2026-W32/2026-08-03_procedure-setup.md) keeps materially different frequency sets, bandwidths, and block results separate.
 
-### Selected Detailed Results
+### Complete August 3 Block Results
 
-| Exercise | Trials | Result |
-|---|---:|---:|
-| Three boosts, +6 dB, one-octave bands, 63 Hz–16 kHz | 71 | 95% |
-| Three boosts, +6 dB, Q = 8, 250 Hz–8 kHz | 101 | 89% |
-| Two boosts, +3 dB, Q = 8, 1–16 kHz | 50 | 85% |
-| One boost, +3 dB, Q = 8, 2–16 kHz | 45 | 98% |
-| One boost, +3 dB, Q = 8, 1–16 kHz | 105 | 93% |
-| One boost, +3 dB, Q = 8, 1–4 kHz | 101 | 93% |
-| One boost, +6 dB, Q = 8, 4–16 kHz | 53 | 90% |
-| One boost, +6 dB, Q = 8, 250 Hz–1 kHz | 20 warmup + 104 rapid-fire | 100% warmup; 83% rapid-fire |
-| One boost, +6 dB, Q = 8, 500 Hz–2 kHz | 100 | 98% |
-| One boost, +3 dB, Q = 8, 500 Hz–2 kHz | 78 | Approximately 86–87% |
+Repeated runs with the same settings are kept on one row so weaker and stronger attempts remain visible without duplicating the exercise.
 
-The 78-trial +3 dB result is valid completed work. Its exact percentage is approximate because it was derived from the software’s rounded cumulative displays after the gain changed from +6 to +3 dB.
+| Exercise condition | Trials by block | Accuracy by block | Combined note |
+|---|---:|---:|---|
+| Three boosts, +6 dB, one-octave bands, 63 Hz–16 kHz | 71 | 95% | Broad-range multi-boost exercise |
+| One boost, +9 dB, endpoint sets | Approximately 30 | 100% | Approximately 15 trials per endpoint set |
+| One boost, +6 dB, Q = 8, 4/8/16 kHz | 53 | 90% | High-frequency set |
+| One boost, +6 dB, Q = 8, 250/500/1 kHz | 20 + 104 | 100% + 83% | 124 trials; approximately 85.7% weighted |
+| One boost, +3 dB, Q = 8, 250 Hz–8 kHz | 40 | **74%** | Broad six-choice range |
+| One boost, +3 dB, Q = 8, 250/500/1 kHz | 23 + 35 | 64% + 85% | 58 trials; approximately 76.7% weighted |
+| One boost, +6 dB, Q = 8, 500/1k/2 kHz | 100 | 98% | First portion of continued counter |
+| One boost, +3 dB, Q = 8, 500/1k/2 kHz | 78 | Approximately 86–87% | Valid result derived from cumulative display |
+| One boost, +3 dB, Q = 8, 1/2/4 kHz | 101 | 93% | Three-choice range |
+| One boost, +3 dB, Q = 8, 2/4/8 kHz | 31 | 97% | Three-choice range |
+| One boost, +3 dB, Q = 8, 2/4/8/16 kHz | 45 | 98% | Four-choice range |
+| One boost, +3 dB, Q = 8, 1/2/4/8/16 kHz | 55 + 100 + 105 | Approximately 87% + **77%** + 93% | 260 trials; approximately 86% weighted |
+| Two boosts, +3 dB, Q = 8, 1–16 kHz | 50 | 85% | Partial-credit software score |
+| Three boosts, +6 dB, Q = 8, 250 Hz–8 kHz | 101 | 89% | Partial-credit software score |
+
+The 74% and 77% results are retained as part of the evidence rather than omitted in favor of the strongest scores. The 78-trial +3 dB result is also valid completed work; only its exact percentage is approximate because it was derived from rounded cumulative displays.
 
 ## Earlier Controlled Results
 
