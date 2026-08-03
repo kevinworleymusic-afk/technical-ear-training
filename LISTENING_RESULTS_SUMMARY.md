@@ -36,6 +36,8 @@ The purpose of this section is to show both current strengths and remaining work
 
 ## August 3 EQ Session
 
+> **Q = 8 difficulty choice:** After the earlier Q = 2 work, I intentionally selected Q = 8 for most August 3 exercises because its narrower bandwidth made the frequency-identification task more challenging and more frequency-specific. I chose to develop under that harder condition rather than remain at Q = 2 or another broader setting. Q = 2 and Q = 8 results remain separate because they are not directly interchangeable test conditions.
+
 The session used James Corey’s technical ear-training software and pink noise. Exercises included single-, two-, and three-boost identification at different gain, bandwidth, and frequency-range settings.
 
 ### Grouped Results
