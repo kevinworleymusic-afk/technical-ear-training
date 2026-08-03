@@ -13,7 +13,9 @@ Run the first regular critical-listening session using the selected warmups, tim
 - **Warmup categories and timing:**
 - **Focused-development category:** Narrow-band EQ identification at the 63 Hz and 16 kHz endpoints.
 - **Exercise settings:** Pink noise; three-frequency identification; Q = 8. Low-frequency set: 63 Hz, 125 Hz, and 250 Hz. High-frequency set: 4 kHz, 8 kHz, and 16 kHz.
-- **Trials and score, where applicable:** Approximately 15 trials in each frequency set (approximately 30 focused endpoint trials total).
-- **Audible cues used:** Other tested frequency bands were identifiable at +6 dB. In the focused endpoint blocks, both 63 Hz and 16 kHz were identifiable at +9 dB.
+- **Initial +9 dB endpoint blocks:** Approximately 15 trials in each frequency set (approximately 30 trials total), with 100% identification in both sets.
+- **High-frequency +6 dB follow-up:** Completed 53 trials using the 4 kHz, 8 kHz, and 16 kHz set. The high-frequency changes, including 16 kHz, were audible at +6 dB. An accuracy percentage was not recorded.
+- **Monitoring note:** The high-frequency boost was initially easier to hear after increasing headphone monitoring level. Monitoring was then returned to a comfortable level, and the boost remained audible.
+- **Audible cues used:** Other tested frequency bands were identifiable at +6 dB. Both 63 Hz and 16 kHz were identifiable at +9 dB during the initial endpoint blocks; the high-frequency set was then successfully made audible at +6 dB.
 - **Procedure followed consistently:** In progress
-- **Adjustment for the next session:** Begin both endpoint sets at +9 dB and work toward reliable identification at +6 dB while keeping Q = 8. Keep the master playback level fixed and comfortable.
+- **Adjustment for the next session:** Test the 63/125/250 Hz set at +6 dB, keeping Q = 8 and monitoring at a fixed, comfortable level. Record the exact accuracy percentage for each completed block so results can be compared across sessions.
