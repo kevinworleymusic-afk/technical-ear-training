@@ -34,9 +34,8 @@ These sources explain why the recordings were chosen as technically relevant lis
 
 Keep Sunday as the regular diagnostic day. Begin with the assigned reference-track warmup, then complete the standardized diagnostic tests. Rotate track-to-day assignments in later weeks if desired while keeping the core diagnostic procedure stable for comparison.
 
-## Populate Before the Week Begins
+## Current Week Record
 
-- **Warmup categories and minutes:** To be selected.
-- **Development category:** To be selected.
-- **Brief target:** To be selected.
-- **Diagnostic:** Schedule if this is the chosen weekly measurement week.
+- **Monday, August 3 — completed:** At least 1,071 documented pink-noise EQ trials at Q = 8, spanning +9, +6, and +3 dB single- and multiple-boost conditions. Strong results included 98% across 2–16 kHz at +3 dB, 93% across 1–16 kHz at +3 dB, and improvement from 64% to 85% in the 250 Hz–1 kHz +3 dB block. The detailed log preserves settings, limitations, and all recorded block results.
+- **Tuesday, August 4 — planned:** Acquire one selected reference song, complete a short pink-noise EQ warmup, and then practice comparable EQ changes using the song. Record the exact track/version, settings, trials, accuracy, and differences between pink-noise and music cues.
+- **Sunday diagnostic:** Retain the weekly diagnostic structure, with the day’s song used only as the initial warmup before standardized testing.
