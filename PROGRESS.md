@@ -71,9 +71,18 @@ Repeated blocks belonging to the same broad exercise type are grouped here. The 
 
 ### Multiple-Boost Workload
 
-- **August 3:** 222 multi-boost software trials, representing 616 individual boosted-band targets.
-- **All documented sessions:** 262 multi-boost software trials, representing 706 individual boosted-band targets.
-- A trial is counted once even when it requires identifying two or three boosted bands.
+| Date and condition | Trials | Boosted-band targets | Accuracy |
+|---|---:|---:|---:|
+| Aug. 3 — two boosts, +3 dB, Q = 8, 1–16 kHz | 50 | 100 | 85% |
+| Aug. 3 — three boosts, +6 dB, one-octave bands, 63 Hz–16 kHz | 71 | 213 | 95% |
+| Aug. 3 — three boosts, +6 dB, Q = 8, 250 Hz–8 kHz | 101 | 303 | 89% |
+| **August 3 subtotal** | **222** | **616** | **Approximately 90.0% weighted** |
+| July 30 — two boosts, +6 dB, Q = 2, 250 Hz–8 kHz | 30 | 60 | 97% |
+| July 30 — three boosts, +6 dB, Q = 2, 250 Hz–8 kHz | 10 | 30 | 90% |
+| **July 30 subtotal** | **40** | **90** | **Approximately 95.3% weighted** |
+| **All documented multi-boost work** | **262** | **706** | **Approximately 90.8% weighted** |
+
+A software trial is one question, even when that question contains two or three boosted bands. Accuracy values are the software-reported trial scores; the subtotal and overall percentages are weighted by trial count. Therefore, August 3 contains 222 multi-boost trials representing 616 individual boosted-band targets.
 
 ### Totals by Exercise Area
 
