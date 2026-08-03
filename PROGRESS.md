@@ -69,6 +69,12 @@ The day’s **1,142 trials produced an approximately 88.8% trial-weighted cumula
 
 Repeated blocks belonging to the same broad exercise type are grouped here. The detailed tables retain separate frequency sets where those settings materially differ. The cumulative result is approximate because several software percentages were rounded, the 78-trial +3 dB segment was derived from rounded cumulative displays, and the two- and three-boost exercises use the software’s partial-credit scoring.
 
+### Multiple-Boost Workload
+
+- **August 3:** 222 multi-boost software trials, representing 616 individual boosted-band targets.
+- **All documented sessions:** 262 multi-boost software trials, representing 706 individual boosted-band targets.
+- A trial is counted once even when it requires identifying two or three boosted bands.
+
 ### Totals by Exercise Area
 
 | Exercise area | Documented trials |
