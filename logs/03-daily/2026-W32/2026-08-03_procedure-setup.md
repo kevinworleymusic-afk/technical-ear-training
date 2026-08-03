@@ -12,8 +12,8 @@ Run the first regular critical-listening session using the selected warmups, tim
 
 - **Warmup categories and timing:**
 - **Focused-development category:** Narrow-band EQ identification at the 63 Hz and 16 kHz endpoints.
-- **Exercise settings:** Pink noise; three-band identification; Q = 8; +6 dB initial boosts.
-- **Trials and score, where applicable:**
-- **Audible cues used:** Other tested frequency bands were identifiable at +6 dB. The 63 Hz boost became identifiable at +9 dB, while the 16 kHz boost became identifiable at +12 dB.
+- **Exercise settings:** Pink noise; three-frequency identification; Q = 8. Low-frequency set: 63 Hz, 125 Hz, and 250 Hz. High-frequency set: 4 kHz, 8 kHz, and 16 kHz.
+- **Trials and score, where applicable:** Approximately 15 trials in each frequency set (approximately 30 focused endpoint trials total).
+- **Audible cues used:** Other tested frequency bands were identifiable at +6 dB. In the focused endpoint blocks, both 63 Hz and 16 kHz were identifiable at +9 dB.
 - **Procedure followed consistently:** In progress
-- **Adjustment for the next session:** Practice 63 Hz first at +9 dB and work toward +6 dB. Practice 16 kHz first at +12 dB, then reduce to +9 dB and eventually +6 dB. Keep the master playback level fixed and comfortable.
+- **Adjustment for the next session:** Begin both endpoint sets at +9 dB and work toward reliable identification at +6 dB while keeping Q = 8. Keep the master playback level fixed and comfortable.
