@@ -16,8 +16,8 @@ Each comparable exercise condition appears once. Repeated blocks are combined in
 | Two-band EQ boost matching | Pink noise | Two +6 dB boosts; one-octave centers; Q 2; 250 Hz–8 kHz | 30 | 97% | Criterion met; matching |
 | Three-band EQ boost matching | Pink noise | Three +6 dB boosts; one-octave centers; Q 2; 250 Hz–8 kHz | 10 | 90% | Criterion met; matching |
 | Single-band EQ identification | Pink noise | +9 dB; Q 8; endpoint sets 63/125/250 Hz and 4/8/16 kHz | approximately 30 | 100% in each set | Controlled baseline |
-| Single-band EQ identification | Pink noise | +6 dB; Q 8; 4/8/16 kHz | 53 | Accuracy not recorded | Completed |
-| Single-band EQ identification | Pink noise | +6 dB; Q 8; 250/500/1 kHz | 124 | Accuracy not recorded | 20 warmup + 104 rapid-fire |
+| Single-band EQ identification | Pink noise | +6 dB; Q 8; 4/8/16 kHz | 53 | 90% | Completed |
+| Single-band EQ identification | Pink noise | +6 dB; Q 8; 250/500/1 kHz | 124 | 83% | 20 warmup + 104 rapid-fire |
 | Single-band EQ identification | Pink noise | +3 dB; Q 8; 250 Hz–8 kHz | 40 | 74% | Broad-range baseline |
 | Single-band EQ identification | Pink noise | +3 dB; Q 8; 250/500/1 kHz | 58 | 76.7% weighted | Best block 85% |
 | Single-band EQ identification | Pink noise | +6 dB; Q 8; 500/1k/2 kHz | 100 | 98% | Criterion met |
@@ -41,7 +41,7 @@ Each comparable exercise condition appears once. Repeated blocks are combined in
 | Bit-depth reduction | 20 |
 | **All documented repetitions** | **at least 1,804** |
 
-At least 1,627 of the 1,804 trials have a recorded accuracy result. The remaining 177 are still included as completed repetitions: 53 high-frequency +6 dB EQ trials and 124 low-mid +6 dB EQ trials.
+All 1,804 documented trials now have recorded accuracy results. The 53 high-frequency +6 dB EQ trials scored 90%, and the combined 124 low-mid +6 dB EQ trials scored 83%.
 
 The 78-trial 500 Hz–2 kHz +3 dB exercise is valid completed work. Its approximately 86–87% result is derived from the rounded cumulative display after the preceding 100-trial +6 dB segment; the rounding affects only the precision of the percentage, not whether the repetitions count.
 
