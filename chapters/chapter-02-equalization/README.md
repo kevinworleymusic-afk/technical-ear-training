@@ -83,6 +83,7 @@ Repeated blocks belonging to the same broad exercise type are grouped here. The 
 ## Next Work
 
 - Acquire one selected reference song, complete a short pink-noise EQ warmup, and then apply comparable EQ changes to the song as a separate transfer condition.
+- Rebuild the broad 250 Hz–8 kHz +3 dB condition progressively: divide it into smaller frequency groups, stabilize each group, and add one frequency at a time until the full range is restored.
 - Continue building the low-frequency cue through 250 Hz, where +3 dB changes were detectable, then transfer that discrimination back toward 63 Hz after rest. Use +9 dB at 63 Hz as the established starting reference before reducing gain.
 - Reset counters whenever practical when the source, gain, range, Q, or number of simultaneous boosts changes. When a counter continues, preserve the cumulative displays so each segment can still be derived and counted.
 - Keep monitoring fixed at a comfortable level and use shorter sessions to reduce fatigue effects.
