@@ -69,9 +69,9 @@ Warmup blocks are governed by time rather than trial quotas. Record the number o
 - **Source:** Pink noise
 - **Affected bands:** 1
 - **Gain:** +3 dB or +6 dB
-- **Center-frequency range:** 250 Hz–8 kHz
-- **Frequency resolution:** One-octave center frequencies
-- **Q:** 2
+- **Center-frequency range:** Use a focused set supported by the latest log; 250 Hz–8 kHz or 1–16 kHz when appropriate
+- **Frequency resolution:** Document the exact selectable center frequencies
+- **Q:** 8 for the current narrow-band identification focus; preserve Q 2 only when repeating the earlier one-octave matching condition
 - **Task type:** Rapid identification without direct matching
 
 **Trials completed:**  
@@ -97,7 +97,7 @@ Warmup blocks are governed by time rather than trial quotas. Record the number o
 **Response pace:**  
 **Missed-band patterns:**  
 
-Keep rapid-identification and matching results separate. Use two-band matching only for transition, retention, controlled comparison, or troubleshooting. Increase speed after accuracy and confidence stabilize; introduce music later as a separate transfer condition.
+Keep rapid-identification and matching results separate. Use two-band matching only for transition, retention, controlled comparison, or troubleshooting. Increase speed after accuracy and confidence stabilize. When using music, keep it as a separate transfer condition: record the exact track/version and do not pool its results with pink noise.
 
 ## 3. Established Distortion Reference — 2 Minutes
 
