@@ -15,7 +15,7 @@ The records are organized at three levels:
 - [Week of August 3–9, 2026 daily logs](03-daily/2026-W32/)
 - [July 27, 2026 — Session 1](03-daily/2026-W31/2026-07-27_session-01.md)
 - [July 30, 2026 — Session 2](03-daily/2026-W31/2026-07-30_session-02.md)
-- [August 3, 2026 — Session 3 and completed Q = 8 EQ baseline](03-daily/2026-W32/2026-08-03_procedure-setup.md)
+- [August 2, 2026 — Session 3 and completed Q = 8 EQ baseline](03-daily/2026-W31/2026-08-02_session-04.md)
 - [August 4, 2026 — Planned pink-noise warmup and song-based EQ transfer](03-daily/2026-W32/2026-08-04_song-eq-practice.md)
 
 **Current continuation-phase total:** At least 1,875 documented trials across three completed sessions, with recorded accuracy for all 1,875 trials.
