@@ -20,7 +20,7 @@ This dashboard summarizes cumulative measurable progress through the available s
 - **Total documented trials:** at least 1,875, including one approximately reported 100-trial exercise
 - **Trials with recorded accuracy:** all 1,875 documented trials
 - **Current chapters:** Chapters 2 and 5, with exploratory work in Chapters 3B and 4A
-- **Last session:** 2026-08-03
+- **Last session:** 2026-08-02
 - **Next target:** Acquire one selected reference song, complete a short pink-noise EQ warmup, and begin separately documented song-based EQ transfer work
 
 ## Cumulative Performance Dashboard
@@ -54,9 +54,9 @@ Each row represents one comparable combination of skill, sample type, and test c
 | Hard-clipping matching | Pink noise | Clipping-severity settings | 100 | 72% | 72% | ☐ |
 | Bit-depth-reduction matching | Pink noise | Bit-depth settings | 20 | 47% | 47% | ☐ |
 
-## August 3 Cumulative Result
+## August 2 Cumulative Result
 
-> **Q = 8 difficulty choice:** After the earlier Q = 2 work, I intentionally selected Q = 8 for most August 3 exercises because its narrower bandwidth made the frequency-identification task more challenging and more frequency-specific. I chose to develop under that harder condition rather than remain at Q = 2 or another broader setting. Q = 2 and Q = 8 results remain separate because they are not directly interchangeable test conditions.
+> **Q = 8 difficulty choice:** After the earlier Q = 2 work, I intentionally selected Q = 8 for most August 2 exercises because its narrower bandwidth made the frequency-identification task more challenging and more frequency-specific. I chose to develop under that harder condition rather than remain at Q = 2 or another broader setting. Q = 2 and Q = 8 results remain separate because they are not directly interchangeable test conditions.
 
 The day’s **1,142 trials produced an approximately 88.8% trial-weighted cumulative score**. This calculation weights each recorded block by its number of trials rather than averaging the displayed percentages equally.
 
@@ -67,7 +67,7 @@ The day’s **1,142 trials produced an approximately 88.8% trial-weighted cumula
 | One boost at +3 dB, Q = 8 | 613 | approximately 86.8% |
 | Two simultaneous boosts at +3 dB, Q = 8 | 50 | 85% |
 | Three simultaneous boosts at +6 dB | 172 | approximately 91.5% weighted |
-| **All August 3 exercises** | **1,142** | **approximately 88.8%** |
+| **All August 2 exercises** | **1,142** | **approximately 88.8%** |
 
 Repeated blocks belonging to the same broad exercise type are grouped here. The detailed tables retain separate frequency sets where those settings materially differ. The cumulative result is approximate because several software percentages were rounded, the 78-trial +3 dB segment was derived from rounded cumulative displays, and the two- and three-boost exercises use the software’s partial-credit scoring.
 
@@ -78,7 +78,7 @@ Repeated blocks belonging to the same broad exercise type are grouped here. The 
 | Aug. 3 — two boosts, +3 dB, Q = 8, 1–16 kHz | 50 | 100 | 85% |
 | Aug. 3 — three boosts, +6 dB, one-octave bands, 63 Hz–16 kHz | 71 | 213 | 95% |
 | Aug. 3 — three boosts, +6 dB, Q = 8, 250 Hz–8 kHz | 101 | 303 | 89% |
-| **August 3 subtotal** | **222** | **616** | **Approximately 90.0% weighted** |
+| **August 2 subtotal** | **222** | **616** | **Approximately 90.0% weighted** |
 | July 30 — two boosts, +6 dB, Q = 2, 250 Hz–8 kHz | 30 | 60 | 97% |
 | July 30 — three boosts, +6 dB, Q = 2, 250 Hz–8 kHz | 10 | 30 | 90% |
 | **July 30 subtotal** | **40** | **90** | **Approximately 95.3% weighted** |
