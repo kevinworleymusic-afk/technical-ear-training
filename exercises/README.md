@@ -1,6 +1,6 @@
 # Exercise Library
 
-This section connects the reusable listening exercises with the work actually completed so far. Detailed chronology and observations remain in [Session 1](../logs/03-daily/2026-W31/2026-07-27_session-01.md) and [Session 2](../logs/03-daily/2026-W31/2026-07-30_session-02.md), while cumulative results are maintained in the [progress dashboard](../PROGRESS.md).
+This section connects the reusable listening exercises with the work actually completed so far. Detailed chronology and observations remain in [Session 1](../logs/03-daily/2026-W31/2026-07-27_session-01.md), [Session 2](../logs/03-daily/2026-W31/2026-07-30_session-02.md), and the [August 3 session](../logs/03-daily/2026-W32/2026-08-03_procedure-setup.md), while cumulative results are maintained in the [progress dashboard](../PROGRESS.md).
 
 ## Current Exercise Evidence
 
@@ -17,10 +17,15 @@ This section connects the reusable listening exercises with the work actually co
 | 9 | EQ cut matching | Pink noise | -6 dB, 250 Hz–8 kHz | 62 | 80% | Continued practice |
 | 10 | Two-band EQ boost matching | Pink noise | Two +6 dB boosts; one-octave center frequencies; Q 2; 250 Hz–8 kHz | 30 | 97% | Working criterion met; matching only |
 | 11 | Three-band EQ boost matching | Pink noise | Three +6 dB boosts; one-octave center frequencies; Q 2; 250 Hz–8 kHz | 10 | 90% | Working criterion met; matching only |
+| 12 | Single-band EQ identification | Pink noise | +3 dB; Q 8; 1–4 kHz | 101 | 93% | Working controlled-range result |
+| 13 | Single-band EQ identification | Pink noise | +3 dB; Q 8; 2–16 kHz | 45 | 98% | Working controlled-range result |
+| 14 | Single-band EQ identification repeat | Pink noise | +3 dB; Q 8; 1–16 kHz | 105 | 93% | Repeat after an earlier 77% fresh block |
+| 15 | Two-band EQ identification | Pink noise | Two +3 dB boosts; Q 8; 1–16 kHz | 50 | 85% | Partial-credit software score |
+| 16 | Three-band EQ identification | Pink noise | Three +6 dB boosts; Q 8; 250 Hz–8 kHz | 101 | 89% | Scoring rule not independently confirmed |
 
-**Documented scored total:** 733 trials, including one approximately reported 100-trial exercise.
+**Documented total:** At least 1,804 trials across three sessions, including one approximately reported 100-trial exercise. At least 1,627 trials have a recorded accuracy result.
 
-The scored total combines 412 EQ trials, approximately 301 hard-clipping trials, and 20 bit-depth-reduction trials. Results apply only to the listed sources, settings, and criteria.
+The cumulative total includes at least 1,483 EQ trials, approximately 301 hard-clipping trials, and 20 bit-depth-reduction trials. Results apply only to the listed sources, settings, and criteria.
 
 ## Exploratory Exercises
 
@@ -44,14 +49,16 @@ Mid/Side listening, expansion, and editing have not yet been exercised in the do
 
 ## Immediate Exercise Queue
 
-1. Begin EQ warmups with two minutes of single-band rapid identification at +3 or +6 dB, then continue with three minutes of three simultaneous +6 dB bands using one-octave center frequencies, Q 2, and 250 Hz–8 kHz; keep rapid-identification and matching results separate.
-2. Repeat sine-wave hard-clipping matching and use 90% as the current working checkoff threshold.
-3. Continue -6 dB EQ-cut matching.
-4. Revisit +3 dB EQ boosts after a delay.
-5. Explore bit-depth-reduction parameters directly before another scored exercise.
-6. Explore compression and reverberation parameters directly, one variable at a time.
-7. Begin separate baselines for Mid/Side listening, expansion, and editing.
-8. Repeat established exercises with music, speech, instruments, and environmental sounds after the planned sample library is assembled.
+1. Acquire one selected reference song, complete a short pink-noise EQ warmup, and then perform comparable song-based EQ work as a separately documented transfer condition.
+2. Retest 63 Hz after rest and confirm the +6 dB threshold before reducing gain.
+3. Repeat shorter Q = 8 +3 dB blocks to test retention without the fatigue of the August 3 session.
+4. Repeat sine-wave hard-clipping matching and use 90% as the current working checkoff threshold.
+5. Continue -6 dB EQ-cut matching.
+6. Revisit +3 dB EQ boosts after a delay.
+7. Explore bit-depth-reduction parameters directly before another scored exercise.
+8. Explore compression and reverberation parameters directly, one variable at a time.
+9. Begin separate baselines for Mid/Side listening, expansion, and editing.
+10. Repeat established exercises with music, speech, instruments, and environmental sounds after the planned sample library is assembled.
 
 ## Reusable Controlled Exercises
 
