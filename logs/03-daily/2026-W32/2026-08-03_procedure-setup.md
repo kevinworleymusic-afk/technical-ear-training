@@ -13,6 +13,7 @@ Run the first regular critical-listening session using the selected warmups, tim
 - **Warmup categories and timing:** A 20-trial +6 dB warmup scored 100% and preceded the focused +3 dB work. A later +6 dB bridge block across 500 Hz–2 kHz was used before returning to +3 dB.
 - **Focused-development category:** Narrow-band EQ identification, including endpoint checks and reduced-gain central-range tests.
 - **Exercise settings:** Pink noise with Q = 8. Endpoint sets used 63/125/250 Hz and 4/8/16 kHz. The full central-range test used one boosted band per trial across 250 Hz–8 kHz. Focused subdivisions used 250/500/1 kHz, 500/1k/2 kHz, 1/2/4 kHz, 2/4/8 kHz, 2/4/8/16 kHz, and 1/2/4/8/16 kHz.
+- **Initial broad-range three-boost block:** Completed 71 pink-noise trials with three simultaneous +6 dB boosts across 63 Hz–16 kHz using one-octave bands, scoring 95%.
 - **Initial +9 dB endpoint blocks:** Approximately 15 trials in each frequency set (approximately 30 trials total), with 100% identification in both sets.
 - **High-frequency +6 dB follow-up:** Completed 53 trials using the 4 kHz, 8 kHz, and 16 kHz set at 90% accuracy. The high-frequency changes, including 16 kHz, were audible at +6 dB.
 - **Low-frequency +6 dB check:** The 63 Hz boost was not reliably audible at +6 dB. Its current demonstrated identification level remains +9 dB. A trial count and accuracy percentage were not recorded for this check.
@@ -38,7 +39,7 @@ Run the first regular critical-listening session using the selected warmups, tim
 
 ## August 3 Cumulative Result
 
-The day’s **1,071 trials produced an approximately 88.4% trial-weighted cumulative score**. This calculation weights each recorded block by its number of trials rather than averaging the displayed percentages equally.
+The day’s **1,142 trials produced an approximately 88.8% trial-weighted cumulative score**. This calculation weights each recorded block by its number of trials rather than averaging the displayed percentages equally.
 
 | Common exercise group | Trials | Trial-weighted result |
 |---|---:|---:|
@@ -46,16 +47,16 @@ The day’s **1,071 trials produced an approximately 88.4% trial-weighted cumula
 | One boost at +6 dB, Q = 8 | 277 | approximately 91.0% |
 | One boost at +3 dB, Q = 8 | 613 | approximately 86.8% |
 | Two simultaneous boosts at +3 dB, Q = 8 | 50 | 85% |
-| Three simultaneous boosts at +6 dB, Q = 8 | 101 | 89% |
-| **All August 3 exercises** | **1,071** | **approximately 88.4%** |
+| Three simultaneous boosts at +6 dB | 172 | approximately 91.5% weighted |
+| **All August 3 exercises** | **1,142** | **approximately 88.8%** |
 
 Repeated blocks belonging to the same broad exercise type are grouped here. The detailed tables retain separate frequency sets where those settings materially differ. The cumulative result is approximate because several software percentages were rounded, the 78-trial +3 dB segment was derived from rounded cumulative displays, and the two- and three-boost exercises use the software’s partial-credit scoring.
 
 ## End-of-Session Recap
 
-- **Documented volume:** **1,071 trials with an approximately 88.4% trial-weighted cumulative score**, with every completed block included once; this excludes only the brief uncounted 63 Hz +6 dB check.
+- **Documented volume:** **1,142 trials with an approximately 88.8% trial-weighted cumulative score**, with every completed block included once; this excludes only the brief uncounted 63 Hz +6 dB check.
 - **Strongest single-boost results:** 98% across 2–16 kHz in 45 trials at +3 dB; 93% across 1–16 kHz in 105 trials at +3 dB; 93% across 1–4 kHz in 101 trials at +3 dB; and 90% across 53 high-frequency +6 dB trials.
-- **Multiple-boost results:** 85% across 50 two-boost trials at +3 dB and 89% across 101 three-boost trials at +6 dB.
+- **Multiple-boost results:** 222 total trials: 50 two-boost trials at +3 dB scored 85%; 71 three-boost, one-octave trials across 63 Hz–16 kHz at +6 dB scored 95%; and 101 three-boost Q = 8 trials across 250 Hz–8 kHz at +6 dB scored 89%. The combined three-boost result was approximately 91.5% across 172 trials.
 - **Improvement during the session:** The 20-trial 250 Hz–1 kHz +6 dB warmup scored 100%, followed by 104 rapid-fire trials at 83%; the combined 124-trial weighted result was approximately 85.7%. Across 58 total +3 dB trials in that range, the two blocks scored 64% over 23 trials and 85% over 35 trials after the +6 dB reinforcement. The 500 Hz–2 kHz work also included 100 +6 dB trials at 98% and 78 valid +3 dB trials at approximately 86–87%.
 - **Current development targets:** Improve 63 Hz identification below +9 dB, retest difficult conditions after rest, reduce response bias from the recent trial sequence, and transfer the EQ cues from pink noise to music.
 - **Overall takeaway:** This session established a detailed working baseline and showed rapid cue learning. Because the session was unusually long, the strongest and weakest results should be checked again in shorter, fresh sessions before drawing broader conclusions.
