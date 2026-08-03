@@ -1,7 +1,7 @@
 # Chapter 2 — Equalization
 
 **Software module:** TETpracticeEQ  
-**Current evidence:** [Session 1](../../logs/03-daily/2026-W31/2026-07-27_session-01.md), [Session 2](../../logs/03-daily/2026-W31/2026-07-30_session-02.md), the [August 3 baseline](../../logs/03-daily/2026-W32/2026-08-03_procedure-setup.md), and the [progress dashboard](../../PROGRESS.md)
+**Current evidence:** [Session 1](../../logs/03-daily/2026-W31/2026-07-27_session-01.md), [Session 2](../../logs/03-daily/2026-W31/2026-07-30_session-02.md), the [August 2 baseline](../../logs/03-daily/2026-W31/2026-08-02_session-04.md), and the [progress dashboard](../../PROGRESS.md)
 
 ## Training Focus
 
@@ -9,7 +9,7 @@ Develop recognition of frequency regions and audible changes produced by equaliz
 
 ## Progress Summary
 
-- **Documented work:** Sessions 1–3, 2026-07-27 through 2026-08-03
+- **Documented work:** Sessions 1–3, 2026-07-27 through 2026-08-02
 - **Documented EQ trials:** At least 1,554
 - **EQ trials with recorded accuracy:** All 1,554 documented EQ trials
 - **Best recent exercise:** 98% on 45 single-boost +3 dB trials across 2–16 kHz at Q = 8
@@ -30,9 +30,9 @@ Develop recognition of frequency regions and audible changes produced by equaliz
 
 ## August 3 Q = 8 Evidence
 
-> **Q = 8 difficulty choice:** After the earlier Q = 2 work, I intentionally selected Q = 8 for most August 3 exercises because its narrower bandwidth made the frequency-identification task more challenging and more frequency-specific. I chose to develop under that harder condition rather than remain at Q = 2 or another broader setting. Q = 2 and Q = 8 results remain separate because they are not directly interchangeable test conditions.
+> **Q = 8 difficulty choice:** After the earlier Q = 2 work, I intentionally selected Q = 8 for most August 2 exercises because its narrower bandwidth made the frequency-identification task more challenging and more frequency-specific. I chose to develop under that harder condition rather than remain at Q = 2 or another broader setting. Q = 2 and Q = 8 results remain separate because they are not directly interchangeable test conditions.
 
-The August 3 work used pink noise and is kept separate from the earlier Q = 2 direct-matching criteria. Repeated blocks with identical settings are combined below so each exercise condition appears once.
+The August 2 work used pink noise and is kept separate from the earlier Q = 2 direct-matching criteria. Repeated blocks with identical settings are combined below so each exercise condition appears once.
 
 | Condition | Total trials | Cumulative result | Best block / note |
 |---|---:|---:|---|
@@ -50,11 +50,11 @@ The August 3 work used pink noise and is kept separate from the earlier Q = 2 di
 | Two simultaneous +3 dB boosts; 1–16 kHz | 50 | 85% partial-credit score | Multiple-boost baseline |
 | Three simultaneous +6 dB boosts; one-octave bands; 63 Hz–16 kHz | 71 | 95% | Initial broad-range multiple-boost exercise |
 | Three simultaneous +6 dB boosts; Q = 8; 250 Hz–8 kHz | 101 | 89% software score | Exact partial-credit rule unconfirmed |
-| **August 3 total** | **1,142** | — | Excludes only the brief uncounted 63 Hz +6 dB check |
+| **August 2 total** | **1,142** | — | Excludes only the brief uncounted 63 Hz +6 dB check |
 
 The 78-trial +3 dB block is not doubtful or incomplete. Its approximately 86–87% result is calculated from the software’s rounded cumulative displays: 98% after the first 100 +6 dB trials and 93% after all 178 trials. The approximation applies only to the exact percentage because the software displayed rounded values; all 78 repetitions are included as completed +3 dB work.
 
-## August 3 Cumulative Result
+## August 2 Cumulative Result
 
 The day’s **1,142 trials produced an approximately 88.8% trial-weighted cumulative score**. This calculation weights each recorded block by its number of trials rather than averaging the displayed percentages equally.
 
@@ -65,7 +65,7 @@ The day’s **1,142 trials produced an approximately 88.8% trial-weighted cumula
 | One boost at +3 dB, Q = 8 | 613 | approximately 86.8% |
 | Two simultaneous boosts at +3 dB, Q = 8 | 50 | 85% |
 | Three simultaneous boosts at +6 dB | 172 | approximately 91.5% weighted |
-| **All August 3 exercises** | **1,142** | **approximately 88.8%** |
+| **All August 2 exercises** | **1,142** | **approximately 88.8%** |
 
 Repeated blocks belonging to the same broad exercise type are grouped here. The detailed tables retain separate frequency sets where those settings materially differ. The cumulative result is approximate because several software percentages were rounded, the 78-trial +3 dB segment was derived from rounded cumulative displays, and the two- and three-boost exercises use the software’s partial-credit scoring.
 
@@ -101,8 +101,8 @@ Repeated blocks belonging to the same broad exercise type are grouped here. The 
 
 - [2026-07-27 — Session 1: EQ, Distortion, Dynamics, and Reverb](../../logs/03-daily/2026-W31/2026-07-27_session-01.md)
 - [2026-07-30 — Session 2: Multi-Band EQ Boost Matching](../../logs/03-daily/2026-W31/2026-07-30_session-02.md)
-- [2026-08-03 — Session 3: Q = 8 Pink-Noise EQ Identification Baseline](../../logs/03-daily/2026-W32/2026-08-03_procedure-setup.md)
+- [2026-08-02 — Session 3: Q = 8 Pink-Noise EQ Identification Baseline](../../logs/03-daily/2026-W31/2026-08-02_session-04.md)
 
 ## Chapter Reflection
 
-The documented results establish a strong controlled-source foundation for EQ boost matching and identification. The August 3 work extends the evidence to narrow-band Q = 8 conditions and smaller +3 dB changes across much of the tested range, while showing that 63 Hz and fresh-session consistency still need development. Matching, memorized identification, and rapid identification remain explicitly separate competencies. The single-band rapid-identification primer is a new routine step, while the documented Session 2 achievement remains three-band direct matching. Continued work will test whether these cues remain stable across delayed sessions, program material, and playback systems before broader tonal-balance competence is claimed.
+The documented results establish a strong controlled-source foundation for EQ boost matching and identification. The August 2 work extends the evidence to narrow-band Q = 8 conditions and smaller +3 dB changes across much of the tested range, while showing that 63 Hz and fresh-session consistency still need development. Matching, memorized identification, and rapid identification remain explicitly separate competencies. The single-band rapid-identification primer is a new routine step, while the documented Session 2 achievement remains three-band direct matching. Continued work will test whether these cues remain stable across delayed sessions, program material, and playback systems before broader tonal-balance competence is claimed.
