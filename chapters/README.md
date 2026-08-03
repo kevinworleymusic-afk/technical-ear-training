@@ -1,12 +1,12 @@
 # Ear Training Chapters
 
-This section documents continued work with the chapter-based technical ear-training software stored in the linked Google Drive folder. The current continuation phase contains **at least 1,804 documented trials across three sessions, with recorded accuracy for all 1,804 trials**. Results below are synchronized with the central [progress dashboard](../PROGRESS.md) and the dated [session logs](../logs/). Normal practice uses the [adaptive daily warmup](../templates/03-daily/DAILY_WARMUP_PROGRESSION.md); broad cross-chapter progress is checked with the [30–45 minute weekly diagnostic circuit](../templates/02-weekly/WEEKLY_DIAGNOSTIC_CIRCUIT.md).
+This section documents continued work with the chapter-based technical ear-training software stored in the linked Google Drive folder. The current continuation phase contains **at least 1,875 documented trials across three sessions, with recorded accuracy for all 1,875 trials**. Results below are synchronized with the central [progress dashboard](../PROGRESS.md) and the dated [session logs](../logs/). Normal practice uses the [adaptive daily warmup](../templates/03-daily/DAILY_WARMUP_PROGRESSION.md); broad cross-chapter progress is checked with the [30–45 minute weekly diagnostic circuit](../templates/02-weekly/WEEKLY_DIAGNOSTIC_CIRCUIT.md).
 
 ## Available Curriculum and Current Evidence
 
 | Chapter | Training area | Software modules | Documented evidence | Status |
 |---|---|---|---|---|
-| [2](chapter-02-equalization/) | Equalization | TETpracticeEQ | At least 1,483 documented pink-noise EQ trials across three sessions; recent Q 8 results include 98% single-boost +3 dB and 89% three-boost +6 dB conditions | ◐ Active — controlled boosts are strongest; 63 Hz, cuts, retention, and music transfer remain in practice |
+| [2](chapter-02-equalization/) | Equalization | TETpracticeEQ | At least 1,554 documented pink-noise EQ trials across three sessions; recent Q 8 results include 98% single-boost +3 dB and 89% three-boost +6 dB conditions | ◐ Active — controlled boosts are strongest; 63 Hz, cuts, retention, and music transfer remain in practice |
 | [3](chapter-03-mid-side-reverb/) | Mid/Side and reverberation | TETlisteningMidSide; TETpracticeReverb | Initial exploratory reverb work; no formal reverb or Mid/Side score yet | ◐ Exploratory |
 | [4](chapter-04-compression-expansion/) | Compression and expansion | TETpracticeComp; TETpracticeExp | Initial exploratory compression work; no formal compression or expansion score yet | ◐ Exploratory |
 | [5](chapter-05-distortion/) | Distortion | TETpracticeDist | Approximately 321 scored trials across hard clipping and bit-depth reduction; best exercise 88% | ◐ Active — sine-wave clipping is strongest |
