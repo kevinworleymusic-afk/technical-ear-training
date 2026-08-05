@@ -1,7 +1,7 @@
 # Chapter 2 — Equalization
 
 **Software module:** TETpracticeEQ  
-**Current evidence:** [Session 1](../../logs/03-daily/2026-W31/2026-07-27_session-01.md), [Session 2](../../logs/03-daily/2026-W31/2026-07-30_session-02.md), the [August 2 baseline](../../logs/03-daily/2026-W31/2026-08-02_session-04.md), and the [progress dashboard](../../PROGRESS.md)
+**Current evidence:** [Session 1](../../logs/03-daily/2026-W31/2026-07-27_session-01.md), [Session 2](../../logs/03-daily/2026-W31/2026-07-30_session-02.md), the [August 2 baseline](../../logs/03-daily/2026-W31/2026-08-02_session-04.md), the [August 5 fine-resolution and music-transfer session](../../logs/03-daily/2026-W32/2026-08-05_fine-resolution-pink-noise-eq.md), and the [progress dashboard](../../PROGRESS.md)
 
 ## Training Focus
 
@@ -9,12 +9,13 @@ Develop recognition of frequency regions and audible changes produced by equaliz
 
 ## Progress Summary
 
-- **Documented work:** Sessions 1–3, 2026-07-27 through 2026-08-02
-- **Documented EQ trials:** At least 1,554
-- **EQ trials with recorded accuracy:** All 1,554 documented EQ trials
-- **Best recent exercise:** 98% on 45 single-boost +3 dB trials across 2–16 kHz at Q = 8
-- **Sessions completed:** 3
-- **Status:** Active — controlled boosts are strongest; 63 Hz at +6 dB, cuts, delayed retention, and transfer to music remain active
+- **Documented work:** Sessions 1–4, 2026-07-27 through 2026-08-05
+- **Documented EQ trials:** 3,170
+- **EQ trials with recorded accuracy:** All 3,170 documented EQ trials
+- **Best individual exercise:** 100% in the controlled +9 dB endpoint sets
+- **Largest focused block:** 1,000 pink-noise trials at +3 dB, Q = 2, with seven one-third-octave choices from 2–8 kHz; 87%
+- **Sessions completed:** 4
+- **Status:** Active — controlled boosts are strongest; fine-frequency retention, 63 Hz, cuts, and broader transfer to music remain active
 
 ## Scored Evidence
 
@@ -27,6 +28,20 @@ Develop recognition of frequency regions and audible changes produced by equaliz
 | +3 dB octave-band boost, pink noise | 51 | 82.4% | 83% | Continued practice |
 | -12 dB octave-band cut, pink noise | 50 | 82% | 82% | Continued practice |
 | -6 dB cut, 250 Hz–8 kHz, pink noise | 62 | 80% | 80% | Continued practice |
+
+## August 5 Fine-Resolution and Music-Transfer Evidence
+
+The August 5 session deliberately kept materially different stimuli, gains, Q values, and frequency-choice sets in separate blocks.
+
+| Condition | Trials | Result | Interpretation |
+|---|---:|---:|---|
+| Pink noise; one +6 dB boost; Q = 8; one-third-octave choices; 250 Hz–1 kHz | 320 | 92% | Fine-resolution controlled-source result |
+| “Fast Car”; one +12 dB boost; Q = 2; octave-spaced 2/4/8 kHz | 142 | 88% | First music-transfer baseline |
+| “Fast Car”; one +6 dB boost; Q = 2; octave-spaced 2/4/8 kHz | 154 | 89% | Accuracy remained stable after reducing gain |
+| Pink noise; one +3 dB boost; Q = 2; seven one-third-octave choices; 2–8 kHz | 1,000 | 87% | Large fine-resolution focused benchmark |
+| **All August 5 scored blocks** | **1,616** | **approximately 88.3% weighted** | Rounded software percentages; unlike conditions remain separate above |
+
+The two music blocks total 296 trials at approximately 88.5% weighted. An unscored +3 dB “Fast Car” check was not yet reliable, so the current practical music threshold is recorded between +3 and +6 dB for this specific song, Q, and frequency set. This is a training observation rather than a formal psychophysical threshold. Because the entire session contained 1,616 trials, fatigue, adaptation, and within-session learning remain limitations.
 
 ## August 3 Q = 8 Evidence
 
@@ -79,13 +94,18 @@ Repeated blocks belonging to the same broad exercise type are grouped here. The 
 - Q = 8 +3 dB identification was strongest from 1–16 kHz, while the 250 Hz–1 kHz block improved during the session.
 - Both 63 Hz and 16 kHz were identifiable at +9 dB. The 16 kHz boost later became audible at +6 and +3 dB; 63 Hz was not reliably audible at +6 dB in the brief check.
 - Recent stimulus history appeared to bias uncertain 1 kHz versus 16 kHz responses.
-- The unusually long session introduces fatigue as a possible confound.
-- The present evidence uses pink noise; transfer to music begins next and will be logged separately.
+- The unusually long August 2 and August 5 sessions introduce fatigue as a possible confound.
+- Pink-noise identification reached 92% across 320 one-third-octave trials from 250 Hz–1 kHz at +6 dB and Q = 8.
+- Pink-noise identification also reached 87% across 1,000 one-third-octave trials from 2–8 kHz at +3 dB and Q = 2.
+- The first “Fast Car” music-transfer blocks remained stable when gain fell from +12 to +6 dB, but +3 dB was not yet reliable under the same Q = 2, 2/4/8 kHz configuration.
+- Pink-noise and music results remain separate because music introduces changing spectra and masking.
 
 ## Next Work
 
-- Acquire one selected reference song, complete a short pink-noise EQ warmup, and then apply comparable EQ changes to the song as a separate transfer condition.
-- Rebuild the broad 250 Hz–8 kHz +3 dB condition progressively: divide it into smaller frequency groups, stabilize each group, and add one frequency at a time until the full range is restored.
+- Repeat a shorter fresh-session sample of the +3 dB, Q = 2, seven-choice 2–8 kHz pink-noise condition to test delayed retention.
+- Continue “Fast Car” transfer at +6 dB until a fresh-session result confirms stability; then change only gain or frequency-choice density at one time.
+- Test intermediate music gain only if a more precise threshold estimate is useful; do not call the current +3-to-+6 dB observation a formal threshold.
+- Continue rebuilding other broad +3 dB conditions progressively while keeping frequency sets, Q, and source explicit.
 - Continue building the low-frequency cue through 250 Hz, where +3 dB changes were detectable, then transfer that discrimination back toward 63 Hz after rest. Use +9 dB at 63 Hz as the established starting reference before reducing gain.
 - Reset counters whenever practical when the source, gain, range, Q, or number of simultaneous boosts changes. When a counter continues, preserve the cumulative displays so each segment can still be derived and counted.
 - Keep monitoring fixed at a comfortable level and use shorter sessions to reduce fatigue effects.
@@ -102,7 +122,8 @@ Repeated blocks belonging to the same broad exercise type are grouped here. The 
 - [2026-07-27 — Session 1: EQ, Distortion, Dynamics, and Reverb](../../logs/03-daily/2026-W31/2026-07-27_session-01.md)
 - [2026-07-30 — Session 2: Multi-Band EQ Boost Matching](../../logs/03-daily/2026-W31/2026-07-30_session-02.md)
 - [2026-08-02 — Session 3: Q = 8 Pink-Noise EQ Identification Baseline](../../logs/03-daily/2026-W31/2026-08-02_session-04.md)
+- [2026-08-05 — Session 4: One-Third-Octave Pink Noise and “Fast Car” Transfer](../../logs/03-daily/2026-W32/2026-08-05_fine-resolution-pink-noise-eq.md)
 
 ## Chapter Reflection
 
-The documented results establish a strong controlled-source foundation for EQ boost matching and identification. The August 2 work extends the evidence to narrow-band Q = 8 conditions and smaller +3 dB changes across much of the tested range, while showing that 63 Hz and fresh-session consistency still need development. Matching, memorized identification, and rapid identification remain explicitly separate competencies. The single-band rapid-identification primer is a new routine step, while the documented Session 2 achievement remains three-band direct matching. Continued work will test whether these cues remain stable across delayed sessions, program material, and playback systems before broader tonal-balance competence is claimed.
+The documented results establish a strong controlled-source foundation for EQ boost matching and identification. August 5 extends that evidence to one-third-octave choices at two Q values and adds the first scored music-transfer blocks. The stable +12-to-+6 dB “Fast Car” performance shows initial transfer, while the unreliable +3 dB check demonstrates that music remains harder than pink noise under the tested conditions. Matching, memorized identification, rapid identification, pink-noise discrimination, and music transfer remain explicitly separate competencies. Continued work will test delayed retention, broader program material, and playback-system translation before broader tonal-balance competence is claimed.
