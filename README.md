@@ -22,6 +22,8 @@ Review the [prior listening background](PRIOR_EXPERIENCE.md), [progress dashboar
 
 I began developing technical-listening skills through extensive independent SoundGym practice, producing a quantified public record with an SPI of 3,410,130 and SoundGym’s Diamond Ears Award. SoundGym calculates SPI from the three highest scores in each audio game, so the result supports performance across standardized frequency, dynamics, level, panning, and spatial-listening exercises rather than simply recording participation volume.
 
+**Current SoundGym game benchmarks reported August 5, 2026:** **Peak Master level 22** and **dB King level 37**. These are platform-specific game levels and remain separate from the scored Corey-software session and trial totals documented in this repository.
+
 I later used James Corey’s software-based listening tests for EQ, compression, and related technical-ear-training categories in an academic course. This repository continues that established course-based work through defined software chapters, documented comparison points, progress tracking, and technical reflection. It does not represent my first exposure to the program, and the SoundGym record is supporting evidence rather than an unsupported percentile claim.
 
 Review the [SoundGym profile](https://www.soundgym.co/member/profile?m=byy1s26wj7u), [SPI methodology](https://www.soundgym.co/help/item?id=how-is-spi-calculated), [training-software record](training-software/), [prior experience record](PRIOR_EXPERIENCE.md), [chapter curriculum](chapters/), and [progress dashboard](PROGRESS.md).
