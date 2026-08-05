@@ -1,4 +1,4 @@
-# Fine-Resolution Pink-Noise EQ Identification — August 5, 2026
+# Pink-Noise and Music EQ Identification — August 5, 2026
 
 [Week index](README.md) · [August calendar](../../01-monthly/2026-08.md) · [Cumulative results](../../../LISTENING_RESULTS_SUMMARY.md)
 
@@ -27,6 +27,21 @@ The software-reported percentage corresponds to approximately 294 correct trials
 
 Maintaining 92% accuracy across 320 trials under one-third-octave spacing demonstrates sustained identification at a finer frequency resolution than the earlier octave-spaced exercises. This result applies specifically to pink noise, a +6 dB boost, Q = 8, the 250 Hz–1 kHz range, and the software's scoring method. It should not be treated as directly interchangeable with results using broader frequency spacing, different gains, music, or multiple simultaneous boosts.
 
+## Music-Transfer Block — “Fast Car”
+
+| Setting | Result |
+|---|---|
+| Stimulus | “Fast Car” — Tracy Chapman |
+| Frequency choices | 2, 4, and 8 kHz |
+| Frequency spacing | One octave |
+| EQ change | One boost |
+| Gain | +12 dB |
+| Q | 2 |
+| Trials | 142 |
+| Accuracy | 88% |
+
+This block intentionally began with broader Q = 2 filtering, a larger +12 dB boost, and three octave-spaced choices to establish audible musical cues before reducing the boost or adding intermediate frequency choices. The software-reported percentage corresponds to approximately 125 correct trials if the displayed 88% was rounded; the exact correct-response count was not recorded separately.
+
 ## Next Step
 
-Repeat the same condition in a later session to test retention, or reduce one variable at a time—such as boost magnitude—while preserving the one-third-octave spacing.
+For pink noise, repeat the one-third-octave condition later to test retention or reduce the boost magnitude while preserving its frequency spacing. For music, reduce the “Fast Car” boost from +12 to +6 dB while keeping Q = 2 and the 2/4/8 kHz choices; add intermediate one-third-octave choices only after that simpler condition is stable.
