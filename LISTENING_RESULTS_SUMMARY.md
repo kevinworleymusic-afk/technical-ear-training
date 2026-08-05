@@ -1,6 +1,6 @@
 # Critical-Listening Results Summary
 
-**Current through August 2, 2026**
+**Current through August 5, 2026**
 
 This page is the concise evidence summary for my continued technical ear-training work. It presents the cumulative data without replacing the detailed session logs, where the settings, sequence, observations, errors, and limitations are preserved.
 
@@ -8,16 +8,26 @@ This page is the concise evidence summary for my continued technical ear-trainin
 
 | Measure | Current record |
 |---|---:|
-| Completed documented sessions | 3 |
-| All documented trials | At least 1,875 |
-| Equalization trials | 1,554 |
+| Completed documented sessions | 4 |
+| All documented trials | At least 2,195 |
+| Equalization trials | 1,874 |
 | Hard-clipping trials | Approximately 301 |
 | Bit-depth-reduction trials | 20 |
-| Latest session | August 2, 2026 |
-| Latest-session trials | 1,142 |
-| Latest-session weighted result | Approximately 88.8% |
+| Latest session | August 5, 2026 |
+| Latest-session trials | 320 |
+| Latest-session weighted result | 92% |
 
-All 1,875 documented trials have an accuracy result. The total remains “at least” because one earlier hard-clipping exercise was recorded as approximately 100 trials.
+All 2,195 documented trials have an accuracy result. The total remains “at least” because one earlier hard-clipping exercise was recorded as approximately 100 trials.
+
+## August 5 Fine-Resolution EQ Session
+
+The session used pink noise with one +6 dB boost, Q = 8, and one-third-octave frequency spacing across 250 Hz–1 kHz.
+
+| Exercise condition | Trials | Accuracy |
+|---|---:|---:|
+| One boost, +6 dB, Q = 8, one-third-octave spacing, 250 Hz–1 kHz | 320 | 92% |
+
+This is the first documented one-third-octave-spacing result in the current training cycle. The displayed score corresponds to approximately 294 correct trials if the percentage was rounded; the exact correct-response count was not recorded separately.
 
 ## Development Areas and Improvement Evidence
 
@@ -108,6 +118,7 @@ The 74% and 77% results are retained as part of the evidence rather than omitted
 ## What the Evidence Shows
 
 - Controlled pink-noise EQ boost identification is currently the strongest area.
+- On August 5, one-third-octave frequency spacing across 250 Hz–1 kHz produced 92% accuracy over 320 trials at +6 dB and Q = 8.
 - The August 2 session demonstrated +3 dB identification across several Q = 8 frequency sets and both two- and three-boost work.
 - Low-mid +3 dB performance improved from 64% over 23 trials to 85% over 35 trials after +6 dB reinforcement.
 - The listener distinguished 8 kHz from 16 kHz during focused upper-range practice.
@@ -120,10 +131,11 @@ These results apply only to the documented software, source material, settings, 
 
 ## Next Step
 
-Acquire one selected reference song, complete a short pink-noise EQ warmup, and perform separately logged EQ-identification work using the song. Pink-noise and music results will remain separate so transfer can be evaluated honestly.
+Complete the planned song-based EQ exercise so transfer from pink noise can be evaluated separately. In a later session, repeat the August 5 one-third-octave condition to test retention or reduce the boost magnitude while preserving the finer frequency spacing.
 
 ## Supporting Evidence
 
+- [August 5 fine-resolution EQ session](logs/03-daily/2026-W32/2026-08-05_fine-resolution-pink-noise-eq.md)
 - [Cumulative progress dashboard](PROGRESS.md)
 - [August 2 complete session log](logs/03-daily/2026-W31/2026-08-02_session-04.md)
 - [Equalization chapter](chapters/chapter-02-equalization/)
