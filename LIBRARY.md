@@ -69,6 +69,16 @@ Topics:
 - Bass integration
 - Evaluation of tuning changes
 
+## Received Professional-Learning Materials
+
+### Sean Olive Keynote Slides and Supporting Information
+
+- **Received:** August 3, 2026, by private email from Sean Olive
+- **Use:** Independent study relevant to automotive-audio research, critical listening, and audio-system evaluation
+- **Public availability:** Not republished in this repository
+- **Evidence boundary:** Receipt and study do not imply conference attendance, presentation, contribution, collaboration, authorship, endorsement, or a scored listening result
+- **Study record:** [August 3 professional-learning log](logs/03-daily/2026-W32/2026-08-03_sean-olive-keynote-study.md)
+
 ## Reference Entry Template
 
 ### Resource or Track Title
