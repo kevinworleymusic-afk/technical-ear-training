@@ -6,7 +6,19 @@
 
 ## Objective
 
-Increase frequency-identification resolution by moving from octave-spaced choices to one-third-octave frequency spacing while retaining the narrow Q = 8 boost used in the preceding work.
+Increase controlled-source frequency-identification resolution with one-third-octave choices, begin transferring established EQ cues from pink noise to music, and preserve materially different source, gain, Q, and frequency-choice conditions as separate scored blocks.
+
+## Session Summary
+
+| Measure | August 5 record |
+|---|---:|
+| Completed scored blocks | 4 |
+| Total trials | 1,616 |
+| Trial-weighted result | Approximately 88.3% |
+| Pink-noise trials | 1,320 |
+| Music-transfer trials | 296 |
+
+All 1,616 trials have a software-reported accuracy result. Percentages were displayed as rounded values, so the weighted total is approximate. The session is classified as a focused Chapter 2 EQ benchmark rather than the full standardized Chapters 2–6 weekly diagnostic.
 
 ## Session Record
 
