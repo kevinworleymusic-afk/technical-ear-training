@@ -1,6 +1,6 @@
 # Technical Ear Training Roadmap
 
-**Current documented continuation phase:** At least 1,875 trials across three sessions, with recorded accuracy for all 1,875 trials. The August 2 session added Q = 8 single- and multiple-boost identification baselines, including 98% across 45 single-boost +3 dB trials over 2–16 kHz, 93% across 105 fresh 1–16 kHz trials, 95% across 71 broad-range three-boost +6 dB trials and 89% across 101 Q = 8 three-boost +6 dB trials.
+**Current documented continuation phase:** At least 3,491 trials across four completed sessions, with recorded accuracy for all 3,491 trials. The August 5 session added 1,616 EQ trials: 92% across 320 fine-resolution Q = 8 pink-noise trials, 87% across 1,000 +3 dB Q = 2 pink-noise trials using seven one-third-octave choices from 2–8 kHz, and the first 296 scored music-transfer trials using “Fast Car.”
 
 The long-term objective is working competence across every available chapter. Normal practice days begin with the 12–14 minute [adaptive daily warmup](../templates/03-daily/DAILY_WARMUP_PROGRESSION.md), which reinforces established EQ and distortion cues while rotating two developing categories. Focused sessions push developing areas forward, and the 30–45 minute [weekly full-chapter diagnostic](../templates/02-weekly/WEEKLY_DIAGNOSTIC_CIRCUIT.md) determines which skills need more work and which are ready to enter the established warmup. Trial counts are outputs from each time window rather than quotas; unfamiliar chapters begin with reference listening before scored questions.
 
@@ -64,7 +64,12 @@ Reduce the size of changes and track whether confidence matches accuracy.
 - The 250/500/1 kHz +3 dB result improved from 64% to 85% after +6 dB reinforcement.
 - Multiple-boost work totaled 222 trials: two simultaneous +3 dB boosts reached 85% across 50 trials; three simultaneous +6 dB boosts reached 95% across 71 broad-range one-octave trials and 89% across 101 Q = 8 trials.
 - 63 Hz was identified at +9 dB but not reliably at +6 dB during the brief check.
-- Next step: shorter retention checks and separate transfer work using one selected song.
+- Next step: shorter fresh-session retention checks and continued music transfer with only one difficulty variable changed at a time.
+
+**Session 4 (2026-08-05)**
+- Pink noise, +6 dB, Q = 8, one-third-octave choices from 250 Hz–1 kHz: 92% across 320 trials.
+- Pink noise, +3 dB, Q = 2, seven one-third-octave choices from 2–8 kHz: 87% across 1,000 trials.
+- The unusually long 1,616-trial workload is retained with fatigue, adaptation, and within-session learning noted as possible influences.
 
 ## Stage 3 — Complex Program Material
 
@@ -80,7 +85,12 @@ Apply isolated skills to real music and speech.
 
 ### Session Progress
 
-No Stage 3 exercises are completed yet. The first song-based EQ transfer session is planned for August 4 after a short pink-noise warmup; music results will remain separate from the controlled pink-noise baseline.
+**Session 4 (2026-08-05)**
+- Completed the first scored Stage 3 music-transfer work using “Fast Car” by Tracy Chapman.
+- One +12 dB boost, Q = 2, octave-spaced 2/4/8 kHz choices: 88% across 142 trials.
+- One +6 dB boost under the same condition: 89% across 154 trials.
+- An unscored +3 dB check was not yet reliable, placing the current practical music threshold between +3 and +6 dB without claiming a formal psychophysical threshold.
+- Music and pink-noise results remain separate because the changing musical spectrum creates a different identification task.
 
 ## Stage 4 — Measurement Correlation
 
