@@ -36,6 +36,7 @@ Keep Sunday as the regular diagnostic day. Begin with the assigned reference-tra
 
 ## Current Week Record
 
+- **Monday, August 3 — professional learning:** Studied privately emailed keynote slides and supporting information from Sean Olive. This was not a scored listening session and does not change trial totals. [Review the study record](../03-daily/2026-W32/2026-08-03_sean-olive-keynote-study.md).
 - **Prior-cycle carryover — Sunday, August 2:** The procedure setup developed into an extended 1,142-trial pink-noise EQ session, completed shortly after midnight but attributed to Sunday’s planned work period. [Review the consolidated session record](../03-daily/2026-W31/2026-08-02_session-04.md).
 - **Tuesday, August 4 — rescheduled:** The planned pink-noise warmup and song-based EQ block moved to August 5.
 - **Wednesday, August 5 — completed focused EQ benchmark:** Completed 1,616 trials. Pink-noise results were 92% across 320 trials at +6 dB, Q = 8, with one-third-octave choices from 250 Hz–1 kHz, and 87% across 1,000 trials at +3 dB, Q = 2, with seven one-third-octave choices from 2–8 kHz. Using “Fast Car,” octave-spaced 2/4/8 kHz music-transfer blocks scored 88% across 142 trials at +12 dB and 89% across 154 trials at +6 dB; an unscored check placed the current practical music threshold between +3 and +6 dB. [Review the session record](../03-daily/2026-W32/2026-08-05_fine-resolution-pink-noise-eq.md).
