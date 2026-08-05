@@ -70,7 +70,7 @@ A subsequent unscored check indicated that +3 dB was not yet reliably identifiab
 | Frequency range | 2–8 kHz |
 | Frequency spacing | One-third octave |
 | EQ change | One boost |
-| Gain | +6 dB |
+| Gain | +3 dB |
 | Q | 2 |
 | Trials | 1,000 |
 | Accuracy | 87% |
