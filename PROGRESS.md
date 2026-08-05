@@ -14,6 +14,17 @@ This dashboard summarizes cumulative measurable progress through the available s
 | 5 | Distortion | 47–86% across scored criteria and samples | 88% | 1 | ◐ Sine-wave hard-clipping matching is close to checkoff; other distortion skills need more work |
 | 6 | Editing | — | — | 0 | No scored work logged |
 
+## SoundGym Platform Benchmarks
+
+**Current as reported August 5, 2026**
+
+| SoundGym game | Current level |
+|---|---:|
+| Peak Master | 22 |
+| dB King | 37 |
+
+These are current SoundGym game levels, not Corey-software trial counts or accuracy percentages. They supplement the public SPI and Diamond Ears record while remaining separate from the continuation-phase totals below.
+
 ## Practice Totals
 
 - **Total completed sessions:** 4
