@@ -59,6 +59,24 @@ The same “Fast Car” condition was repeated after lowering only the boost mag
 
 Accuracy remained stable—and increased slightly within the software's rounded display—after the boost was reduced from +12 to +6 dB. Across both music blocks, 296 trials produced an approximately 88.5% trial-weighted result.
 
+A subsequent unscored check indicated that +3 dB was not yet reliably identifiable under this “Fast Car” configuration. The current working threshold is therefore recorded as lying between +3 and +6 dB. This is a practical training observation, not a formally measured psychophysical threshold.
+
+## Broad-Range One-Third-Octave Pink-Noise Block
+
+| Setting | Result |
+|---|---|
+| Stimulus | Pink noise |
+| Frequency choices | 2, 2.5, 3.15, 4, 5, 6.3, and 8 kHz |
+| Frequency range | 2–8 kHz |
+| Frequency spacing | One-third octave |
+| EQ change | One boost |
+| Gain | +6 dB |
+| Q | 2 |
+| Trials | 1,000 |
+| Accuracy | 87% |
+
+With seven possible bands, chance performance would be approximately 14.3%. The 1,000-trial duration provides substantial repeated evidence under this exact condition, but fatigue, adaptation, and within-session learning may have influenced the result and should be considered when comparing it with shorter or fresh-session blocks.
+
 ## Next Step
 
-For pink noise, repeat the one-third-octave condition later to test retention or reduce the boost magnitude while preserving its frequency spacing. For music, either reduce the “Fast Car” boost from +6 to +3 dB while retaining Q = 2 and the 2/4/8 kHz choices, or keep +6 dB and add intermediate frequency choices. Change only one of those variables at a time.
+Stop difficulty progression for this session. Repeat a shorter sample of the same seven-choice pink-noise condition after rest to evaluate retention without the influence of the unusually long August 5 workload. For music, retain the +6 dB, Q = 2, 2/4/8 kHz condition until a fresh-session result confirms stability before testing intermediate gains or additional bands.
