@@ -69,6 +69,20 @@ Topics:
 - Bass integration
 - Evaluation of tuning changes
 
+## Local Reference-Track Access
+
+**Completed August 5, 2026:** Downloaded the full seven-track weekly rotation for local critical-listening practice:
+
+- *How Long* — Bill Cantos
+- *Clap Hands* — George Krikes
+- *Four Wheel Drive* — Paul Thorn
+- *Fiesta Linda* — Open Hands featuring Abraham Laboriel
+- *Fast Car* — Tracy Chapman
+- *Morph the Cat* — Donald Fagen
+- *Bird on a Wire* — Jennifer Warnes
+
+The copyrighted audio files remain private and are not stored in this repository. This entry records local access only, not ownership of rights, publication, analysis completion, or endorsement by the artists or Harman.
+
 ## Received Professional-Learning Materials
 
 ### Sean Olive Keynote Slides and Supporting Information
