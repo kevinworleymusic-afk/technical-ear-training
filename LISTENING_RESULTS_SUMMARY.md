@@ -19,6 +19,16 @@ This page is the concise evidence summary for my continued technical ear-trainin
 
 All 3,491 documented trials have an accuracy result. The total remains “at least” because one earlier hard-clipping exercise was recorded as approximately 100 trials.
 
+## External SoundGym Benchmarks
+
+| SoundGym evidence | Current record |
+|---|---:|
+| SPI | 3,410,130 |
+| Peak Master | Level 22 |
+| dB King | Level 37 |
+
+The two game levels were reported August 5, 2026. SoundGym levels and SPI are platform-specific supporting evidence; they are not included in the documented session, trial, or accuracy totals above.
+
 ## August 5 Pink-Noise and Music EQ Session
 
 The session used pink noise with one +6 dB boost, Q = 8, and one-third-octave frequency spacing across 250 Hz–1 kHz.
