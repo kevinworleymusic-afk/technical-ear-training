@@ -42,7 +42,7 @@ The session concluded with a broad-range one-third-octave pink-noise block:
 
 | Pink-noise exercise condition | Trials | Accuracy |
 |---|---:|---:|
-| One boost, +6 dB, Q = 2, one-third-octave spacing, 2–8 kHz | 1,000 | 87% |
+| One boost, +3 dB, Q = 2, one-third-octave spacing, 2–8 kHz | 1,000 | 87% |
 
 Across all four August 5 blocks, 1,616 trials produced an approximately 88.3% trial-weighted result, based on the rounded software percentages. The unusually long workload provides substantial repeated evidence but also increases the possible influence of fatigue, adaptation, and within-session learning.
 
@@ -137,7 +137,7 @@ The 74% and 77% results are retained as part of the evidence rather than omitted
 - Controlled pink-noise EQ boost identification is currently the strongest area.
 - On August 5, one-third-octave frequency spacing across 250 Hz–1 kHz produced 92% accuracy over 320 trials at +6 dB and Q = 8.
 - The “Fast Car” transfer exercise produced 88% over 142 trials at +12 dB and 89% over 154 trials at +6 dB, both using Q = 2 and octave-spaced 2/4/8 kHz choices.
-- A 1,000-trial pink-noise block using seven one-third-octave choices from 2–8 kHz produced 87% accuracy at +6 dB and Q = 2.
+- A 1,000-trial pink-noise block using seven one-third-octave choices from 2–8 kHz produced 87% accuracy at +3 dB and Q = 2.
 - The August 2 session demonstrated +3 dB identification across several Q = 8 frequency sets and both two- and three-boost work.
 - Low-mid +3 dB performance improved from 64% over 23 trials to 85% over 35 trials after +6 dB reinforcement.
 - The listener distinguished 8 kHz from 16 kHz during focused upper-range practice.
