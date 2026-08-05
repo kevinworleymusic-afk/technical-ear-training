@@ -1,6 +1,6 @@
 # Exercise Library
 
-This section connects the reusable listening exercises with the work actually completed so far. Detailed chronology and observations remain in [Session 1](../logs/03-daily/2026-W31/2026-07-27_session-01.md), [Session 2](../logs/03-daily/2026-W31/2026-07-30_session-02.md), and the [August 2 session](../logs/03-daily/2026-W31/2026-08-02_session-04.md), while cumulative results are maintained in the [progress dashboard](../PROGRESS.md).
+This section connects the reusable listening exercises with the work actually completed so far. Detailed chronology and observations remain in [Session 1](../logs/03-daily/2026-W31/2026-07-27_session-01.md), [Session 2](../logs/03-daily/2026-W31/2026-07-30_session-02.md), the [August 2 session](../logs/03-daily/2026-W31/2026-08-02_session-04.md), and the [August 5 session](../logs/03-daily/2026-W32/2026-08-05_fine-resolution-pink-noise-eq.md), while cumulative results are maintained in the [progress dashboard](../PROGRESS.md).
 
 ## Cumulative Exercise Evidence
 
@@ -18,6 +18,10 @@ Each comparable exercise condition appears once. Repeated blocks are combined in
 | Single-band EQ identification | Pink noise | +9 dB; Q 8; endpoint sets 63/125/250 Hz and 4/8/16 kHz | approximately 30 | 100% in each set | Controlled baseline |
 | Single-band EQ identification | Pink noise | +6 dB; Q 8; 4/8/16 kHz | 53 | 90% | Completed |
 | Single-band EQ identification | Pink noise | +6 dB; Q 8; 250/500/1 kHz | 124 | approximately 85.7% weighted | 20 warmup at 100%; 104 rapid-fire at 83% |
+| Single-band EQ identification | Pink noise | +6 dB; Q 8; one-third-octave choices; 250 Hz–1 kHz | 320 | 92% | Fine-resolution controlled-source benchmark |
+| Single-band EQ identification | Pink noise | +3 dB; Q 2; seven one-third-octave choices; 2–8 kHz | 1,000 | 87% | Large focused benchmark; fresh retention pending |
+| Single-band EQ identification | “Fast Car” | +12 dB; Q 2; octave-spaced 2/4/8 kHz | 142 | 88% | First music-transfer baseline |
+| Single-band EQ identification | “Fast Car” | +6 dB; Q 2; octave-spaced 2/4/8 kHz | 154 | 89% | Stable reduced-gain transfer; +3 dB not yet reliable |
 | Single-band EQ identification | Pink noise | +3 dB; Q 8; 250 Hz–8 kHz | 40 | 74% | Broad-range baseline retained |
 | Single-band EQ identification | Pink noise | +3 dB; Q 8; 250/500/1 kHz | 58 | 76.7% weighted | Best block 85% |
 | Single-band EQ identification | Pink noise | +6 dB; Q 8; 500/1k/2 kHz | 100 | 98% | Criterion met |
@@ -32,6 +36,20 @@ Each comparable exercise condition appears once. Repeated blocks are combined in
 | Hard-clipping matching | Pink noise | Clipping-severity settings | 100 | 72% | Continued practice |
 | Hard-clipping matching | Sine wave | Five clipping-severity settings | approximately 201 | approximately 86% | Best block 88% |
 | Bit-depth-reduction matching | Pink noise | Bit-depth settings | 20 | 47% | Early baseline; paused |
+
+## August 5 Grouped Cumulative Result
+
+The day’s **1,616 EQ trials produced an approximately 88.3% trial-weighted result** from the rounded software percentages. Different source, gain, Q, and frequency-choice conditions remain separate in the cumulative table.
+
+| Exercise block | Trials | Result |
+|---|---:|---:|
+| Pink noise; +6 dB; Q = 8; one-third-octave choices; 250 Hz–1 kHz | 320 | 92% |
+| “Fast Car”; +12 dB; Q = 2; octave-spaced 2/4/8 kHz | 142 | 88% |
+| “Fast Car”; +6 dB; Q = 2; octave-spaced 2/4/8 kHz | 154 | 89% |
+| Pink noise; +3 dB; Q = 2; seven one-third-octave choices; 2–8 kHz | 1,000 | 87% |
+| **All August 5 scored blocks** | **1,616** | **approximately 88.3% weighted** |
+
+The two music blocks total 296 trials at approximately 88.5% weighted. An unscored +3 dB music check was not yet reliable, placing the present practical training threshold between +3 and +6 dB for this specific configuration. The unusually long session is retained with fatigue, adaptation, and within-session learning listed as possible influences.
 
 ## August 2 Grouped Cumulative Result
 
@@ -67,12 +85,12 @@ A software trial is one question, even when that question contains two or three 
 
 | Exercise area | Documented trials |
 |---|---:|
-| Equalization | 1,554 |
+| Equalization | 3,170 |
 | Hard clipping | approximately 301 |
 | Bit-depth reduction | 20 |
-| **All documented repetitions** | **at least 1,875** |
+| **All documented repetitions** | **at least 3,491** |
 
-All 1,875 documented trials now have recorded accuracy results. The 53 high-frequency +6 dB EQ trials scored 90%, and the 20-trial low-mid +6 dB warmup scored 100% and the following 104 rapid-fire trials scored 83%, producing approximately 85.7% weighted accuracy across all 124 trials.
+All 3,491 documented trials have recorded accuracy results. The August 5 work adds 1,616 scored EQ trials, including 1,320 one-third-octave pink-noise trials and 296 music-transfer trials. Rounded software percentages are retained as approximate where exact correct-answer counts were not separately recorded.
 
 The 78-trial 500 Hz–2 kHz +3 dB exercise is valid completed work. Its approximately 86–87% result is derived from the rounded cumulative display after the preceding 100-trial +6 dB segment; the rounding affects only the precision of the percentage, not whether the repetitions count.
 
@@ -95,12 +113,15 @@ Mid/Side listening, expansion, and editing have not yet been exercised in the do
 - The 88% clipping result after an approximately two-hour break suggests short-term retention of the developed cues.
 - Bit-depth reduction did not yet produce a reliable listening strategy.
 - Compression and reverberation need exploratory parameter listening before quiz-style repetition is likely to be useful.
+- One-third-octave pink-noise identification is now documented at 92% across 320 trials from 250 Hz–1 kHz and 87% across 1,000 trials from 2–8 kHz under their separately recorded settings.
+- “Fast Car” music transfer remained stable from +12 dB to +6 dB, but +3 dB was not yet reliable under the tested Q = 2, 2/4/8 kHz condition.
 
 ## Immediate Exercise Queue
 
-1. Acquire one selected reference song, complete a short pink-noise EQ warmup, and then perform comparable song-based EQ work as a separately documented transfer condition.
-2. Retest 63 Hz after rest and confirm the +6 dB threshold before reducing gain.
-3. Repeat shorter Q = 8 +3 dB blocks to test retention without the fatigue of the August 2 session.
+1. Repeat a shorter fresh-session sample of the +3 dB, Q = 2, seven-choice 2–8 kHz pink-noise condition to test delayed retention.
+2. Continue “Fast Car” at +6 dB, Q = 2, and 2/4/8 kHz until a fresh-session result confirms stability; then change only gain or frequency-choice density at one time.
+3. Retest 63 Hz after rest and confirm the +6 dB threshold before reducing gain.
+4. Repeat shorter Q = 8 +3 dB blocks to test retention without the fatigue of the August 2 and August 5 sessions.
 4. Repeat sine-wave hard-clipping matching and use 90% as the current working checkoff threshold.
 5. Continue -6 dB EQ-cut matching.
 6. Revisit +3 dB EQ boosts after a delay.
