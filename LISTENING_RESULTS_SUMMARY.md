@@ -9,15 +9,15 @@ This page is the concise evidence summary for my continued technical ear-trainin
 | Measure | Current record |
 |---|---:|
 | Completed documented sessions | 4 |
-| All documented trials | At least 2,491 |
-| Equalization trials | 2,170 |
+| All documented trials | At least 3,491 |
+| Equalization trials | 3,170 |
 | Hard-clipping trials | Approximately 301 |
 | Bit-depth-reduction trials | 20 |
 | Latest session | August 5, 2026 |
-| Latest-session trials | 616 |
-| Latest-session weighted result | Approximately 90.3% |
+| Latest-session trials | 1,616 |
+| Latest-session weighted result | Approximately 88.3% |
 
-All 2,491 documented trials have an accuracy result. The total remains “at least” because one earlier hard-clipping exercise was recorded as approximately 100 trials.
+All 3,491 documented trials have an accuracy result. The total remains “at least” because one earlier hard-clipping exercise was recorded as approximately 100 trials.
 
 ## August 5 Pink-Noise and Music EQ Session
 
@@ -36,7 +36,15 @@ The session then began transferring EQ identification to “Fast Car” by Tracy
 | “Fast Car,” one boost, +12 dB, Q = 2, 2/4/8 kHz | 142 | 88% |
 | “Fast Car,” one boost, +6 dB, Q = 2, 2/4/8 kHz | 154 | 89% |
 
-Across all three August 5 blocks, 616 trials produced an approximately 90.3% trial-weighted result, based on the rounded software percentages. Across the two music blocks alone, 296 trials produced an approximately 88.5% trial-weighted result; accuracy remained stable after the boost was reduced from +12 to +6 dB.
+Across the two music blocks, 296 trials produced an approximately 88.5% trial-weighted result; accuracy remained stable after the boost was reduced from +12 to +6 dB. An unscored follow-up suggested that +3 dB was not yet reliably identifiable under the same music configuration, placing the current practical training threshold between +3 and +6 dB without claiming a formally measured psychophysical threshold.
+
+The session concluded with a broad-range one-third-octave pink-noise block:
+
+| Pink-noise exercise condition | Trials | Accuracy |
+|---|---:|---:|
+| One boost, +6 dB, Q = 2, one-third-octave spacing, 2–8 kHz | 1,000 | 87% |
+
+Across all four August 5 blocks, 1,616 trials produced an approximately 88.3% trial-weighted result, based on the rounded software percentages. The unusually long workload provides substantial repeated evidence but also increases the possible influence of fatigue, adaptation, and within-session learning.
 
 ## Development Areas and Improvement Evidence
 
@@ -129,6 +137,7 @@ The 74% and 77% results are retained as part of the evidence rather than omitted
 - Controlled pink-noise EQ boost identification is currently the strongest area.
 - On August 5, one-third-octave frequency spacing across 250 Hz–1 kHz produced 92% accuracy over 320 trials at +6 dB and Q = 8.
 - The “Fast Car” transfer exercise produced 88% over 142 trials at +12 dB and 89% over 154 trials at +6 dB, both using Q = 2 and octave-spaced 2/4/8 kHz choices.
+- A 1,000-trial pink-noise block using seven one-third-octave choices from 2–8 kHz produced 87% accuracy at +6 dB and Q = 2.
 - The August 2 session demonstrated +3 dB identification across several Q = 8 frequency sets and both two- and three-boost work.
 - Low-mid +3 dB performance improved from 64% over 23 trials to 85% over 35 trials after +6 dB reinforcement.
 - The listener distinguished 8 kHz from 16 kHz during focused upper-range practice.
@@ -141,7 +150,7 @@ These results apply only to the documented software, source material, settings, 
 
 ## Next Step
 
-Continue the “Fast Car” transfer exercise by either reducing the boost from +6 to +3 dB while retaining Q = 2 and the octave-spaced 2/4/8 kHz choices, or keeping +6 dB and adding intermediate frequency choices. Change only one variable at a time. Repeat the August 5 pink-noise condition in a later session to test retention.
+After rest, repeat a shorter sample of the seven-choice, 2–8 kHz pink-noise condition to test retention without the unusually long August 5 workload. For music, retain the +6 dB, Q = 2, 2/4/8 kHz condition until a fresh-session result confirms stability before testing intermediate gains or additional bands.
 
 ## Supporting Evidence
 
