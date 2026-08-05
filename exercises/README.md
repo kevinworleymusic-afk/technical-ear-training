@@ -122,13 +122,13 @@ Mid/Side listening, expansion, and editing have not yet been exercised in the do
 2. Continue “Fast Car” at +6 dB, Q = 2, and 2/4/8 kHz until a fresh-session result confirms stability; then change only gain or frequency-choice density at one time.
 3. Retest 63 Hz after rest and confirm the +6 dB threshold before reducing gain.
 4. Repeat shorter Q = 8 +3 dB blocks to test retention without the fatigue of the August 2 and August 5 sessions.
-4. Repeat sine-wave hard-clipping matching and use 90% as the current working checkoff threshold.
-5. Continue -6 dB EQ-cut matching.
-6. Revisit +3 dB EQ boosts after a delay.
-7. Explore bit-depth-reduction parameters directly before another scored exercise.
-8. Explore compression and reverberation parameters directly, one variable at a time.
-9. Begin separate baselines for Mid/Side listening, expansion, and editing.
-10. Repeat established exercises with music, speech, instruments, and environmental sounds after the planned sample library is assembled.
+5. Repeat sine-wave hard-clipping matching and use 90% as the current working checkoff threshold.
+6. Continue -6 dB EQ-cut matching.
+7. Revisit +3 dB EQ boosts after a delay.
+8. Explore bit-depth-reduction parameters directly before another scored exercise.
+9. Explore compression and reverberation parameters directly, one variable at a time.
+10. Begin separate baselines for Mid/Side listening, expansion, and editing.
+11. Repeat established exercises with music, speech, instruments, and environmental sounds after the planned sample library is assembled.
 
 ## Reusable Controlled Exercises
 
