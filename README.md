@@ -28,9 +28,9 @@ Review the [SoundGym profile](https://www.soundgym.co/member/profile?m=byy1s26wj
 
 ## Training Progress
 
-This repository documents measurable development toward working competence across equalization, Mid/Side listening, reverberation, compression, expansion, distortion, and editing. The current continuation phase contains at least 1,875 documented trials across three sessions, with recorded accuracy for all 1,875 trials. On August 3, 1,142+ pink-noise EQ trials at Q = 8 established new single- and multiple-boost baselines: 98% across 45 single-boost +3 dB trials over 2–16 kHz, 93% across 105 fresh 1–16 kHz trials, 95% across 71 broad-range three-boost +6 dB trials, and 89% across 101 Q = 8 three-boost +6 dB trials. Daily warmups, focused sessions, and weekly diagnostics remain separate from the detailed evidence log.
+This repository documents measurable development toward working competence across equalization, Mid/Side listening, reverberation, compression, expansion, distortion, and editing. The current continuation phase contains at least 3,491 documented trials across four completed sessions, with recorded accuracy for all 3,491 trials. On August 5, 1,616 EQ trials produced an approximately 88.3% trial-weighted result: 92% across 320 Q = 8 pink-noise trials using one-third-octave choices from 250 Hz–1 kHz; 88% and 89% across 296 total “Fast Car” music-transfer trials at +12 and +6 dB; and 87% across 1,000 pink-noise trials at +3 dB, Q = 2, using seven one-third-octave choices from 2–8 kHz. Daily sessions, focused benchmarks, and full weekly diagnostics remain separately labeled.
 
-Review the [cumulative progress dashboard](PROGRESS.md), [chapter-level evidence](chapters/), [exercise library](exercises/), [latest completed session](logs/03-daily/2026-W31/2026-08-02_session-04.md), and [dated session logs](logs/).
+Review the [cumulative progress dashboard](PROGRESS.md), [chapter-level evidence](chapters/), [exercise library](exercises/), [latest completed session](logs/03-daily/2026-W32/2026-08-05_fine-resolution-pink-noise-eq.md), and [dated session logs](logs/).
 
 ## Training Software
 
@@ -97,6 +97,6 @@ Review the [prior experience record](PRIOR_EXPERIENCE.md), [chapter evidence](ch
 
 ## Status
 
-The chapter framework is active across three documented sessions. The next progression is a short pink-noise EQ warmup followed by separately documented EQ transfer work using one selected reference song; today’s unusually long baseline will also be checked later in shorter, fresh sessions.
+The chapter framework is active across four documented sessions. Controlled pink-noise identification has advanced to one-third-octave frequency choices, and the first separately documented music-transfer blocks are complete. The next progression is a shorter fresh-session retention check of the seven-choice pink-noise condition, followed by carefully staged music work that changes only gain or frequency-choice density at one time.
 
 Review the [available software](training-software/), [chapter framework](chapters/), [current progress](PROGRESS.md), and [immediate exercise queue](exercises/).
