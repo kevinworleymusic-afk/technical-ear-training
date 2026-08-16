@@ -1,6 +1,6 @@
-# Technical Ear Training
+# Technical Ear Training — Objective Listening Practice
 
-A structured, documented practice system for developing critical-listening skills in audio engineering and system evaluation, with longer-term application to automotive audio.
+A structured, documented **objective listening practice** system for developing critical-listening skills through identification and matching tasks with defined correct answers, with longer-term application to audio engineering, system evaluation, and automotive audio. It is distinct from the separate [Subjective Listening Evaluation System](https://github.com/kevinworleymusic-afk/engineering-development-portfolio/tree/main/Projects/Technical-Audio-and-Research/Subjective-Listening-Evaluation-System), which records ratings, descriptors, and evidence about perceived sound quality.
 
 ## Results Summary
 
@@ -77,7 +77,7 @@ The [calendar view](calendar/) sits above this hierarchy for month selection and
 - [logs/](logs/) — dated results and progress evidence
 - [LIBRARY.md](LIBRARY.md) — technical listening concepts and references
 
-## Practice Method
+## Objective Listening Practice Method
 
 - Create each dated session log from the [session template](templates/03-daily/SESSION_LOG.md), review the [daily warmup progression](templates/03-daily/DAILY_WARMUP_PROGRESSION.md), and assign an exact 12-, 13-, or 14-minute timetable before practice.
 - Prepare the required software before starting the timer; complete as many careful trials as possible within each warmup block and exclude documented software/setup interruptions from practice time.
@@ -93,7 +93,7 @@ Review the [monthly lesson calendar](templates/01-monthly/MONTHLY_LESSON_CALENDA
 
 ## Portfolio Relevance
 
-The combination of prior experience, structured software exercises, chapter-by-chapter results, honest error tracking, and technical reflection demonstrates active development in critical listening, DSP and audio-system evaluation, and automotive-audio tuning.
+The combination of prior experience, structured objective listening exercises, chapter-by-chapter results, honest error tracking, and technical reflection demonstrates active development in critical listening, DSP and audio-system evaluation, and automotive-audio tuning.
 
 Review the [prior experience record](PRIOR_EXPERIENCE.md), [chapter evidence](chapters/), [progress dashboard](PROGRESS.md), [session logs](logs/), [technical listening library](LIBRARY.md), [automotive development work](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study), and [main Technical Audio Engineering Portfolio](https://github.com/kevinworleymusic-afk/engineering-development-portfolio).
 
