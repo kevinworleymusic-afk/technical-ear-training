@@ -15,13 +15,64 @@ Software, portfolio, and capture/reproduction work from July 18–25 remains in 
 
 ## July 2026
 
-| **Mon** | **Tue** | **Wed** | **Thu** | **Fri** | **Sat** | **Sun** |
-|---|---|---|---|---|---|---|
-| — | — | **1** | **2** | **3** | **4** | **5** |
-| **6** | **7** | **8** | **9** | **10** | **11** | **12** |
-| **13** | **14** | **15** | **16** | **17** | **18** | **19** |
-| **20** | **21** | **22** | **23** | **24** | **25** | [**26**](https://github.com/kevinworleymusic-afk/technical-ear-training/commit/eeada61c4cc3681726648613069fd563b90bb3aa)<br>[🟦 **LISTEN**](./)<br>✓ Initialized ear-training repo<br>[Chapters](../chapters/) |
-| [**27**](../logs/03-daily/2026-W31/2026-07-27_session-01.md)<br>[🟦 **LISTEN**](./)<br>✓ Ran baseline + Session 1<br>[Session](../logs/03-daily/2026-W31/2026-07-27_session-01.md) · [EQ](../chapters/chapter-02-equalization/) · [Distortion](../chapters/chapter-05-distortion/) | [**28**](../logs/02-weekly/2026-07-27_weekly-plan.md)<br>[🟦 **LISTEN**](./)<br>✓ Developed listening procedures<br>[Weekly record](../logs/02-weekly/2026-07-27_weekly-plan.md) | [**29**](https://github.com/kevinworleymusic-afk/technical-ear-training/commit/59470940fc4ab99f65c5c7a8969b57216360b3cb)<br>[🟦 **LISTEN**](./)<br>✓ Refined training evidence<br>[Chapters](../chapters/) · [Exercises](../exercises/) | [**30**](../logs/03-daily/2026-W31/2026-07-30_session-02.md)<br>[🟦 **LISTEN**](./)<br>✓ Ran Session 2 + built warmup system<br>[Session](../logs/03-daily/2026-W31/2026-07-30_session-02.md) · [Warmup](../templates/03-daily/DAILY_WARMUP_PROGRESSION.md) · [Weekly plan](../templates/02-weekly/WEEKLY_LESSON_PLAN.md) | **31**<br>[🟦 **LISTEN**](./)<br>↪ Session moved to Saturday | — | — |
+> **Calendar view:** Open the full-month overview for a concise scan, or expand only the week you want to inspect. Dates without category-specific activity are intentionally omitted from the detailed weekly tables.
+
+<details open>
+<summary><strong>Full July overview</strong></summary>
+
+| Period | Category activity |
+|---|---|
+| **July 1–5** | No category-specific entry recorded. |
+| **July 6–12** | No category-specific entry recorded. |
+| **July 13–19** | No category-specific entry recorded. |
+| **July 20–26** | ✓ Initialized ear-training repo; Chapters |
+| **July 27–31** | ✓ Ran baseline + Session 1; Session · EQ · Distortion; ✓ Developed listening procedures; Weekly record; ✓ Refined training evidence; Chapters · Exercises; ✓ Ran Session 2 + built warmup system; Session · Warmup · Weekly plan; ↪ Session m… |
+
+</details>
+
+<details>
+<summary><strong>July 1–5</strong> — no category-specific entry</summary>
+
+No category-specific activity is assigned to this week in this mini calendar.
+
+</details>
+
+<details>
+<summary><strong>July 6–12</strong> — no category-specific entry</summary>
+
+No category-specific activity is assigned to this week in this mini calendar.
+
+</details>
+
+<details>
+<summary><strong>July 13–19</strong> — no category-specific entry</summary>
+
+No category-specific activity is assigned to this week in this mini calendar.
+
+</details>
+
+<details>
+<summary><strong>July 20–26</strong> — 1 recorded date</summary>
+
+| Date | Detailed category record |
+|---|---|
+| **July 26** | [🟦 **LISTEN**](./)<br>✓ Initialized ear-training repo<br>[Chapters](../chapters/) |
+
+</details>
+
+<details>
+<summary><strong>July 27–31</strong> — 5 recorded dates</summary>
+
+| Date | Detailed category record |
+|---|---|
+| **July 27** | [🟦 **LISTEN**](./)<br>✓ Ran baseline + Session 1<br>[Session](../logs/03-daily/2026-W31/2026-07-27_session-01.md) · [EQ](../chapters/chapter-02-equalization/) · [Distortion](../chapters/chapter-05-distortion/) |
+| **July 28** | [🟦 **LISTEN**](./)<br>✓ Developed listening procedures<br>[Weekly record](../logs/02-weekly/2026-07-27_weekly-plan.md) |
+| **July 29** | [🟦 **LISTEN**](./)<br>✓ Refined training evidence<br>[Chapters](../chapters/) · [Exercises](../exercises/) |
+| **July 30** | [🟦 **LISTEN**](./)<br>✓ Ran Session 2 + built warmup system<br>[Session](../logs/03-daily/2026-W31/2026-07-30_session-02.md) · [Warmup](../templates/03-daily/DAILY_WARMUP_PROGRESSION.md) · [Weekly plan](../templates/02-weekly/WEEKLY_LESSON_PLAN.md) |
+| **July 31** | [🟦 **LISTEN**](./)<br>↪ Session moved to Saturday |
+
+</details>
+
 
 ### Month Objective
 
@@ -42,14 +93,78 @@ Software, portfolio, and capture/reproduction work from July 18–25 remains in 
 
 ## August 2026
 
-| **Mon** | **Tue** | **Wed** | **Thu** | **Fri** | **Sat** | **Sun** |
-|---|---|---|---|---|---|---|
-| — | — | — | — | — | **1**<br>[🟦 **LISTEN**](./)<br>↪ Listening setup moved to Sunday | [**2**](../logs/03-daily/2026-W31/2026-08-02_session-04.md)<br>[🟦 **LISTEN**](./)<br>✓ Procedure setup + 1,142-trial EQ session<br>[Session record](../logs/03-daily/2026-W31/2026-08-02_session-04.md) · [Chapters](../chapters/) · [Warmup template](../templates/03-daily/DAILY_WARMUP_PROGRESSION.md) |
-| [**3**](../logs/03-daily/2026-W32/2026-08-03_sean-olive-keynote-study.md)<br>[🟦 **LISTEN**](./)<br>✓ Studied private Sean Olive keynote materials<br>[Study record](../logs/03-daily/2026-W32/2026-08-03_sean-olive-keynote-study.md) | [**4**](../logs/03-daily/2026-W32/2026-08-04_song-eq-practice.md)<br>[🟦 **LISTEN**](./)<br>↪ Song-EQ plan moved to Aug. 5 | [**5**](../logs/03-daily/2026-W32/2026-08-05_fine-resolution-pink-noise-eq.md)<br>[🟦 **LISTEN**](./)<br>✓ 1,616-trial EQ session<br>✓ One-third-octave pink noise + *Fast Car* transfer<br>✓ Downloaded all 7 reference tracks<br>[Session](../logs/03-daily/2026-W32/2026-08-05_fine-resolution-pink-noise-eq.md) · [Library](../LIBRARY.md#local-reference-track-access) | [**6**](../logs/01-monthly/2026-08.md)<br>[🟦 **LISTEN**](./)<br>◇ *Fiesta Linda* — Open Hands feat. Abraham Laboriel | [**7**](../logs/01-monthly/2026-08.md)<br>[🟦 **LISTEN**](./)<br>◇ *Fast Car* — Tracy Chapman | [**8**](../logs/01-monthly/2026-08.md)<br>[🟦 **LISTEN**](./)<br>◇ *Morph the Cat* — Donald Fagen | [**9**](../logs/01-monthly/2026-08.md)<br>[🟦 **LISTEN**](./)<br>◇ *Bird on a Wire* — Jennifer Warnes |
-| [**10**](../logs/01-monthly/2026-08.md) | [**11**](../logs/01-monthly/2026-08.md) | [**12**](../logs/01-monthly/2026-08.md) | [**13**](../logs/01-monthly/2026-08.md) | [**14**](#august-14-15-listening-method-development)<br>[🟦 **LISTEN**](./)<br>✓ Documented EQ benchmark progression<br>✓ Planned adaptive difficulty + song transfer | [**15**](#august-14-15-listening-method-development)<br>[🟦 **LISTEN**](./)<br>✓ Analyzed Kassier et al./Harman paper<br>✓ Built + tested subjective-evaluation workflow | [**16**](../logs/01-monthly/2026-08.md) |
-| [**17**](../logs/01-monthly/2026-08.md) | [**18**](../logs/01-monthly/2026-08.md) | [**19**](../logs/01-monthly/2026-08.md) | [**20**](../logs/01-monthly/2026-08.md) | [**21**](../logs/01-monthly/2026-08.md) | [**22**](../logs/01-monthly/2026-08.md) | [**23**](../logs/01-monthly/2026-08.md) |
-| [**24**](../logs/01-monthly/2026-08.md) | [**25**](../logs/01-monthly/2026-08.md) | [**26**](../logs/01-monthly/2026-08.md) | [**27**](../logs/01-monthly/2026-08.md) | [**28**](../logs/01-monthly/2026-08.md) | [**29**](../logs/01-monthly/2026-08.md) | [**30**](../logs/01-monthly/2026-08.md) |
-| [**31**](../logs/01-monthly/2026-08.md) | — | — | — | — | — | — |
+> **Calendar view:** Open the full-month overview for a concise scan, or expand only the week you want to inspect. Dates without category-specific activity are intentionally omitted from the detailed weekly tables.
+
+<details open>
+<summary><strong>Full August overview</strong></summary>
+
+| Period | Category activity |
+|---|---|
+| **August 1–2** | ↪ Listening setup moved to Sunday; ✓ Procedure setup + 1,142-trial EQ session; Session record · Chapters · Warmup template |
+| **August 3–9** | ✓ Studied private Sean Olive keynote materials; Study record; ↪ Song-EQ plan moved to Aug. 5; ✓ 1,616-trial EQ session; ✓ One-third-octave pink noise + Fast Car transfer; ✓ Downloaded all 7 reference tracks; Session · Library; ◇ Fiesta L… |
+| **August 10–16** | ✓ Documented EQ benchmark progression; ✓ Planned adaptive difficulty + song transfer; ✓ Analyzed Kassier et al./Harman paper; ✓ Built + tested subjective-evaluation workflow |
+| **August 17–23** | No category-specific entry recorded. |
+| **August 24–30** | No category-specific entry recorded. |
+| **August 31** | No category-specific entry recorded. |
+
+</details>
+
+<details>
+<summary><strong>August 1–2</strong> — 2 recorded dates</summary>
+
+| Date | Detailed category record |
+|---|---|
+| **August 1** | [🟦 **LISTEN**](./)<br>↪ Listening setup moved to Sunday |
+| **August 2** | [🟦 **LISTEN**](./)<br>✓ Procedure setup + 1,142-trial EQ session<br>[Session record](../logs/03-daily/2026-W31/2026-08-02_session-04.md) · [Chapters](../chapters/) · [Warmup template](../templates/03-daily/DAILY_WARMUP_PROGRESSION.md) |
+
+</details>
+
+<details>
+<summary><strong>August 3–9</strong> — 7 recorded dates</summary>
+
+| Date | Detailed category record |
+|---|---|
+| **August 3** | [🟦 **LISTEN**](./)<br>✓ Studied private Sean Olive keynote materials<br>[Study record](../logs/03-daily/2026-W32/2026-08-03_sean-olive-keynote-study.md) |
+| **August 4** | [🟦 **LISTEN**](./)<br>↪ Song-EQ plan moved to Aug. 5 |
+| **August 5** | [🟦 **LISTEN**](./)<br>✓ 1,616-trial EQ session<br>✓ One-third-octave pink noise + *Fast Car* transfer<br>✓ Downloaded all 7 reference tracks<br>[Session](../logs/03-daily/2026-W32/2026-08-05_fine-resolution-pink-noise-eq.md) · [Library](../LIBRARY.md#local-reference-track-access) |
+| **August 6** | [🟦 **LISTEN**](./)<br>◇ *Fiesta Linda* — Open Hands feat. Abraham Laboriel |
+| **August 7** | [🟦 **LISTEN**](./)<br>◇ *Fast Car* — Tracy Chapman |
+| **August 8** | [🟦 **LISTEN**](./)<br>◇ *Morph the Cat* — Donald Fagen |
+| **August 9** | [🟦 **LISTEN**](./)<br>◇ *Bird on a Wire* — Jennifer Warnes |
+
+</details>
+
+<details>
+<summary><strong>August 10–16</strong> — 2 recorded dates</summary>
+
+| Date | Detailed category record |
+|---|---|
+| **August 14** | [🟦 **LISTEN**](./)<br>✓ Documented EQ benchmark progression<br>✓ Planned adaptive difficulty + song transfer |
+| **August 15** | [🟦 **LISTEN**](./)<br>✓ Analyzed Kassier et al./Harman paper<br>✓ Built + tested subjective-evaluation workflow |
+
+</details>
+
+<details>
+<summary><strong>August 17–23</strong> — no category-specific entry</summary>
+
+No category-specific activity is assigned to this week in this mini calendar.
+
+</details>
+
+<details>
+<summary><strong>August 24–30</strong> — no category-specific entry</summary>
+
+No category-specific activity is assigned to this week in this mini calendar.
+
+</details>
+
+<details>
+<summary><strong>August 31</strong> — no category-specific entry</summary>
+
+No category-specific activity is assigned to this week in this mini calendar.
+
+</details>
+
 
 
 ### August 14–15 Listening-Method Development
