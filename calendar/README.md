@@ -1,14 +1,14 @@
-# Critical-Listening Calendar
+# Objective Listening Practice Calendar
 
 [July 2026](#july-2026) · [August 2026](#august-2026) · [Master engineering calendar](https://github.com/kevinworleymusic-afk/engineering-development-portfolio/tree/main/Development-Calendar)
 
-[🟦 **Critical Listening**](./) · **Status:** ✓ **Recorded** · ◇ **Planned**
+[🟦 **Objective Listening Practice**](./) · **Status:** ✓ **Recorded** · ◇ **Planned**
 
 Each cell uses the same category marker, status notation, compact description, and linked evidence pattern as the master calendar.
 
 Repository and document additions use the date of the first relevant GitHub commit. Sessions, calls, and outreach use their recorded real-world dates. Entries describing multi-day strategy or procedure development are period-level records and do not imply that a particular file was created that day.
 
-Software, portfolio, and capture/reproduction work from July 18–25 remains in the master engineering calendar; it is not classified here as Critical Listening practice.
+This calendar tracks scored identification, matching, and related **objective listening practice** within the broader Critical Listening category. The separate Subjective Listening Evaluation System remains documented in the engineering portfolio. Software, portfolio, and capture/reproduction work from July 18–25 remains in the master engineering calendar; it is not classified here as objective listening practice.
 
 <details>
 <summary><strong>July 2026 — Critical Listening System Development</strong></summary>
@@ -102,7 +102,7 @@ No category-specific activity is assigned to this week in this mini calendar.
 |---|---|
 | **August 1–2** | ↪ Listening setup moved to Sunday; ✓ Procedure setup + 1,142-trial EQ session; Session record · Chapters · Warmup template |
 | **August 3–9** | ✓ Studied private Sean Olive keynote materials; Study record; ↪ Song-EQ plan moved to Aug. 5; ✓ 1,616-trial EQ session; ✓ One-third-octave pink noise + Fast Car transfer; ✓ Downloaded all 7 reference tracks; Session · Library; ◇ Fiesta L… |
-| **August 10–16** | ✓ Documented EQ benchmark progression; ✓ Planned adaptive difficulty + song transfer; ✓ Analyzed Kassier et al./Harman paper; ✓ Built + tested subjective-evaluation workflow |
+| **August 10–16** | ✓ Documented objective EQ benchmark progression; ✓ Planned adaptive difficulty + song transfer; ✓ Analyzed Kassier et al./Harman paper; ✓ Built + tested subjective-evaluation workflow |
 | **August 17–23** | No category-specific entry recorded. |
 | **August 24–30** | No category-specific entry recorded. |
 | **August 31** | No category-specific entry recorded. |
@@ -139,7 +139,7 @@ No category-specific activity is assigned to this week in this mini calendar.
 
 | Date | Detailed category record |
 |---|---|
-| **August 14** | [🟦 **LISTEN**](./)<br>✓ Documented EQ benchmark progression<br>✓ Planned adaptive difficulty + song transfer |
+| **August 14** | [🟦 **LISTEN**](./)<br>✓ Documented objective EQ benchmark progression<br>✓ Planned adaptive difficulty + song transfer |
 | **August 15** | [🟦 **LISTEN**](./)<br>✓ Analyzed Kassier et al./Harman paper<br>✓ Built + tested subjective-evaluation workflow |
 
 </details>
@@ -171,7 +171,7 @@ No category-specific activity is assigned to this week in this mini calendar.
 
 **August 14:** Recorded the current James Corey multi-band EQ benchmark: three simultaneous +3 dB boosts on pink noise were being identified at nearly 100% accuracy reliably, while three simultaneous -3 dB cuts were approximately 90% accurate. Completed the planning step for the next progression—adaptive difficulty and transfer of multi-band work to music. This records the progression plan, not completed adaptive-difficulty implementation.
 
-**August 15:** Analyzed Kassier et al., *A Practical Method for Routine in situ Evaluation of Sound Quality in Vehicle Audio Systems*, presented at the AES 2026 International Conference on Automotive Audio. Adapted selected concepts into a working three-excerpt subjective-listening workflow that remains distinct from frequency-identification practice. The Google Form records spectral, spatial, dynamics, integrity, and overall ratings plus descriptors, confidence, listening context, observations, musical evidence, technical hypotheses, and verification notes. The private analysis spreadsheet calculates session and song-level results, paper-based and four-attribute composites, listener-versus-calculated gaps, and test-row exclusions. A decimal-valued test submission verified the calculation flow. A hidden Sample Answer Key supports manual entry now and planned listening-app CSV export using anonymous Sample IDs later. A static public spreadsheet copy was created for portfolio demonstration; the live response system remains private.
+**August 15:** Analyzed Kassier et al., *A Practical Method for Routine in situ Evaluation of Sound Quality in Vehicle Audio Systems*, presented at the AES 2026 International Conference on Automotive Audio. Adapted selected concepts into a working three-excerpt subjective-listening workflow that remains distinct from the objective frequency-identification practice documented in this repository. The Google Form records spectral, spatial, dynamics, integrity, and overall ratings plus descriptors, confidence, listening context, observations, musical evidence, technical hypotheses, and verification notes. The private analysis spreadsheet calculates session and song-level results, paper-based and four-attribute composites, listener-versus-calculated gaps, and test-row exclusions. A decimal-valued test submission verified the calculation flow. A hidden Sample Answer Key supports manual entry now and planned listening-app CSV export using anonymous Sample IDs later. A static public spreadsheet copy was created for portfolio demonstration; the live response system remains private.
 
 
 ### Month Objective
