@@ -1,6 +1,6 @@
-# Technical Ear Training Progress
+# Objective Listening Practice Progress
 
-This dashboard summarizes cumulative measurable progress through the available software chapters. For a shorter reviewer-facing view, open the [Critical-Listening Results Summary](LISTENING_RESULTS_SUMMARY.md). Session-specific scores, exercise order, settings, and observations belong in the dated files under `logs/`.
+This dashboard summarizes cumulative measurable **objective listening practice** through software-based identification and matching chapters with defined answers. For a shorter reviewer-facing view, open the [Critical-Listening Results Summary](LISTENING_RESULTS_SUMMARY.md). Session-specific scores, exercise order, settings, and observations belong in the dated files under `logs/`.
 
 ## Chapter Dashboard
 
@@ -25,7 +25,7 @@ This dashboard summarizes cumulative measurable progress through the available s
 
 These are current SoundGym game levels, not Corey-software trial counts or accuracy percentages. They supplement the public SPI and Diamond Ears record while remaining separate from the continuation-phase totals below.
 
-## Practice Totals
+## Objective Practice Totals
 
 - **Total completed sessions:** 4
 - **Total documented trials:** at least 3,491, including one approximately reported 100-trial exercise
